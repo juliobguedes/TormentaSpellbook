@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Âncora Planar"
-date:   2016-11-13
-source: Manual Básico.161
-tags: [level6, bardo, feiticeiro, mago, invocacao, minutos, metros, espirito, instantanea, vontade, anula]
----
+**Titulo**:Âncora Planar
 
 **Invocação de Nível 6**
 

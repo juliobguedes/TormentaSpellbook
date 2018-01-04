@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arma Vampírica"
-date:   2016-11-17
-source: Manual do Arcano. 84
-tags: [level4, bardo, feiticeiro, mago, necromancia, padrao, toque, arma, minuto, nenhum]
----
+**Titulo**:Arma Vampírica
 
 **Abjuração de nível 4**
 

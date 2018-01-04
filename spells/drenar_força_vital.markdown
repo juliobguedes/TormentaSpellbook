@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Drenar Força Vital"
-date:   2016-11-09
-source: Manual Básico.179
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, necromancia, padrao, toque, alvo, instantanea, dia, vontade, anula]
----
+**Titulo**:Drenar Força Vital
 
 **Necromancia de Nível 2**
 

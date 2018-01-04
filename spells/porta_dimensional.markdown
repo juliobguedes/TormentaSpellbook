@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Porta Dimensional"
-date:   2016-11-11
-source: Manual Básico.202
-tags: [level4, bardo, feiticeiro, mago, invocacao, padrao, metros, voce, criatura, instantanea, nenhum]
----
+**Titulo**:Porta Dimensional
 
 **Invocação de Nível 4**
 

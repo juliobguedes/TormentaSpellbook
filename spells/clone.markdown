@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Clone"
-date:   2016-11-15
-source: Manual Básico.169
-tags: [level8, feiticeiro, mago, necromancia, minuto, metros, outro, instantanea, nenhum, componente]
----
+**Titulo**:Clone
 
 **Necromancia de Nível 8**
 

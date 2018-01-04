@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Visão"
-date:   2016-11-15
-source: Manual Básico.218
-tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao,  padrao, dia, custo, nenhum]
----
+**Titulo**:Visão
 
 **Adivinhação de Nível 7**
 

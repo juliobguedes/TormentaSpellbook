@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Detectar Venenos"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, metros, alvo, objeto, concentracao, nenhum]
----
+**Titulo**:Detectar Venenos
 
 **Adivinhação de Nível 0**
 

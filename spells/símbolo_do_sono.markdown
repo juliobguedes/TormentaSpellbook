@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo do Sono"
-date:   2016-11-13
-source: Manual Básico.212
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, encantamento, minuto, toque, outro, permanente, descarregar, fortitude, anula, componente]
----
+**Titulo**:Símbolo do Sono
 
 **Encantamento de Nível 5**
 

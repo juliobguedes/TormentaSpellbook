@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Contatar Mestre"
-date:   2016-11-17
-source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, adivinhacao, minuto, pessoal, alvo, nenhum]
----
+**Titulo**:Contatar Mestre
 
 **Abjuração/Essência de nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo do Medo"
-date:   2016-11-13
-source: Manual Básico.212
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, medo, necromancia, minuto, toque, permanente, descarregar, hora, vontade, anula, componente]
----
+**Titulo**:Símbolo do Medo
 
 **Medo/Necromancia de Nível 6**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo da Persuasão"
-date:   2016-11-13
-source: Manual Básico.212
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, encantamento, minuto, toque, outro, permanente, descarregar, fortitude, anula, componente]
----
+**Titulo**:Símbolo da Persuasão
 
 **Encantamento de Nível 6**
 

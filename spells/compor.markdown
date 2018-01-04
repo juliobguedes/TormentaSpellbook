@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Compor"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level5, bardo,  feiticeiro, mago, transmutaca, completa, metros, objeto, instantanea, nenhum, componente]
----
+**Titulo**:Compor
 
 **Transmutação de Nível 5**
 

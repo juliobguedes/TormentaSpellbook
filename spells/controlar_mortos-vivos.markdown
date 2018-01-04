@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Controlar Mortos-Vivos"
-date:   2016-11-15
-source: Manual Básico.172
-tags: [level7, feiticeiro, mago, necromancia, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Controlar Mortos-Vivos
 
 **Necromancia de Nível 7**
 

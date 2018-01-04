@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imbuir Cura Acelerada"
-date:   2016-11-17
-source: Manual do Devoto. 85
-tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, cura, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Imbuir Cura Acelerada
 
 **Cura de nível 2**
 

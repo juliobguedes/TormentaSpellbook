@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Carne para Pedra"
-date:   2016-11-13
-source: Manual Básico.168
-tags: [level6, bardo, feiticeiro, mago, transmutacao,  padrao, metros, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Carne para Pedra
 
 **Transmutação de Nível 6**
 

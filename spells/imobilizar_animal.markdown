@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imobilizar Animal"
-date:   2016-11-09
-source: Manual Básico.186
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, encantamento, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Imobilizar Animal
 
 **Encantamento de Nível 2**
 

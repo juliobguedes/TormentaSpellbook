@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Envelhecer"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level5, bardo, feiticeiro, mago, tempo, padrao, metros, criatura, permanente, fortitude, parcial]
----
+**Titulo**:Envelhecer
 
 **Tempo de nível 5**
 

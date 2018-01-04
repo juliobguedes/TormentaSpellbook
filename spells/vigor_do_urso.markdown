@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vigor do Urso"
-date:   2016-11-09
-source: Manual Básico.218
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Vigor do Urso
 
 **Transmutação de Nível 2**
 

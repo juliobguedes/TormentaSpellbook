@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mão Esmagadora de Talude"
-date:   2016-11-16
-source: Manual Básico.191
-tags: [level9,  feiticeiro, mago, essencia,  padrao, metros, outro, minuto, nenhum]
----
+**Titulo**:Mão Esmagadora de Talude
 
 **Essência de Nível 9**
 

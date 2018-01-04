@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Selo da Serpente Sépia"
-date:   2016-11-10
-source: Manual Básico.211
-tags: [level3, bardo, feiticeiro, mago, abjuracao, toque, objeto, minutos, permanente, descarregar, reflexos, anula, componente]
----
+**Titulo**:Selo da Serpente Sépia
 
 **Transmutação de Nível 3**
 

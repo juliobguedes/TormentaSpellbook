@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Modificar Memória"
-date:   2016-11-08
-source: Manual Básico.195
-tags: [level5, bardo, feiticeiro, mago, encantamento, minuto, toque, criatura, permanente, vontade, anula]
----
+**Titulo**:Modificar Memória
 
 **Encantamento de Nível 5**
 

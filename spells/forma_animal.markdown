@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Forma Animal"
-date:   2016-11-15
-source: Manual Básico.184
-tags: [level8, clerigo, abencoado, druida, transmutacao, padrao, metros, criatura, dia, nenhum]
----
+**Titulo**:Forma Animal
 
 **Transmutação de Nível 8**
 

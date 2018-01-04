@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Queda Suave"
-date:   2016-11-08
-source: Manual Básico.205
-tags: [level1, bardo, feiticeiro, mago, transmutacao, reacao, metros, alvo, minuto, nenhum]
----
+**Titulo**:Queda Suave
 
 **Transmutação de Nível 1**
 

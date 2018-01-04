@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cão Fiel"
-date:   2016-11-08
-source: Manual Básico.168
-tags: [level5, bardo, feiticeiro, mago, invocacao, padrao, metros, outro, permanente, descarregar, minuto, nenhum, componente]
----
+**Titulo**:Cão Fiel
 
 **Invocação de Nível 5**
 

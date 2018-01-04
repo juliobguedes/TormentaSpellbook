@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ver o Invisível"
-date:   2016-11-09
-source: Manual Básico.217
-tags: [level2, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce, hora, nenhum]
----
+**Titulo**:Ver o Invisível
 
 **Adivinhação de Nível 2**
 

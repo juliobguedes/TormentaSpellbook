@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Conjuração de Sombras"
-date:   2016-11-11
-source: Manual Básico. 171
-tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, Vontade, parcial]
----
+**Titulo**:Conjuração de Sombras
 
 **Ilusão de Nível 4**
 

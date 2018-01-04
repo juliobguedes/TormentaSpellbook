@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Loquacidade"
-date:   2016-11-10
-source: Manual Básico.191
-tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minutos, nenhum]
----
+**Titulo**:Loquacidade
 
 **Transmutação de Nível 3**
 

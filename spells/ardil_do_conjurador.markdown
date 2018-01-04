@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ardil do Conjurador"
-date:   2016-11-17
-source: Manual do Arcano. 68
-tags: [level4, bardo, feiticeiro, mago, abjuracao, essencia, padrao, metros, criatura, minuto, nenhum, dano]
----
+**Titulo**:Ardil do Conjurador
 
 **Abjuração/Essência de nível 4**
 

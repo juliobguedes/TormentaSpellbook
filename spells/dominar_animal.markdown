@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dominar Animal"
-date:   2016-11-10
-source: Manual Básico.179
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, encantamento, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Dominar Animal
 
 **Encantamento de Nível 3**
 

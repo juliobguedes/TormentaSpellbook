@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Celebração de Marah(Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 93
-tags: [level9, clerigo, abencoado, druida, encantamento, marah, padrao, metros, circulo, instatanea, vontade, parcial, absoluta]
----
+**Titulo**:Celebração de Marah(Absoluta)
 
 **Encantamento de 9 (Absoluta)**
 

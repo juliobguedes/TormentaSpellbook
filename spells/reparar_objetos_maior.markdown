@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reparar Objetos Maior"
-date:   2016-11-17
-source: Manual do Arcano. 83
-tags: [level7, feiticeiro, mago, transmutacao, padrao, toque, objeto, instantanea, nenhum]
----
+**Titulo**:Reparar Objetos Maior
 
 **Transmutação de nível 7**
 

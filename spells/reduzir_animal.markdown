@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reduzir Animal"
-date:   2016-11-09
-source: Manual Básico.206
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, metros, alvo, hora, nenhum]
----
+**Titulo**:Reduzir Animal
 
 **Transmutação de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Traição Magica"
-date:   2016-11-17
-source: Manual do Arcano. 85
-tags: [level3, bardo, feiticeiro, mago, caos, essencia, padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Traição Magica
 
 **Caos/Essência de nível 3**
 

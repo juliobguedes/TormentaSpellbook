@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Luz"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, clerigo, abencoado, druida,  feiticeiro, mago, luz, padrao, toque, alvo, hora, nenhum]
----
+**Titulo**:Luz
 
 **Luz de Nível 0**
 

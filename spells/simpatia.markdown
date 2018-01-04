@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Simpatia"
-date:   2016-11-16
-source: Manual Básico.213
-tags: [level8,level9, clerigo, abencoado, druida, feiticeiro, mago, encantamento,  hora, metros, objeto, cubo, dia, vontade, parcial]
----
+**Titulo**:Simpatia
 
 **Arcana 8/ Divina 9**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Âncora Gravitacional"
-date:   2016-11-10
-source: Mundo dos Deuses. 147
-tags: [level2, bardo, mago, feiticeiro,  essencia, terra, padrao, metros, criatura, minuto, fortitude, anula]
----
+**Titulo**:Âncora Gravitacional
 
 **Essência/Terra de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dedo da Morte"
-date:   2016-11-15
-source: Manual Básico.175
-tags: [level7, feiticeiro, mago, necromancia, padrao, metros, criatura, instantanea, fortitude, parcial, dano]
----
+**Titulo**:Dedo da Morte
 
 **Necromancia de Nível 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cativar"
-date:   2016-11-09
-source: Manual Básico.168
-tags: [level2, bardo, feiticeiro, mago, encantamento, completa, metros, alvo, concentracao, hora, vontade, anula]
----
+**Titulo**:Cativar
 
 **Encantamento de Nível 2**
 

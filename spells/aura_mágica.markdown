@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aura Mágica"
-date:   2016-11-08
-source: Manual Básico.165
-tags: [level1, bardo, feiticeiro, mago, ilusao, padrao, toque, objeto, dia, vontade, nenhum]
----
+**Titulo**:Aura Mágica
 
 **Ilusão de Nível 1**
 

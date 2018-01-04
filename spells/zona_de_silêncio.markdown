@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Zona de Silêncio"
-date:   2016-11-11
-source: Manual Básico.219
-tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, pessoal, voce, hora]
----
+**Titulo**:Zona de Silêncio
 
 **Ilusão de Nível 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Olho Arcano"
-date:   2016-11-11
-source: Manual Básico.198
-tags: [level4, bardo,  feiticeiro, mago, adivinhacao, minuto, metros, outro, minuto, nenhum]
----
+**Titulo**:Olho Arcano
 
 **Adivinhação de Nível 4**
 

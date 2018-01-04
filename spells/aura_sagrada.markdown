@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aura Sagrada"
-date:   2016-11-15
-source: Manual Básico.165
-tags: [level8, clerigo, abencoado, druida, bem, padrao, metros, criatura, minuto]
----
+**Titulo**:Aura Sagrada
 
 **Bem de Nível 8**
 

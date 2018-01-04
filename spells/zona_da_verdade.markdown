@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Zona da Verdade"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, metros, emanacao, metros, minutos, vontade, anula]
----
+**Titulo**:Zona da Verdade
 
 **Encantamento de Nível 2**
 

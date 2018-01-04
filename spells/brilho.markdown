@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Brilho"
-date:   2016-11-07
-source: Manual Básico.167
-tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, luz, padrao, metros, alvo, minuto, fortitude, anula]
----
+**Titulo**:Brilho
 
 **Luz de Nível 0**
 

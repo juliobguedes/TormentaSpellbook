@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Bola de Fogo"
-date:   2016-11-10
-source: Manual Básico.166
-tags: [level3, bardo, feiticeiro, mago, fogo, padrao, metros, explosao, instantanea, reflexos, metade, dano]
----
+**Titulo**:Bola de Fogo
 
 **Fogo de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Coluna de Chamas"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level5, bardo, clerigo, abencoado, druida, fogo, padrao, metros, cilintro, instantanea, reflexos, metade, dano]
----
+**Titulo**:Coluna de Chamas
 
 **Fogo de Nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Martelo do Caos"
-date:   2016-11-11
-source: Manual Básico. 193
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, caos, padrao, metros, explosao, instantanea, fortitude, parcial, dano]
----
+**Titulo**:Martelo do Caos
 
 **Caos de Nível 4**
 

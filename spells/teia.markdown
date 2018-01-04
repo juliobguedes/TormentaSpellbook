@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Teia"
-date:   2016-11-09
-source: Manual Básico.214
-tags: [level2, bardo, feiticeiro, mago, terra, padrao, metros, outro, hora, reflexo, anula]
----
+**Titulo**:Teia
 
 **Terra de Nível 2**
 

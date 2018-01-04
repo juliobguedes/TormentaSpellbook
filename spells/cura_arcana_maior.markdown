@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cura Arcana Maior"
-date:   2016-11-17
-source: Manual do Devoto. 72
-tags: [level8, feiticeiro, mago, tempo, padrao, toque, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Cura Arcana Maior
 
 **Tempo de nível 8**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Antipatia"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level8, level9, clerigo, abencoado, druida, feiticeiro, mago, encantamento,  hora, metros, objeto, cubo, dia, vontade, parcial]
----
+**Titulo**:Antipatia
 
 **Arcana 8/ Divina 9**
 

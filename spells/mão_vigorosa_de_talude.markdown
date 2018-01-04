@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mão Vigorosa de Talude"
-date:   2016-11-13
-source: Manual Básico. 192
-tags: [level6, bardo,  feiticeiro, mago, essencia,  padrao, metros, minuto, nenhum]
----
+**Titulo**:Mão Vigorosa de Talude
 
 **Essência de Nível 6**
 

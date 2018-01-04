@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sementes de Fogo"
-date:   2016-11-13
-source: Manual Básico.211
-tags: [level6, bardo, clerigo, abencoado, druida, fogo, padrao, toque, objeto, hora, descarregar, reflexo, metade, componente, dano]
----
+**Titulo**:Sementes de Fogo
 
 **Fogo de Nível 6**
 

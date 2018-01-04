@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Nevasca"
-date:   2016-11-10
-source: Manual Básico.197
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, frio, padrao, metros, cilindro, minuto, nenhum]
----
+**Titulo**:Nevasca
 
 **Frio de Nível 3**
 

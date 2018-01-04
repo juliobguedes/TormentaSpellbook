@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Virtude"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, clerigo, abencoado, druida, transmutacao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Virtude
 
 **Transmutação de Nível 0**
 

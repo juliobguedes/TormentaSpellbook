@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Proteção Contra Raios"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level3, bardo, feiticeiro, mago, abjuracao, padrao, toque, criatura, hora, descarregar, nenhum]
----
+**Titulo**:Proteção Contra Raios
 
 **Abjuração de nível 3**
 

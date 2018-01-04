@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Restauração"
-date:   2016-11-11
-source: Manual Básico.209
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, cura, padrao, toque, criatura, instantanea, nenhum, componente]
----
+**Titulo**:Restauração
 
 **Cura de Nível 4**
 

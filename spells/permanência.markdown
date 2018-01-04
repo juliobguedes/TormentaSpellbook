@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Permanência"
-date:   2016-11-08
-source: Manual Básico.202
-tags: [level5, bardo, feiticeiro, mago, tempo, rodadas, permanente, nenhum, experiencia]
----
+**Titulo**:Permanência
 
 **Tempo de Nível 5**
 

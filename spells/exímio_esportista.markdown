@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Exímio Esportista"
-date:   2016-11-17
-source: Manual do Arcano. 77
-tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, toque, voce, hora, nenhum]
----
+**Titulo**:Exímio Esportista
 
 **Transmutação de nível 2**
 

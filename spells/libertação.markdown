@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Libertação"
-date:   2016-11-16
-source: Manual Básico.190
-tags: [level9,  feiticeiro, mago, abjuracao,  padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Libertação
 
 **Abjuração de Nível 9**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Muralha Prismática"
-date:   2016-11-15
-source: Manual Básico.197
-tags: [level8, feiticeiro, mago, abjuracao, padrao, metros, outro, hora]
----
+**Titulo**:Muralha Prismática
 
 **Abjuração de Nível 8**
 

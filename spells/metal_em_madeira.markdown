@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Metal em Madeira"
-date:   2016-11-15
-source: Manual Básico.193
-tags: [level7, clerigo, abencoado, druida, transmutacao, padrao, metros, explosao, instantanea, nenhum, vontade, anula]
----
+**Titulo**:Metal em Madeira
 
 **Essência de Nível 7**
 

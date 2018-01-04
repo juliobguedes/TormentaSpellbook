@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Transferência de Poder Divino"
-date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, minuto, toque, criatura, permanente, descarregar, nenhum]
----
+**Titulo**:Transferência de Poder Divino
 
 **Transmutação de Nível 4**
 

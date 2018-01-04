@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque Chocante Maior"
-date:   2016-11-17
-source: Manual do Arcano. 84
-tags: [level3, bardo, feiticeiro, mago, eletricidade, padrao, toque, criatura, instantanea, nenhum, dano]
----
+**Titulo**:Toque Chocante Maior
 
 **Eletricidade de nível 3**
 

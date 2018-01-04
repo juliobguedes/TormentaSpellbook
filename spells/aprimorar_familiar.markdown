@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aprimorar Familiar"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level1, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, hora, nenhum]
----
+**Titulo**:Aprimorar Familiar
 
 **Transmutação de nível 1**
 

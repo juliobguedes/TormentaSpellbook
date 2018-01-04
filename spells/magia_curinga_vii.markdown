@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Magia Curinga VII"
-date:   2016-11-17
-source: Manual do Devoto.88
-tags: [level7, clerigo, abencoado, druida,  wynna]
----
+**Titulo**:Magia Curinga VII
 
 ** Descritor igual a magia imitada de nível 7 **
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Forma Etérea"
-date:   2016-11-16
-source: Manual Básico.184
-tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, transmutacao,  padrao, toque, voce, criatura, minutos, nenhum]
----
+**Titulo**:Forma Etérea
 
 **Transmutação de Nível 9**
 

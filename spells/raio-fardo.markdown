@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio-Fardo"
-date:   2016-11-17
-source: Manual do Arcano. 85
-tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, minuto]
----
+**Titulo**:Raio-Fardo
 
 **Transmutação de nível 5**
 

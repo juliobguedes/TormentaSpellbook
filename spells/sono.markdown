@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sono"
-date:   2016-11-08
-source: Manual Básico.213
-tags: [level1, bardo, feiticeiro, mago, encantamento, padrao, metros, explosao, hora, vontade, anula]
----
+**Titulo**:Sono
 
 **Encantamento de Nível 1**
 

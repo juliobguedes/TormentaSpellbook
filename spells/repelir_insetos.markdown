@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Repelir Insetos"
-date:   2016-11-11
-source: Manual Básico.208
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, voce, minuto]
----
+**Titulo**:Repelir Insetos
 
 **Abjuração de Nível 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Analisar Encantamento"
-date:   2016-11-13
-source: Manual Básico.161
-tags: [level6, bardo, feiticeiro, mago, adivinhacao, padrao, metros, criatura, objeto, minuto, nenhum]
----
+**Titulo**:Analisar Encantamento
 
 **Necromancia de Nível 6**
 

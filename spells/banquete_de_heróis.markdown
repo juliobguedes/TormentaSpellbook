@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Banquete de Heróis"
-date:   2016-11-13
-source: Manual Básico.166
-tags: [level6, bardo, clerigo, abencoado, druida, agua,  minuto, metros, outro, hora, nenhum]
----
+**Titulo**:Banquete de Heróis
 
 **Água de Nível 6**
 

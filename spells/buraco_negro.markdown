@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Buraco Negro"
-date:   2016-11-16
-source: Manual Básico.219
-tags: [level9, clerigo, abencoado, druida,  minuto, metros, outro, rodadas, fortitude, parcial]
----
+**Titulo**:Buraco Negro
 
 **Buraco Negro de Nível 9**
 

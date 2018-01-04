@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Teletransporte Ilusório"
-date:   2016-11-17
-source: Manual do Arcano. 84
-tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, toque, criatura, hora, vontade, anula]
----
+**Titulo**:Teletransporte Ilusório
 
 **Ilusão de nível 4**
 

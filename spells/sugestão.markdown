@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sugestão"
-date:   2016-11-10
-source: Manual Básico.213
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, dia, vontade, anula]
----
+**Titulo**:Sugestão
 
 **Encantamento de Nível 3**
 

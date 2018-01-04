@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Remover Encantamento"
-date:   2016-11-08
-source: Manual Básico.208
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, cura, padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Remover Encantamento
 
 **Cura de Nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ditado"
-date:   2016-11-15
-source: Manual Básico.179
-tags: [level7, clerigo, abencoado, druida, ordem, sonico, padrao, metros, dispersao, vontade, anula]
----
+**Titulo**:Ditado
 
 **Ordem/Sônico de Nível 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Desejo"
-date:   2016-11-16
-source: Manual Básico.175
-tags: [level9, feiticeiro, mago, essencia,  padrao, nenhum, componente, experiencia]
----
+**Titulo**:Desejo
 
 **Essência de Nível 9**
 

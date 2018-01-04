@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Curar Ferimentos Leves"
-date:   2016-11-08
-source: Manual Básico.175
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, cura, padrao, toque, alvo, instantanea, nenhum]
----
+**Titulo**:Curar Ferimentos Leves
 
 **Cura de Nível 1**
 

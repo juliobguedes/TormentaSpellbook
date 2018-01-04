@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Medo"
-date:   2016-11-11
-source: Manual Básico. 193
-tags: [level4, bardo, feiticeiro, mago, medo, necromancia, padrao, metros, cone, minuto, rodada, vontade, parcial]
----
+**Titulo**:Medo
 
 **Medo/Necromancia de Nível 4**
 

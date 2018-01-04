@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imagem Programada"
-date:   2016-11-13
-source: Manual Básico.186
-tags: [level6, bardo,  feiticeiro, mago, ilusao,  padrao, metros, cubo, permanente, minuto, vontade, anula, componente]
----
+**Titulo**:Imagem Programada
 
 **Ilusão de Nível 6**
 

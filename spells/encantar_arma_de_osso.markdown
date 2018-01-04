@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Encantar Arma de Osso"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level5, bardo, feiticeiro, mago, necromancia, minuto, toque, objeto, permanente, nenhum]
----
+**Titulo**:Encantar Arma de Osso
 
 **Necromancia de nível 5**
 

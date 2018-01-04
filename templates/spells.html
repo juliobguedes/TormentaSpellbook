@@ -8,7 +8,7 @@
             <!-- Campo de Busca: nome da magia -->
             <div class="campo">
                 <div class="cell">Busca por nome:</div>
-                <input type="text" class="form-control cell" ng-model="spellName" placeholder="Nome da magia"/>
+                <input type="text" class="form-control cell" ng-model="spellName.name" placeholder="Nome da magia"/>
             </div>
             <!-- Campo de Busca: Arcana/Divina -->
             <div class="campo">
@@ -97,69 +97,69 @@
                             
         </div>
     
-        <div class="col-md-4 spellsField">
+        <div class="spellsField">
             
             <!-- Magias de nível 0 -->
             <p><a href="" ng-click="showHide('0')" class="spell">Nível 0</a></p>
-            <div ng-if="showZero" ng-repeat="spell in levelZero | orderBy:'name' | filter:spellName">
+            <div ng-if="showZero" ng-repeat="spell in levelZero | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
             <!-- Magias de nível 1 -->
             <p><a href="" ng-click="showHide('1')" class="spell">Nível 1</a></p>
-            <div ng-if="showOne"ng-repeat="spell in levelOne | orderBy:'name' | filter:spellName">
+            <div ng-if="showOne"ng-repeat="spell in levelOne | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
                 
             <!-- Magias de nível 2 -->
             <p><a href="" ng-click="showHide('2')" class="spell">Nível 2</a></p>
-            <div ng-if="showTwo"ng-repeat="spell in levelTwo | orderBy:'name' | filter:spellName">
+            <div ng-if="showTwo"ng-repeat="spell in levelTwo | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
                 
             <!-- Magias de nível 3 -->
             <p><a href="" ng-click="showHide('3')" class="spell">Nível 3</a></p>
-            <div ng-if="showThree"ng-repeat="spell in levelThree | orderBy:'name' | filter:spellName">
+            <div ng-if="showThree"ng-repeat="spell in levelThree | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
             <!-- Magias de nível 4 -->
             <p><a href="" ng-click="showHide('4')" class="spell">Nível 4</a></p>
-            <div ng-if="showFour" ng-repeat="spell in levelFour | orderBy:'name' | filter:spellName">
+            <div ng-if="showFour" ng-repeat="spell in levelFour | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
                 
             <!-- Magias de nível 5 -->
             <p><a href="" ng-click="showHide('5')" class="spell">Nível 5</a></p>
-            <div ng-if="showFive" ng-repeat="spell in levelFive | orderBy:'name' | filter:spellName">
+            <div ng-if="showFive" ng-repeat="spell in levelFive | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
                 
             <!-- Magias de nível 6 -->
             <p><a href="" ng-click="showHide('6')" class="spell">Nível 6</a></p>
-            <div ng-if="showSix" ng-repeat="spell in levelSix | orderBy:'name' | filter:spellName">
+            <div ng-if="showSix" ng-repeat="spell in levelSix | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
     
             <!-- Magias de nível 7 -->
             <p><a href="" ng-click="showHide('7')" class="spell">Nível 7</a></p>
-            <div ng-if="showSeven" ng-repeat="spell in levelSeven | orderBy:'name' | filter:spellName">
+            <div ng-if="showSeven" ng-repeat="spell in levelSeven | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
                 
             <!-- Magias de nível 8 -->
             <p><a href="" ng-click="showHide('8')" class="spell">Nível 8</a></p>
-            <div ng-if="showEight" ng-repeat="spell in levelEight | orderBy:'name' | filter:spellName">
+            <div ng-if="showEight" ng-repeat="spell in levelEight | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     
                 
             <!-- Magias de nível 9 -->
             <p><a href="" ng-click="showHide('9')" class="spell">Nível 9</a></p>
-            <div ng-if="showNine" ng-repeat="spell in levelNine | orderBy:'name' | filter:spellName">
+            <div ng-if="showNine" ng-repeat="spell in levelNine | orderBy:'name' | filter:spellName.name">
                 <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
             </div>
     

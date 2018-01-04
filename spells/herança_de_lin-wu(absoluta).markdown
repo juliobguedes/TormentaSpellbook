@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Herança de Lin-Wu(Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 92
-tags: [level9, clerigo, abencoado, druida, ordem, linwu, dia, pessoal, permanente, nenhum, absoluta]
----
+**Titulo**:Herança de Lin-Wu(Absoluta)
 
 **Ordem de 9 (Absoluta)**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque da Entropia"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level9, feiticeiro, mago, caos, necromancia, mal, padrao, toque, criatura, instantanea, fortitude, vontade, anula, parcial]
----
+**Titulo**:Toque da Entropia
 
 **Caos/Necromancia/Mal de nível 9**
 

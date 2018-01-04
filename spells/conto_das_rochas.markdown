@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Conto das Rochas"
-date:   2016-11-13
-source: Manual Básico.172
-tags: [level6, bardo, clerigo, abencoado, druida, adivinhacao,  minuto, pessoal, voce]
----
+**Titulo**:Conto das Rochas
 
 **Adivinhação de Nível 6**
 

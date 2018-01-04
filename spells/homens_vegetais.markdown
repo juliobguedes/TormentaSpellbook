@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Homens Vegetais"
-date:   2016-11-16
-source: Manual Básico.185
-tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, terra,  padrao, metros, outro, dias, meses, nenhum]
----
+**Titulo**:Homens Vegetais
 
 **Terra de Nível 9**
 

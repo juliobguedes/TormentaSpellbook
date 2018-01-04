@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Remover Doença"
-date:   2016-11-10
-source: Manual Básico.208
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, cura, padrao, toque, objeto, criatura, nenhum]
----
+**Titulo**:Remover Doença
 
 **Transmutação de Nível 3**
 

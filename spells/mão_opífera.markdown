@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mão Opífera"
-date:   2016-11-10
-source: Manual Básico.192
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, adivinhacao, padrao, quilometros, outro, hora, nenhum]
----
+**Titulo**:Mão Opífera
 
 **Adivinhação de Nível 3**
 

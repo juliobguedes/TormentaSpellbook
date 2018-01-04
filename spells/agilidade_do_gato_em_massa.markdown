@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Agilidade do Gato em Massa"
-date:   2016-11-13
-source: Manual Básico.160
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, criaturas, minutos, nenhum]
----
+**Titulo**:Agilidade do Gato em Massa
 
 **Transmutação de Nível 6**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Domínio da Água"
-date:   2016-11-17
-source: Manual do Arcano. 73
-tags: [level9, feiticeiro, mago, agua,  semana, quilometro, circulo, ano, nenhum, componente]
----
+**Titulo**:Domínio da Água
 
 **Água de nível 9 **
 

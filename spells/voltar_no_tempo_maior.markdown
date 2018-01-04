@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Voltar no Tempo Maior"
-date:   2016-11-17
-source: Manual do Arcano. 68
-tags: [level5, bardo, feiticeiro, mago, tempo, padrao, toque, criatura, instantanea, nenhum, experiencia]
----
+**Titulo**:Voltar no Tempo Maior
 
 **Tempo de nível 5**
 

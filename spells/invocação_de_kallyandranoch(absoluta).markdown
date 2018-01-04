@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocação de Kallyandranoch(Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 92
-tags: [level9, clerigo, abencoado, druida, fogo, mal, necromancia, kallyandranoch, padrao, metros, explosao, instantanea, nenhum, absoluta]
----
+**Titulo**:Invocação de Kallyandranoch(Absoluta)
 
 **Fogo/Mal/Necromancia de 9 (Absoluta)**
 

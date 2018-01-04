@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Retirada Estratégica"
-date:   2016-11-17
-source: Manual do Arcano. 84
-tags: [level1, bardo, feiticeiro, mago, transmutacao, livre, pessoal, voce, minuto]
----
+**Titulo**:Retirada Estratégica
 
 **Transmutação de nível 1**
 

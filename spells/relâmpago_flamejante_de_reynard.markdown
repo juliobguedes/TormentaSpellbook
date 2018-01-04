@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Relâmpago Flamejante de Reynard"
-date:   2016-11-17
-source: Manual do Arcano. 83
-tags: [level7,  feiticeiro, mago, eletricidade, fogo, rodadas, metros, linha, minuto, descarregar, reflexos, metade]
----
+**Titulo**:Relâmpago Flamejante de Reynard
 
 **Eletrícidade/Fogo de nível 7**
 

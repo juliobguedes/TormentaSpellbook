@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Restauração Maior"
-date:   2016-11-15
-source: Manual Básico.209
-tags: [level7, clerigo, abencoado, druida, cura, padrao, toque, criatura, instantanea, nenhum, experiencia]
----
+**Titulo**:Restauração Maior
 
 **Cura de Nível 7**
 

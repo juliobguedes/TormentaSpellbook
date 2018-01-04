@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reverter Magia"
-date:   2016-11-15
-source: Manual Básico.209
-tags: [level7, feiticeiro, mago, abjuracao, padrao, pessoal, voce, hora, descarregar]
----
+**Titulo**:Reverter Magia
 
 **Abjuração de Nível 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Comandar Maior"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level5, bardo, clerigo, abencoado, druida, encantamento, padrao, metros, criatura, rodadade, vontade, anula]
----
+**Titulo**:Comandar Maior
 
 **Encantamento de Nível 5**
 

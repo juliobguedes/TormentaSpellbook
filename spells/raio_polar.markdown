@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio Polar"
-date:   2016-11-15
-source: Manual Básico.206
-tags: [level8, feiticeiro, mago, frio, padrao, metros, raio, instantanea, nenhum]
----
+**Titulo**:Raio Polar
 
 **Frio de Nível 8**
 

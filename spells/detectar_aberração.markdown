@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Detectar Aberração"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, adivinhacao, padrao, metros, cone, concentracao, rodadas, nenhum]
----
+**Titulo**:Detectar Aberração
 
 **Adivinhação de nível 1**
 

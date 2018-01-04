@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Visão Falsa"
-date:   2016-11-08
-source: Manual Básico.218
-tags: [level5, bardo, feiticeiro, mago, ilusao, padrao, toque, emanacao, dia, nenhum, componente]
----
+**Titulo**:Visão Falsa
 
 **Ilusão de Nível 5**
 

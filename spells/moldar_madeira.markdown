@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Moldar Madeira"
-date:   2016-11-09
-source: Manual Básico.195
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, toque, objeto, instantanea, nenhum]
----
+**Titulo**:Moldar Madeira
 
 **Transmutação de Nível 2**
 

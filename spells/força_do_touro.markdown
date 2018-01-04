@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Força do Touro"
-date:   2016-11-09
-source: Manual Básico.184
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Força do Touro
 
 **Transmutação de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Monstro II"
-date:   2016-11-09
-source: Manual Básico.188
-tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, invocacao, completa, metros, outro, concentracao, rodada, minuto, nenhum]
----
+**Titulo**:Invocar Monstro II
 
 **Invocação de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Magia Curinga III"
-date:   2016-11-17
-source: Manual do Devoto.88
-tags: [level3, clerigo, abencoado, druida,  wynna]
----
+**Titulo**:Magia Curinga III
 
 ** Descritor igual a magia imitada de nível 3 **
 

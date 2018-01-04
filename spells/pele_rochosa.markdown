@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pele Rochosa"
-date:   2016-11-08
-source: Manual Básico.201
-tags: [level4, level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, toque, criatura, hora, descarregar, nenhum, componente]
----
+**Titulo**:Pele Rochosa
 
 **Arcana 4/ Divina 5**
 

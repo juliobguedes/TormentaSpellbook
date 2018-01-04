@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Proteger Fortalezas"
-date:   2016-11-13
-source: Manual Básico.205
-tags: [level6, bardo, feiticeiro, mago, abjuracao,  minutos, metros, construcao, semana]
----
+**Titulo**:Proteger Fortalezas
 
 **Abjuração de Nível 6**
 

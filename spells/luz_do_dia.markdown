@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Luz do Dia"
-date:   2016-11-10
-source: Manual Básico.164
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, luz, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Luz do Dia
 
 **Luz de Nível 3**
 

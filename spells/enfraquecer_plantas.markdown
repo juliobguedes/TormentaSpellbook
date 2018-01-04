@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Enfraquecer Plantas"
-date:   2016-11-10
-source: Manual Básico.180
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, metros, dispersao, instantanea, nenhum]
----
+**Titulo**:Enfraquecer Plantas
 
 **Transmutação de Nível 3**
 

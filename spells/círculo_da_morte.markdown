@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Círculo da Morte"
-date:   2016-11-13
-source: Manual Básico.169
-tags: [level6, bardo, feiticeiro, mago, necromancia,  padrao, metros, explosao, instantanea, fortitude, anula, componente]
----
+**Titulo**:Círculo da Morte
 
 **Necromancia de Nível 6**
 

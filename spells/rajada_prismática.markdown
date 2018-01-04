@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Rajada Prismática"
-date:   2016-11-15
-source: Manual Básico.206
-tags: [level7, feiticeor, mago, luz, padrao, metros, cone, instantanea, dano]
----
+**Titulo**:Rajada Prismática
 
 **Luz de Nível 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Tentáculos Negros"
-date:   2016-11-11
-source: Manual Básico.215
-tags: [level4, bardo,  feiticeiro, mago, terra, padrao, metros, dispersao, minuto, nenhum, dano]
----
+**Titulo**:Tentáculos Negros
 
 **Terra de Nível 4**
 

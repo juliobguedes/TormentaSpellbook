@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Remover Cegueira/Surdez"
-date:   2016-11-10
-source: Manual Básico.207
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, cura, padrao, toque, criatura, instantanea, nenhum]
----
+**Titulo**:Remover Cegueira/Surdez
 
 **Cura de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Disco Flutuante"
-date:   2016-11-08
-source: Manual Básico.178
-tags: [level1, bardo, feiticeiro, mago, essência, padrao, metros, outro, dia, nenhum]
----
+**Titulo**:Disco Flutuante
 
 **Essência de Nível 1**
 

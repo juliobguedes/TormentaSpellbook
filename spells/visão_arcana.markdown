@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Visão Arcana"
-date:   2016-11-10
-source: Manual Básico.218
-tags: [level3, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce, minutos]
----
+**Titulo**:Visão Arcana
 
 **Adivinhação de Nível 3**
 

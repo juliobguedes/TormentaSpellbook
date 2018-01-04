@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Canhão de Força"
-date:   2016-11-17
-source: Manual do Arcano. 70
-tags: [level5, bardo, feiticeiro, mago, essencia, completa, metros, linha, instantanea, reflexos, anula, componente]
----
+**Titulo**:Canhão de Força
 
 **Essência de nível 5**
 

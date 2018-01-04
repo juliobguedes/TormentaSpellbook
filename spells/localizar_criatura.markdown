@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Localizar Criatura"
-date:   2016-11-11
-source: Manual Básico. 190
-tags: [level4, bardo, feiticeiro, mago, adivinhacao, padrao, metros, circulo, hora, nenhum]
----
+**Titulo**:Localizar Criatura
 
 **Adivinhação de Nível 4**
 

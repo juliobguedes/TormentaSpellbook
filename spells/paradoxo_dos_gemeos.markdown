@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Paradoxo dos Gemeos"
-date:   2016-11-17
-source: Manual do Arcano. 81
-tags: [level7,  feiticeiro, mago, tempo, padrao, pessoal, voce, instantanea, nenhum]
----
+**Titulo**:Paradoxo dos Gemeos
 
 **Tempo de nível 7**
 

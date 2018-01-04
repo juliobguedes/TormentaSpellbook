@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Oração"
-date:   2016-11-10
-source: Manual Básico.199
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, encantamento, padrao, metros, alvo, minuto, nenhum]
----
+**Titulo**:Oração
 
 **Encantamento de Nível 3**
 

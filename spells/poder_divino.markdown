@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Poder Divino"
-date:   2016-11-11
-source: Manual Básico.202
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, pessoal, voce, minuto]
----
+**Titulo**:Poder Divino
 
 **Encantamento de Nível 8**
 

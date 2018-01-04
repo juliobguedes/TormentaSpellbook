@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Nevoa Ácida"
-date:   2016-11-13
-source: Manual Básico. 197
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, acido, padrao, metros, outro, minuto, nenhum]
----
+**Titulo**:Nevoa Ácida
 
 **Ácido de Nível 6**
 

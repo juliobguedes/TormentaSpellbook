@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Escuridão Profunda"
-date:   2016-11-10
-source: Manual Básico.181
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, escuridao, padrao, toque, objeto, semana, nenhum]
----
+**Titulo**:Escuridão Profunda
 
 **Escuridão de Nível 3**
 

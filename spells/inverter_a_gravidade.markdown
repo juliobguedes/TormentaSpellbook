@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Inverter a Gravidade"
-date:   2016-11-15
-source: Manual Básico.188
-tags: [level7, mago, feiticeiro, transmutacao, padrao, metros, cubo, minuto, nenhum]
----
+**Titulo**:Inverter a Gravidade
 
 **Transmutação de Nível 7**
 

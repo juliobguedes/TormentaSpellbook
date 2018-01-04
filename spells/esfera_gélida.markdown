@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esfera Gélida"
-date:   2016-11-13
-source: Manual Básico.182
-tags: [level6, bardo, feiticeiro, mago, frio,  padrao, metros, explosao, instantanea, reflexo, metade]
----
+**Titulo**:Esfera Gélida
 
 **Frio de Nível 6*
 

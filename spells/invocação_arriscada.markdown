@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocação Arriscada"
-date:   2016-11-17
-source: Manual do Arcano. 79
-tags: [level4, bardo, feiticeiro, mago, caos, invocacao, movimento, pessoal, voce, minuto, nenhum, dano]
----
+**Titulo**:Invocação Arriscada
 
 **Caos/Invocação de nível 4**
 

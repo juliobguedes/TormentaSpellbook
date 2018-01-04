@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Controlar os Ventos"
-date:   2016-11-08
-source: Manual Básico.173
-tags: [level5, bardo, feiticeiro, mago, ar, padrao, metros, cilindro, hora, fortitude, anula]
----
+**Titulo**:Controlar os Ventos
 
 **Ar de Nível 5**
 

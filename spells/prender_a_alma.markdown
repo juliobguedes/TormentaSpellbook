@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Prender a Alma"
-date:   2016-11-16
-source: Manual Básico.203
-tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, necromancia, padrao, metros, alvo, permanente, vontade, anula]
----
+**Titulo**:Prender a Alma
 
 **Necromancia de Nível 9**
 

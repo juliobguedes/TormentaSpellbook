@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vazio"
-date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, encantamento,  completa, toque, criatura, permanente, vontade]
----
+**Titulo**:Vazio
 
 **Encantamento de Nível 8**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Barco Voador"
-date:   2016-11-17
-source: Manual do Devoto. 70
-tags: [level8, feiticeiro, mago, transmutacao, minutos, toque, alvo, dia]
----
+**Titulo**:Barco Voador
 
 **Transmutação de nível 8**
 

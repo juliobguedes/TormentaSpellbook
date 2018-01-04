@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Remover Paralisia"
-date:   2016-11-08
-source: Manual Básico.208
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, cura, padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Remover Paralisia
 
 **Cura de Nível 2**
 

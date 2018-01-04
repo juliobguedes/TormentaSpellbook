@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aura Profana"
-date:   2016-11-15
-source: Manual Básico.165
-tags: [level8, clerigo, abencoado, druida, mal, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Aura Profana
 
 **Mal de Nível 8**
 

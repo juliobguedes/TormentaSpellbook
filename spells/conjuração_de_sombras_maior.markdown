@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Conjuração de Sombras Maior"
-date:   2016-11-15
-source: Manual Básico.171
-tags: [level7, feiticeiro, mago, ilusao, vontade, parcial]
----
+**Titulo**:Conjuração de Sombras Maior
 
 **Ilusão de Nível 7**
 

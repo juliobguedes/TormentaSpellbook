@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reflexos"
-date:   2016-11-09
-source: Manual Básico.207
-tags: [level2, bardo, feiticeiro, mago, ilusao]
----
+**Titulo**:Reflexos
 
 **Ilusão de Nível 2**
 

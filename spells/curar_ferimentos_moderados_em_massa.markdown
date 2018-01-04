@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Curar Ferimentos Moderados em Massa"
-date:   2016-11-13
-source: Manual Básico.174
-tags: [level6, bardo, clerigo, abencoado, druida, cura,  padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Curar Ferimentos Moderados em Massa
 
 **Cura de Nível 6**
 

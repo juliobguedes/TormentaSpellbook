@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aspecto do Vampiro"
-date:   2016-11-17
-source: Manual do Devoto. 69
-tags: [level4, clerigo, abencoado, druida,  feiticeiro, mago, necromancia, padrao, voce, pessoal, dia, nenhum, componente]
----
+**Titulo**:Aspecto do Vampiro
 
 **Necromancia de nível 4**
 

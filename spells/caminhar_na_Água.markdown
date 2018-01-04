@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Caminhar na Água"
-date:   2016-11-10
-source: Manual Básico.167
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, agua, padrao, toque, craitura, minutos, nenhum]
----
+**Titulo**:Caminhar na Água
 
 **Água de Nível 3**
 

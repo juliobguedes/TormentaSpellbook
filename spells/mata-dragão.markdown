@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mata-Dragão"
-date:   2016-11-15
-source: Manual Básico.193
-tags: [level8, feiticeiro, mago, fogo, rodadas, metros, explosao, instantanea, reflexo, metade, dano]
----
+**Titulo**:Mata-Dragão
 
 **Fogo de Nível 8**
 

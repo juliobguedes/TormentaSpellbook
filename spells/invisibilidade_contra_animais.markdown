@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invisibilidade contra Animais"
-date:   2016-11-08
-source: Manual Básico.188
-tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Invisibilidade contra Animais
 
 **Abjuração de Nível 1**
 

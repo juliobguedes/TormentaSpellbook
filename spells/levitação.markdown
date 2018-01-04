@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Levitação"
-date:   2016-11-09
-source: Manual Básico.190
-tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, metros, voce, alvo, minuto, nenhum]
----
+**Titulo**:Levitação
 
 **Transmutacao de Nível 2**
 

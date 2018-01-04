@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Confusão"
-date:   2016-11-11
-source: Manual Básico. 171
-tags: [level4, bardo, feiticeiro, mago, encantamento, padrao, metros, explosao, minuto, vontade, anula]
----
+**Titulo**:Confusão
 
 **Encantamento de Nível 4**
 

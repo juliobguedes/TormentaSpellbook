@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Rosa Turquesa"
-date:   2016-11-10
-source: Manual do Devoto.89
-tags: [level4, bardo, clerigo, abencoado, druida, paladino, ranger, acido, invocacao, padrao, metros, instantanea, nenhum, dano]
----
+**Titulo**:Rosa Turquesa
 
 **Ácido/Invocação de Nível 4**
 

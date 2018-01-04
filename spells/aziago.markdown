@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aziago"
-date:   2016-11-10
-source: Mundo dos Deuses. 148
-tags: [level3, bardo, mago, feiticeiro, clerigo, abencoado, druida, paladino, ranger, caos, padrao, metros, emanacao, minuto, vontade, anula]
----
+**Titulo**:Aziago
 
 **Caos de Nível 3**
 

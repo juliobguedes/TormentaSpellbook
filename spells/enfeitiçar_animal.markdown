@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Enfeitiçar Animal"
-date:   2016-11-08
-source: Manual Básico.180
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, encantamento, padrao, metros, alvo, hora, vontade, anula]
----
+**Titulo**:Enfeitiçar Animal
 
 **Encantamento de Nível 1**
 

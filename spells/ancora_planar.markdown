@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ancora Planar"
-date:   2016-11-13
-source: Manual Básico.162
-tags: [level8,  feiticeiro, mago, invocacao, minuto, metros, espirito, instantanea, vontade, anula]
----
+**Titulo**:Ancora Planar
 
 **Invocação de Nível 8**
 

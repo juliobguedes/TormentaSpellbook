@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Tranca Arcana"
-date:   2016-11-09
-source: Manual Básico.216
-tags: [level2, bardo, feiticeiro, mago, abjuracao, padrao, toque, objeto, permanente, nenhum]
----
+**Titulo**:Tranca Arcana
 
 **Abjuração de Nível 2**
 

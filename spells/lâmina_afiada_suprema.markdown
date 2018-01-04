@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lâmina Afiada Suprema"
-date:   2016-11-17
-source: Manual do Devoto. 79
-tags: [level8, feiticeiro, mago, transmutacao, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Lâmina Afiada Suprema
 
 **Transmutacao de nível 8**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Viagem Planar"
-date:   2016-11-08
-source: Manual Básico.218
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, invocacao, completa, toque, criaturas, instantanea, nenhum]
----
+**Titulo**:Viagem Planar
 
 **Invocação de Nível 5**
 

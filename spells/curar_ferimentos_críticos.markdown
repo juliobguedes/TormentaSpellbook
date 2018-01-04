@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Curar Ferimentos Críticos"
-date:   2016-11-11
-source: Manual Básico. 174
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, cura, padrao, toque, criatura, instantanea, nenhum]
----
+**Titulo**:Curar Ferimentos Críticos
 
 **Cura de Nível 4**
 

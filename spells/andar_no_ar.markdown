@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Andar no Ar"
-date:   2016-11-11
-source: Manual Básico.162
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, toque, criatura, minutos, nenhum]
----
+**Titulo**:Andar no Ar
 
 **Transmutação de Nível 4**
 

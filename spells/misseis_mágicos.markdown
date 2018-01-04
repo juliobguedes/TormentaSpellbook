@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Misseis Mágicos"
-date:   2016-11-08
-source: Manual Básico.194
-tags: [level1, bardo, feiticeiro, mago, essencia, padrao, metros, alvo, instantanea, nenhum, dano]
----
+**Titulo**:Misseis Mágicos
 
 **Essência de Nível 1**
 

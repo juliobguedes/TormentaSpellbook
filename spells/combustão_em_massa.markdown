@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Combustão em Massa"
-date:   2016-11-17
-source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, fogo, livre, metros, criatura, permanente, nenhum, dano]
----
+**Titulo**:Combustão em Massa
 
 **Fogo de nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cúpula de Proteção contra a Vida"
-date:   2016-11-13
-source: Manual Básico.174
-tags: [level6, bardo, clerigo, abencoado, druida, abjuracao,  padrao, pessoal, voce, minuto]
----
+**Titulo**:Cúpula de Proteção contra a Vida
 
 **Necromancia de Nível 6**
 

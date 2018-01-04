@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Disfarce Ilusório"
-date:   2016-11-08
-source: Manual Básico.178
-tags: [level1, bardo, feiticeiro, mago, ilusao, padrao, pessoal, voce, hora, padrao, pessoal, voce, hora]
----
+**Titulo**:Disfarce Ilusório
 
 **Ilusão de Nível 1**
 

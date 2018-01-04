@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sexto Sentido"
-date:   2016-11-16
-source: Manual Básico.211
-tags: [level9,  feiticeiro, mago, adivinhacao,  padrao, pessoal, voce, hora]
----
+**Titulo**:Sexto Sentido
 
 **Adivinhação de Nível 9**
 

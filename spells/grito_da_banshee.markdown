@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Grito da Banshee"
-date:   2016-11-16
-source: Manual Básico.185
-tags: [level9, feiticeiro, mago, necromancia, sonico,  padrao, metros, explosao, instantanea, fortitude, anula]
----
+**Titulo**:Grito da Banshee
 
 **Necromancia/Sônico de Nível 9**
 

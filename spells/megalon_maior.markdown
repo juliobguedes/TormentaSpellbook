@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Megalon Maior"
-date:   2016-11-17
-source: Mundo de Arton - Panteão. 69
-tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Megalon Maior
 
 **Transmutação de nível 8**
 

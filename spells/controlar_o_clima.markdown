@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Controlar o Clima"
-date:   2016-11-15
-source: Manual Básico.172
-tags: [level6, level7, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, minuto, quilometro, circulo, horas, nenhum]
----
+**Titulo**:Controlar o Clima
 
 **Arcana 6/ Divina 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Caminhar no Vento"
-date:   2016-11-13
-source: Manual Básico.167
-tags: [level6, bardo, clerigo, abencoado, druida, ar,  padrao, toque, criatura, dia, nenhum]
----
+**Titulo**:Caminhar no Vento
 
 **Ar de Nível 6**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Malogro"
-date:   2016-11-11
-source: Manual Básico. 191
-tags: [level4, level5, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, necromancia, padrao, toque, alvo, instantanea, nenhum, dano]
----
+**Titulo**:Malogro
 
 **Arcana 5/ Divina 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque da Fadiga"
-date:   2016-11-07
-source: Manual Básico.216
-tags: [level0, bardo, feiticeiro, mago, necromancia, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Toque da Fadiga
 
 **Necromancia de Nível 0**
 

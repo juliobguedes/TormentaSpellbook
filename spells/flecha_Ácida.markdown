@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Flecha Ácida"
-date:   2016-11-09
-source: Manual Básico.184
-tags: [level2, feiticeiro, mago, acido, padrao, metros, outro, rodadas, nenhum]
----
+**Titulo**:Flecha Ácida
 
 **Necromancia de Nível 2**
 

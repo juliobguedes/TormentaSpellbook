@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ordem"
-date:   2016-11-15
-source: Manual Básico.198
-tags: [level8, feiticeiro, mago, encantamento, minuto, ilimitado, criatura, rodada, vontade, parcial]
----
+**Titulo**:Ordem
 
 **Encantamento de Nível 8**
 

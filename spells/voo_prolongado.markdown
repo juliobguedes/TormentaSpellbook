@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Voo Prolongado"
-date:   2016-11-08
-source: Manual Básico.219	
-tags: [level5, bardo,  feiticeiro, mago, transmutacao, padrao, pessoal, voce, dia, nenhum]
----
+**Titulo**:Voo Prolongado
 
 **Transmutação de Nível 5**
 

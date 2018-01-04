@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Idiomas"
-date:   2016-11-11
-source: Manual Básico. 186
-tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, adivinhacao, padrao, toque, criatura, hora, nenhum]
----
+**Titulo**:Idiomas
 
 **Arcana 3/ Divina 4**
 

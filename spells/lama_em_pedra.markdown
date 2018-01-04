@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lama em Pedra"
-date:   2016-11-08
-source: Manual Básico.189
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, quadrado, instantanea, nenhum]
----
+**Titulo**:Lama em Pedra
 
 **Transmutação de Nível 5**
 

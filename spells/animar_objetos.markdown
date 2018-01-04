@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Animar Objetos"
-date:   2016-11-13
-source: Manual Básico.162
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao,  padrao, metros, objeto, minuto, nenhum]
----
+**Titulo**:Animar Objetos
 
 **Transmutação de Nível 6**
 

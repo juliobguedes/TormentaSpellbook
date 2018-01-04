@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Presa Mágica Maior"
-date:   2016-11-10
-source: Manual Básico.203
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, transmutacao, padrao, toque, criatura, hora, nenhum]
----
+**Titulo**:Presa Mágica Maior
 
 **Transmutação de Nível 3**
 

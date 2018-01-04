@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cegueira/Surdez"
-date:   2016-11-10
-source: Manual Básico.168
-tags: [level2, level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, necromancia, padrao, metros, alvo, permanente, fortitude, anula]
----
+**Titulo**:Cegueira/Surdez
 
 **Arcano 2/Divino 3**
 

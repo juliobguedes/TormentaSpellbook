@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Visão da Verdade"
-date:   2016-11-13
-source: Manual Básico.219
-tags: [level5, level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, advinhacao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Visão da Verdade
 
 **Arcana 6/ Divina 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Velocidade do Relâmpago"
-date:   2016-11-17
-source: Manual do Devoto. 86
-tags: [level8, feiticeiro, mago, eletricidade, invocacao, padrao, pessoal, voce, minuto, reflexos, parcial]
----
+**Titulo**:Velocidade do Relâmpago
 
 **Invocação/Eletrícidade de nível 8**
 

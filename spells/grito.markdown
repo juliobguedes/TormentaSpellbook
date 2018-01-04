@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Grito"
-date:   2016-11-11
-source: Manual Básico. 185
-tags: [level4, bardo,  feiticeiro, mago, sonico, padrao, metros, cone, instantanea, fortitude, anula]
----
+**Titulo**:Grito
 
 **Sônico de Nível 4**
 

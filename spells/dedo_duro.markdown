@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dedo Duro"
-date:   2016-11-17
-source: Manual do Arcano. 72
-tags: [level2, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce, instantanea, nenhum]
----
+**Titulo**:Dedo Duro
 
 **Adivinhação de nível 2**
 

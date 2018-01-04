@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dissipar Magia"
-date:   2016-11-10
-source: Manual Básico.178
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, abjuracao, padrao, metros, alvo, explosao, objeto, instantanea, nenhum]
----
+**Titulo**:Dissipar Magia
 
 **Abjuração de Nível 3**
 

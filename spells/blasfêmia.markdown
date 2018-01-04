@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Blasfêmia"
-date:   2016-11-15
-source: Manual Básico.166
-tags: [level7, clerigo, abencoado, druida, mal, sonico, padrao, metros, dispersao, instantanea, vontade, anula]
----
+**Titulo**:Blasfêmia
 
 **Mal/Sônico de Nível 7**
 

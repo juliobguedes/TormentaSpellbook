@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Suportar Elementos"
-date:   2016-11-08
-source: Manual Básico.214
-tags: [level1, bardo, clerigo, abencoado, druida,ranger, feiticeiro, paladino, mago, abjuracao, padrao, toque, alvo, hora, nenhum]
----
+**Titulo**:Suportar Elementos
 
 **Abjuração de Nível 1**
 

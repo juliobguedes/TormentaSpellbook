@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mensagem"
-date:   2016-11-07
-source: Manual Básico.193
-tags: [level0, bardo, feiticeiro, mago, transmutacao, padrao, metros, alvo, minuto, nenhum]
----
+**Titulo**:Mensagem
 
 **Transmutação de Nível 0**
 

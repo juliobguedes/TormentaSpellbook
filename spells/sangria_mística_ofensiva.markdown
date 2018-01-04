@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sangria Mística Ofensiva"
-date:   2016-11-10
-source: Manual do Devoto.90,
-tags: [level6, bardo, clerigo, abencoado, druida, essencia, transmutacao, padrao, metros, instantanea, vontade, anula, componente, dano]
----
+**Titulo**:Sangria Mística Ofensiva
 
 **Essência/Transmutação de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Orientação"
-date:   2016-11-07
-source: Manual Básico.199
-tags: [level0, bardo, clerigo, abencoado, druida, adivinhacao,  padrao, toque, alvo, descarregar, minuto, nenhum]
----
+**Titulo**:Orientação
 
 **Adivinhação de Nível 0**
 

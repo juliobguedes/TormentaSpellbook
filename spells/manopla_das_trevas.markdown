@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Manopla das Trevas"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level3, bardo, feiticeiro, mago, escuridao, necromancia, completa, pessoal, voce, dia]
----
+**Titulo**:Manopla das Trevas
 
 **Escuridão/Necromancia de nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vento Dilacerador"
-date:   2016-11-17
-source: Manual do Arcano. 81
-tags: [level6, bardo, feiticeiro, mago, ar, padrao, metros, cone, instantanea, reflexo, parcial, dano]
----
+**Titulo**:Vento Dilacerador
 
 **Ar de nível 6**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Recuo Acelerado"
-date:   2016-11-08
-source: Manual Básico.206
-tags: [level1, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minuto]
----
+**Titulo**:Recuo Acelerado
 
 **Transmutação de Nível 1**
 

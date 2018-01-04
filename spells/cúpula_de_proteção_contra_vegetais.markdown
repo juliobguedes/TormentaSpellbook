@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cúpula de Proteção contra Vegetais"
-date:   2016-11-11
-source: Manual Básico. 174
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, pessoal, voce, minuto]
----
+**Titulo**:Cúpula de Proteção contra Vegetais
 
 **Abjuração de Nível 4**
 

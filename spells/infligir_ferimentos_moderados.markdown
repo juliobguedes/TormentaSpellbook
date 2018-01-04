@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Infligir Ferimentos Moderados"
-date:   2016-11-09
-source: Manual Básico.187
-tags: [level2, bardo, clerigo, druida, ranger, paladino, necromancia]
----
+**Titulo**:Infligir Ferimentos Moderados
 
 **Necromancia de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Servos de Tenebra"
-date:   2016-11-17
-source: Manual do Devoto. 90
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, necromancia, tenebra, minuto, metros, outro, instantanea, nenhum]
----
+**Titulo**:Servos de Tenebra
 
 **Necromancia de nível 5**
 

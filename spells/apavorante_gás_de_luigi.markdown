@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Apavorante Gás de Luigi"
-date:   2016-11-07
-source: Manual Básico.163
-tags: [level0, feiticeiro, mago, ar, padrao, metros, alvo, minuto, fortitude, anula]
----
+**Titulo**:Apavorante Gás de Luigi
 
 **Ar de Nível 0**
 

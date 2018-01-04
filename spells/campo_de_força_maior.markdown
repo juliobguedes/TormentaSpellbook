@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Campo de Força Maior"
-date:   2016-11-17
-source: Manual do Arcano. 70
-tags: [level7,  feiticeiro, mago, abjuracao, essencia, livre, pessoal, voce, minuto, nenhum]
----
+**Titulo**:Campo de Força Maior
 
 **Abjuração/Essência de nível 7**
 

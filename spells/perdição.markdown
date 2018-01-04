@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Perdição"
-date:   2016-11-08
-source: Manual Básico.201
-tags: [level1, bardo, clerigo, abencoado, druida, paladino, ranger,  encantamento, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Perdição
 
 **Encantamento de Nível 1**
 

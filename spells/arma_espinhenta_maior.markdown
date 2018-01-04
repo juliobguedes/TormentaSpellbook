@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arma Espinhenta Maior"
-date:   2016-11-17
-source: Manual do Devoto. 83
-tags: [level3, bardo, paladino, ranger, clerigo, abencoado, druida, transmutacao, allihana, megalokk, oceano, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Arma Espinhenta Maior
 
 **Transmutação de nível 3**
 

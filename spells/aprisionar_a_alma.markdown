@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aprisionar a Alma"
-date:   2016-11-15
-source: Manual Básico.163
-tags: [level8, feiticeiro, mago, necromancia, padrao, metros, criatura, instantanea, vontade, anula, nenhum, componente]
----
+**Titulo**:Aprisionar a Alma
 
 **Necromancia de Nível 8**
 

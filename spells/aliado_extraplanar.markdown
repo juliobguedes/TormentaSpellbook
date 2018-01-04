@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aliado Extraplanar"
-date:   2016-11-13
-source: Manual Básico.160
-tags: [level6, bardo, clerigo, abencoado, druida, invocacao, minuto, metros, espirito, instantaneo, nenhum, experiencia]
----
+**Titulo**:Aliado Extraplanar
 
 **Invocação de Nível 6**
 

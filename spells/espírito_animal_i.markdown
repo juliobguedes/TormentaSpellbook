@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Espírito Animal I"
-date:   2016-11-17
-source: Manual do Devoto.85
-tags: [level1, clerigo, abencoado, druida, padrao, metros, outro, instantanea, nenhum, dano]
----
+**Titulo**:Espírito Animal I
 
 **Tempo de Execução**: Ação Padrão
 

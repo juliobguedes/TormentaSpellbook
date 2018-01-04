@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Montaria Arcana"
-date:   2016-11-08
-source: Manual Básico.195
-tags: [level1, bardo, feiticeiro, mago, invocacao, completa, metros, outro, dia, nenhum]
----
+**Titulo**:Montaria Arcana
 
 **Invocação de Nível 1**
 

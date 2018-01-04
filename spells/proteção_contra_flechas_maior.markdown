@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Proteção contra Flechas Maior"
-date:   2016-11-17
-source: Manual do Arcano. 82
-tags: [level4, bardo, feiticeiro, mago, abjuracao, padrao, toque, criatura, horas, descarregar, nenhum]
----
+**Titulo**:Proteção contra Flechas Maior
 
 **Abjuração de nível 4**
 

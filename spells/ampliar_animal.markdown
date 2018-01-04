@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ampliar Animal"
-date:   2016-11-08
-source: Manual Básico.161
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, animal, minutos, nenhum]
----
+**Titulo**:Ampliar Animal
 
 **Transmutação de Nível 5**
 

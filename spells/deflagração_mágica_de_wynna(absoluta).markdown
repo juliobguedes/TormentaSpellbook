@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Deflagração Mágica de Wynna(Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 95
-tags: [level9, clerigo, abencoado, druida, essencia, wynna,  padrao, pessoal, explosao, instatanea, fortitude, parcial, absoluta]
----
+**Titulo**:Deflagração Mágica de Wynna(Absoluta)
 
 **Essência de 9 (Absoluta)**
 

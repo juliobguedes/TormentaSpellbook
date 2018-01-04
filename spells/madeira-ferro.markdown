@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Madeira-Ferro"
-date:   2016-11-13
-source: Manual Básico.191
-tags: [level6, bardo, clerigo, abencoado, druida, transmutacao,  minuto, metros, objeto, semana, nenhum]
----
+**Titulo**:Madeira-Ferro
 
 **Transmutação de Nível 6**
 

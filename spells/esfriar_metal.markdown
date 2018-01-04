@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esfriar Metal"
-date:   2016-11-09
-source: Manual Básico.182
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, frio, padrao, metros, objeto, rodadasT, nenhum, dano]
----
+**Titulo**:Esfriar Metal
 
 **Frio de Nível 2**
 

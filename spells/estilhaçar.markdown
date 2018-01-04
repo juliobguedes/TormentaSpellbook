@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Estilhaçar"
-date:   2016-11-17
-source: Manual do Arcano. 77
-tags: [level4, bardo, feiticeiro, mago, sonico, padrao, metros, criatura, objeto, instantanea, vontade, reflexos, anula, metade]
----
+**Titulo**:Estilhaçar
 
 **Sônico de nível 4**
 

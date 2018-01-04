@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Alterar Forma"
-date:   2016-11-15
-source: Manual Básico.161
-tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, pessoal, voce, hora]
----
+**Titulo**:Alterar Forma
 
 **Transmutação de Nível 9**
 

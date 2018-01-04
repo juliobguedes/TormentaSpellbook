@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Purificar Alimentos"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, clerigo, abencoado, druida, transmutacao, padrao, metros, alvo, instantanea, nenhum]
----
+**Titulo**:Purificar Alimentos
 
 **Transmutação de Nível 0**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mãos Flamejantes"
-date:   2016-11-08
-source: Manual Básico.184
-tags: [level1, bardo, feiticeiro, mago, fogo, padrao, metros, explosao, cone, instantanea, reflexos, metade, dano]
----
+**Titulo**:Mãos Flamejantes
 
 **Fogo de Nível 1**
 

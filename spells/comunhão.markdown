@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Comunhão"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level5, bardo, clerigo, abencoado, druida, adivinhacao, minuto, pessoal, voce, concentracao, minuto, nenhum, experiencia]
----
+**Titulo**:Comunhão
 
 **Adivinhação de Nível 5**
 

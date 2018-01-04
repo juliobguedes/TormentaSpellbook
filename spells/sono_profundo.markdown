@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sono Profundo"
-date:   2016-11-10
-source: Manual Básico.213
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, metros, explosao, hora, vontade, anula]
----
+**Titulo**:Sono Profundo
 
 **Encantamento de Nível 3**
 

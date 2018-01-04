@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Passagem Invisível"
-date:   2016-11-15
-source: Manual Básico.200
-tags: [level7, feiticeiro, mago, invocacao, padrao, metros, outro, descarregar, nenhum]
----
+**Titulo**:Passagem Invisível
 
 **Invocação de Nível 7**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Caminhar em Árvores"
-date:   2016-11-08
-source: Manual Básico.167
-tags: [level5, bardo, clerigo, abencoado, druida, invocacao, padrao, pessoal, voce, hora, descarregar, nenhum]
----
+**Titulo**:Caminhar em Árvores
 
 **Invocação de Nível 5**
 

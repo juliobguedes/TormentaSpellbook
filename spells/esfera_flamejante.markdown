@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esfera Flamejante"
-date:   2016-11-09
-source: Manual Básico.182
-tags: [level2, bardo, feiticeiro, mago, fogo, padrao, metros, esfera, minuto, reflexo, anula, dano]
----
+**Titulo**:Esfera Flamejante
 
 **Fogo de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Missão Menor"
-date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, feiticeiro, mago, encantamento, completa, metros, criatura, semana, vontade, anula]
----
+**Titulo**:Missão Menor
 
 **Encantamento de Nível 4**
 

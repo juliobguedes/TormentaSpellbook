@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Despertar Magia"
-date:   2016-11-10
-source: Mundo dos Deuses. 149
-tags: [level6, bardo, mago, feiticeiro, clerigo, abencoado, druida, transmutacao, minuto, toque, criatura, dia, nenhum]
----
+**Titulo**:Despertar Magia
 
 **Transmutação de Nível 6**
 

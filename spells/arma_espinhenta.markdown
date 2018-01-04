@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arma Espinhenta"
-date:   2016-11-17
-source: Manual do Devoto. 83
-tags: [level1, bardo, paladino, ranger, clerigo, abencoado, druida, transmutacao, allihana, megalokk, oceano, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Arma Espinhenta
 
 **Transmutação de nível 1**
 

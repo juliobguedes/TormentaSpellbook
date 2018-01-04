@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arrombar"
-date:   2016-11-09
-source: Manual Básico.164
-tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, metros, objeto, instantanea, nenhum]
----
+**Titulo**:Arrombar
 
 **Transmutaçaõ de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Caveiras Tenebrosas"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level2, bardo, paladino, ranger, clerigo, abencoado, druida, necromancia, sonico, tenebra, hyninn, ragnar, sszzas, padrao, metros, minuto, nenhum]
----
+**Titulo**:Caveiras Tenebrosas
 
 **Necromancia/Sônico de nível 2**
 

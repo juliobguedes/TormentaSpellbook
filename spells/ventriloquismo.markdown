@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ventriloquismo"
-date:   2016-11-08
-source: Manual Básico.217
-tags: [level1, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, minuto, vontade, anula]
----
+**Titulo**:Ventriloquismo
 
 **Ilusão de Nível 1**
 

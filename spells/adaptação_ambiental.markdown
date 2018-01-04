@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Adaptação Ambiental"
-date:   2016-11-10
-source: Mundo dos Deuses. 147
-tags: [level5, bardo, mago, feiticeiro,  transmutacao, padrao, toque, criatura, hora]
----
+**Titulo**:Adaptação Ambiental
 
 **Transmutação de Nível 5**
 

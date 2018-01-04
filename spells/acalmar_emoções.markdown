@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Acalmar Emoções"
-date:   2016-11-09
-source: Manual Básico.160
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, metros, dispersao, metros, concentracao, minuto, vontade, anula]
----
+**Titulo**:Acalmar Emoções
 
 **Encantamento de Nível 2**
 

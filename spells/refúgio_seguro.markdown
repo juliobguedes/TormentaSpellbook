@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Refúgio Seguro"
-date:   2016-11-11
-source: Manual Básico.217
-tags: [level4, bardo, feiticeiro, mago, invocacao, minuto, metros, outro, dia, nenhum]
----
+**Titulo**:Refúgio Seguro
 
 **Invocação de Nível 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mansão Magnífica de Vectorius"
-date:   2016-11-15
-source: Manual Básico.191
-tags: [level7, feiticeiro, mago, invocacao, padrao, metros, dia, outro, nenhum]
----
+**Titulo**:Mansão Magnífica de Vectorius
 
 **Invocação de Nível 7**
 

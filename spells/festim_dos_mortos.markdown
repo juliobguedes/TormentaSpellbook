@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Festim dos Mortos"
-date:   2016-11-17
-source: Manual do Arcano. 75
-tags: [level2, bardo, feiticeiro, mago, necromancia, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Festim dos Mortos
 
 **Necromancia de nível 2**
 

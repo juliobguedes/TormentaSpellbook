@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cura Arcana"
-date:   2016-11-17
-source: Manual do Arcano. 72
-tags: [level5, bardo, feiticeiro, mago, tempo, padrao, toque, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Cura Arcana
 
 **Tempo de nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vôo"
-date:   2016-11-10
-source: Manual Básico.219
-tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Vôo
 
 **Transmutaçaõ de Nível 3**
 

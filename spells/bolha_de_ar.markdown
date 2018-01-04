@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Bolha de Ar"
-date:   2016-11-10
-source: Mundo dos Deuses. 148
-tags: [level2, bardo, mago, feiticeiro, clerigo, abencoado, druida, paladino, ranger, ar, padrao, metros, cubo, concentracao]
----
+**Titulo**:Bolha de Ar
 
 **Ar de Nível 2**
 

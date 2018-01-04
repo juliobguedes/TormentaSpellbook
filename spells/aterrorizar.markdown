@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aterrorizar"
-date:   2016-11-09
-source: Manual Básico.165
-tags: [level2, bardo, feiticeiro, mago, medo, necromancia, padrao, metros, alvo, rodadas, nenhum]
----
+**Titulo**:Aterrorizar
 
 **Necromancia/Medo de Nível 2**
 

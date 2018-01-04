@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sugestão em Massa"
-date:   2016-11-13
-source: Manual Básico.214
-tags: [level6, bardo,  feiticeiro, mago, encantamento, padrao, metros, criatura, dia, vontade, anula]
----
+**Titulo**:Sugestão em Massa
 
 **Encantamento de Nível 6**
 

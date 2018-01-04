@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Domínio da Mente"
-date:   2016-11-17
-source: Manual do Arcano. 74
-tags: [level9, feiticeiro, mago, encantamento, semana, quilometro, circulo, ano, componente]
----
+**Titulo**:Domínio da Mente
 
 **Encantamento de nível 9 **
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Santificar"
-date:   2016-11-08
-source: Manual Básico.209
-tags: [level5, bardo, clerigo, abencoado, druida,bem, dia, toque, emanacao, permanente, componente]
----
+**Titulo**:Santificar
 
 **Bem de Nível 5**
 

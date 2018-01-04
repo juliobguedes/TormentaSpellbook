@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Infligir Ferimentos Leves em Massa"
-date:   2016-11-08
-source: Manual Básico.175
-tags: [level5, bardo, clerigo, abencoado, druida, necromancia, padrao, metros, criatura, instantanea, nenhum, dano]
----
+**Titulo**:Infligir Ferimentos Leves em Massa
 
 **Necromancia de Nível 5**
 

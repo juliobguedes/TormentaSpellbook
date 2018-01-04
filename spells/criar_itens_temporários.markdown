@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Itens Temporários"
-date:   2016-11-08
-source: Manual Básico.174
-tags: [level5, bardo, feiticeiro, mago, terra, padrao, pessoal, voce, hora, nenhum]
----
+**Titulo**:Criar Itens Temporários
 
 **Terra de Nível 5**
 

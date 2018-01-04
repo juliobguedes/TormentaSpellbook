@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque da Loucura"
-date:   2016-11-09
-source: Manual Básico.216
-tags: [level2, bardo, feiticeiro, mago, encantamento, padrao, toque, alvo, minuto, vontade, anula]
----
+**Titulo**:Toque da Loucura
 
 **Encantamento de Nível 2**
 

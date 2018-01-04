@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Desespero Esmagador"
-date:   2016-11-11
-source: Manual Básico. 176
-tags: [level4, bardo, feiticeiro, mago, encantamento, padrao, metros, cone, minuto, vontade, anula]
----
+**Titulo**:Desespero Esmagador
 
 **Encantamento de Nível 4**
 

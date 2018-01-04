@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Proteção conta Flechas"
-date:   2016-11-09
-source: Manual Básico.204
-tags: [level2, bardo, feiticeiro, mago, abjuracao, padrao, toque, alvo, hora, descarregar, nenhum]
----
+**Titulo**:Proteção conta Flechas
 
 **Abjuração de Nível 2**
 

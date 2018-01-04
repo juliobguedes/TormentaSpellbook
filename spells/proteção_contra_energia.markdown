@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Proteção contra Energia"
-date:   2016-11-10
-source: Manual Básico.204
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, abjuracao, padrao, toque, criatura, hora, descarregar, nenhum]
----
+**Titulo**:Proteção contra Energia
 
 **Abjuração de Nível 3**
 

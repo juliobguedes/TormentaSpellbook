@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imobilizar Monstro"
-date:   2016-11-08
-source: Manual Básico.186
-tags: [level5, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, minuto, vontade, anula]
----
+**Titulo**:Imobilizar Monstro
 
 **Encantamento de Nível 5**
 

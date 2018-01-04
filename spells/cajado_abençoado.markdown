@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cajado Abençoado"
-date:   2016-11-08
-source: Manual Básico.167
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, transmutacao, padrao, toque, alvo, minutos, nenhum]
----
+**Titulo**:Cajado Abençoado
 
 **Transmutação de Nível 1**
 

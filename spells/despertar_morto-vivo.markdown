@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Despertar Morto-Vivo"
-date:   2016-11-17
-source: Manual do Arcano. 72
-tags: [level5, bardo, feiticeiro, mago, necromancia, minuto, metros, criatura, permanente, nenhum, componente]
----
+**Titulo**:Despertar Morto-Vivo
 
 **Essência de nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio Gosmento"
-date:   2016-11-17
-source: Manual do Arcano. 83
-tags: [level2, bardo, feiticeiro, mago, tempo, padrao, metros, raio, instantanea, reflexo]
----
+**Titulo**:Raio Gosmento
 
 **Tempo de nível 2**
 

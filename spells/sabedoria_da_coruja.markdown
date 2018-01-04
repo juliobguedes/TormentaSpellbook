@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sabedoria da Coruja"
-date:   2016-11-09
-source: Manual Básico.210
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Sabedoria da Coruja
 
 **Transmutação de Nível 2**
 

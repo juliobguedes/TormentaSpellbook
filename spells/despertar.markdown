@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Despertar"
-date:   2016-11-08
-source: Manual Básico.176
-tags: [level5, bardo, clerigo, abencoado, druida, encantamento, dia, toque, animal, objeto, instantanea, nenhum, experiencia]
----
+**Titulo**:Despertar
 
 **Encantamento de Nível 5**
 

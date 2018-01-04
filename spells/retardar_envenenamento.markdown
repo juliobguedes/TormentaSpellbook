@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Retardar Envenenamento"
-date:   2016-11-09
-source: Manual Básico.209
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, cura, padrao, toque, criatura, dia, nenhum]
----
+**Titulo**:Retardar Envenenamento
 
 **Cura de Nível 2**
 

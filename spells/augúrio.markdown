@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Augúrio"
-date:   2016-11-09
-source: Manual Básico.165
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, adivinhacao, padrao, pessoal, voce, instantanea]
----
+**Titulo**:Augúrio
 
 **Adivinhação de Nível 2**
 

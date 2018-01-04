@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reviver os Mortos"
-date:   2016-11-08
-source: Manual Básico.209
-tags: [level5, bardo, clerigo, abencoado, druida, cura, minuto, toque, criatura, instantanea, nenhum, componente]
----
+**Titulo**:Reviver os Mortos
 
 **Cura de Nível 5**
 

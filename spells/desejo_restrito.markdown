@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Desejo Restrito"
-date:   2016-11-15
-source: Manual Básico.175
-tags: [level7, feiticeiro, mago, essencia, padrao, componente, experiencia]
----
+**Titulo**:Desejo Restrito
 
 **Essência de Nível 7**
 

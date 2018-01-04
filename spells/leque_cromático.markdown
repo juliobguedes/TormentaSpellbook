@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Leque Cromático"
-date:   2016-11-08
-source: Manual Básico.190
-tags: [level1, bardo, feiticeiro, mago, ilusao, padrao, metros, explosao, cone, instantanea, vontade, anula]
----
+**Titulo**:Leque Cromático
 
 **Ilusão de Nível 1**
 

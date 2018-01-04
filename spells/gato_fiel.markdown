@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Gato Fiel"
-date:   2016-11-17
-source: Manual do Arcano. 78
-tags: [level5, bardo, feiticeiro, mago, invocacao, padrao, metros, outro, permanente, descarregar, minuto, nenhum, componente]
----
+**Titulo**:Gato Fiel
 
 **Invocação de nível 5**
 

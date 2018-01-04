@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Desintegrar"
-date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, feiticeiro, mago, transmutacao,  padrao, metros, raio, instantanea, fortitude, parcial]
----
+**Titulo**:Desintegrar
 
 **Transmutação de Nível 6**
 

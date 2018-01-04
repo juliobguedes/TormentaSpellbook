@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Aliado Extraplanar Menor"
-date:   2016-11-11
-source: Manual Básico.160
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, invocacao, minutos, metros, outro, instantanea, nenhum]
----
+**Titulo**:Aliado Extraplanar Menor
 
 **Invocação de Nível 4**
 

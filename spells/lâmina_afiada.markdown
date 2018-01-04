@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lâmina Afiada"
-date:   2016-11-10
-source: Manual Básico.189
-tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Lâmina Afiada
 
 **Transmutaçaõ de Nível 3**
 

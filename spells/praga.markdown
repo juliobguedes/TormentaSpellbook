@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Praga"
-date:   2016-11-11
-source: Manual Básico.203
-tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, necromancia, padrao, toque, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Praga
 
 **Arcana 4/ Divina 3**
 

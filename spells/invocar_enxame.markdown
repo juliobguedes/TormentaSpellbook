@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Enxame"
-date:   2016-11-09
-source: Manual Básico.188
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, invocacao, completa, metros, outro, minuto, nenhum]
----
+**Titulo**:Invocar Enxame
 
 **Invocação de Nível 2**
 

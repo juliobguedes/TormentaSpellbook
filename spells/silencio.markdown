@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Silencio"
-date:   2016-11-09
-source: Manual Básico.211
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, metros, emanacao, objeto, minutos, nenhum]
----
+**Titulo**:Silencio
 
 **Ilusão de Nível 2**
 

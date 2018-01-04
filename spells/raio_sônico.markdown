@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio Sônico"
-date:   2016-11-17
-source: Manual do Arcano. 83
-tags: [level4, bardo, feiticeiro, mago, sonico, padrao, metros, raio, instantanea, nenhum, dano]
----
+**Titulo**:Raio Sônico
 
 **Arcana de nível 4**
 

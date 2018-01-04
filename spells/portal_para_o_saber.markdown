@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Portal para o Saber"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level4, bardo, feiticeiro, mago, padrao, metros, minuto, nenhum]
----
+**Titulo**:Portal para o Saber
 
 **Arcana de nível 4**
 

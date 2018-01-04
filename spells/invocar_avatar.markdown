@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Avatar"
-date:   2016-11-17
-source: Manual do Devoto.86
-tags: [level9, clerigo, abencoado, druida,  invocacao, completa, pessoal, concentracao, nenhum, experiencia]
----
+**Titulo**:Invocar Avatar
 
 ** Invocação de nível 9 **
 

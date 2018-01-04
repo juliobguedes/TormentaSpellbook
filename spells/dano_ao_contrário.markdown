@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dano ao Contrário"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level5, bardo, clerigo, abencoado, druida, padrao, toque, criatura, hora, descarregar, vontade, anula]
----
+**Titulo**:Dano ao Contrário
 
 **Divina de nível 5**
 

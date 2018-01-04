@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Infligir Ferimentos Graves"
-date:   2016-11-10
-source: Manual Básico.187
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, necromancia, padrao, toque, criatura, instantanea, nenhum, dano]
----
+**Titulo**:Infligir Ferimentos Graves
 
 **Infligir de Nível 3**
 

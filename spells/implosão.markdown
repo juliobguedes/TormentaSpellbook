@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Implosão"
-date:   2016-11-16
-source: Manual Básico.187
-tags: [level9,  clerigo, abencoado, druida, fogo,  padrao, metros, criatura, concentracao, rodadas, fortitude, anula]
----
+**Titulo**:Implosão
 
 **Fogo de Nível 9**
 

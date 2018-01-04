@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Fúria"
-date:   2016-11-10
-source: Manual Básico.164
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, metros, alvo, minuto, nenhum]
----
+**Titulo**:Fúria
 
 **Encantamento de Nível 3**
 

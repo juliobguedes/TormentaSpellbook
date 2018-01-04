@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Santuário Particular"
-date:   2016-11-08
-source: Manual Básico.211
-tags: [level5, bardo,  feiticeiro, mago, abjuracao, minuto, metros, cubo, dia, nenhum]
----
+**Titulo**:Santuário Particular
 
 **Abjuração de Nível 5**
 

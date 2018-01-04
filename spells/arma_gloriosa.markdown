@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arma Gloriosa"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level1, paladino, encantamento, bem, padrao, toque, objeto, minuto, nenhum]
----
+**Titulo**:Arma Gloriosa
 
 **Bem/Encantamento de nível 2**
 

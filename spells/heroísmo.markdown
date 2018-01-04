@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Heroísmo"
-date:   2016-11-10
-source: Manual Básico.185
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, toque, alvo, hora, nenhum]
----
+**Titulo**:Heroísmo
 
 **Encantamento de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Visão da Morte"
-date:   2016-11-08
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, necromancia, padrao, pessoal, voce, hora, nenhum]
----
+**Titulo**:Visão da Morte
 
 **Necromancia de Nível 1**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Resistência a Magia"
-date:   2016-11-08
-source: Manual Básico.208
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Resistência a Magia
 
 **Abjuração de Nível 5**
 

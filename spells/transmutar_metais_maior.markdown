@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Transmutar Metais Maior"
-date:   2016-11-17
-source: Manual do Devoto. 86
-tags: [level9, feiticeiro, mago, transmutacao, minutos, pessoal, voce, hora, componente, experiencia]
----
+**Titulo**:Transmutar Metais Maior
 
 **Transmutação de nível 9**
 

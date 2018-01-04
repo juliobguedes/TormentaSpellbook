@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Atacar a Sorte"
-date:   2016-11-17
-source: Manual do Arcano. 78
-tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, adivinhacao, padrao, metros, criatura, dia, vontade, anula]
----
+**Titulo**:Atacar a Sorte
 
 **Adivinhação de nível 2**
 

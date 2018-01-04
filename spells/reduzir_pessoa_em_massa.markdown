@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Reduzir Pessoa em Massa"
-date:   2016-11-11
-source: Manual Básico. 206
-tags: [level4, bardo, feiticeiro, mago, transmutacao, padrao, metros, humanoide, minuto, nenhum]
----
+**Titulo**:Reduzir Pessoa em Massa
 
 **Transmutação de Nível 4**
 

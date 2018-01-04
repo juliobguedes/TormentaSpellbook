@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Truque da Corda"
-date:   2016-11-09
-source: Manual Básico.217
-tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, toque, corda, hora, nenhum]
----
+**Titulo**:Truque da Corda
 
 **Transmutação de Nível 2**
 

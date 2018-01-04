@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Página Secreta"
-date:   2016-11-10
-source: Manual Básico.199
-tags: [level3, bardo, feiticeiro, mago, transmutacao, minuto, toque, objeto, permanente, nenhum]
----
+**Titulo**:Página Secreta
 
 **Transmutação de Nível 3**
 

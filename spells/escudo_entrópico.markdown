@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Escudo Entrópico"
-date:   2016-11-08
-source: Manual Básico.181
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, abjuracao, padrao, pessoal, voce, minuto]
----
+**Titulo**:Escudo Entrópico
 
 **Abjuração de Nível 1**
 

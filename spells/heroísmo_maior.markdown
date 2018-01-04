@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Heroísmo Maior"
-date:   2016-11-13
-source: Manual Básico.185
-tags: [level6, bardo, feiticeiro, mago, encantamento,  padrao, toque, criatura, hora, nenhum]
----
+**Titulo**:Heroísmo Maior
 
 **Encantamento de Nível 6**
 

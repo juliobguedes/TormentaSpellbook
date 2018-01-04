@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Missão"
-date:   2016-11-13
-source: Manual Básico. 194
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, encantamento, minuto, metros, criatura, semana, nenhum]
----
+**Titulo**:Missão
 
 **Encantamento de Nível 6**
 

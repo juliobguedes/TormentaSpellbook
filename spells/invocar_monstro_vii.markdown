@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Monstro VII"
-date:   2016-11-15
-source: Manual Básico.189
-tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, invocacao, completa, metros, outro, concentracao, rodada, minuto, nenhum]
----
+**Titulo**:Invocar Monstro VII
 
 **Invocação de Nível 7**
 

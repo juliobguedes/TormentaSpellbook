@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Chuva de Meteoros"
-date:   2016-11-16
-source: Manual Básico.168
-tags: [level9, feiticeiro, mago, fogo,  padrao, metro, outro, instantanea, reflexo, metade]
----
+**Titulo**:Chuva de Meteoros
 
 **Fogo de Nível 9**
 

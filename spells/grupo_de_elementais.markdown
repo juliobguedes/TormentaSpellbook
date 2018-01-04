@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Grupo de Elementais"
-date:   2016-11-16
-source: Manual Básico.185
-tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, invocacao, agua, ar, fogo, terra,  minutos, metros, dia, nenhum]
----
+**Titulo**:Grupo de Elementais
 
 **Invocação/Água, Ar, Fogo ou Terra de Nível 9**
 

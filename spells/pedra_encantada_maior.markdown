@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pedra Encantada Maior"
-date:   2016-11-17
-source: Manual do Devoto. 86
-tags: [level4, bardo, paladino, ranger, clerigo, abencoado, druida, luz, terra, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Pedra Encantada Maior
 
 **Luz/Terra de nível 4**
 

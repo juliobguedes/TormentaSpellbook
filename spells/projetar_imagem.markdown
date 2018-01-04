@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Projetar Imagem"
-date:   2016-11-15
-source: Manual Básico.204
-tags: [level7, feiticeiro, mago, ilusao, padrao, metros, outro, minuto, vontade, anula]
----
+**Titulo**:Projetar Imagem
 
 **Ilusão de Nível 7**
 

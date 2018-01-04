@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Domínio do Fogo"
-date:   2016-11-17
-source: Manual do Arcano. 73
-tags: [level9, feiticeiro, mago, fogo, semana, quilometro, circulo, ano, componente]
----
+**Titulo**:Domínio do Fogo
 
 **Fogo de nível 9 **
 

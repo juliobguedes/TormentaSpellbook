@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pequeno Refúgio"
-date:   2016-11-10
-source: Manual Básico.201
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, invocacao, completa, metros, domo, dia, nenhum]
----
+**Titulo**:Pequeno Refúgio
 
 **Invocação de Nível 3**
 

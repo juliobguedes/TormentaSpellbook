@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pedras Afiadas"
-date:   2016-11-11
-source: Manual Básico.201
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, metros, quadrado, dia, reflexo, parcial]
----
+**Titulo**:Pedras Afiadas
 
 **Transmutação de Nível 4**
 

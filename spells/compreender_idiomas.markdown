@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Compreender Idiomas"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level1, bardo, druida, clerigo, abencoado, ranger, feiticeiro, mago, paladino, adivinhacao, padrao, pessoal, voce, minutos]
----
+**Titulo**:Compreender Idiomas
 
 **Adivinhação de Nível 1**
 

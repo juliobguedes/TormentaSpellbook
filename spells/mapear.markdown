@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mapear"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level2, bardo, feiticeiro, mago, adivinhacao, minuto, toque, pergaminho, minuto, nenhum]
----
+**Titulo**:Mapear
 
 **Adivinhação de nível 2**
 

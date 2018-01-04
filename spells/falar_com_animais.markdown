@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Falar com Animais"
-date:   2016-11-09
-source: Manual Básico.183
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, adivinhacao, padrao, pessoal, voce, minuto, nenhum]
----
+**Titulo**:Falar com Animais
 
 **Adivinhação de Nível 2**
 

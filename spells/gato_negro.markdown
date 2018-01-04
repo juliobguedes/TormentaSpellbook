@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Gato Negro"
-date:   2016-11-17
-source: Manual do Arcano. 75
-tags: [level2, bardo, feiticeiro, mago, escuridao, ilusao, padrao, metros, criatura, hora, nenhum]
----
+**Titulo**:Gato Negro
 
 **Escuridão/Ilusão de nível 2**
 

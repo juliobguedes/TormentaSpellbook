@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Infligir Ferimentos Graves em Massa"
-date:   2016-11-15
-source: Manual Básico.187
-tags: [level7, clerigo, druida, necromancia]
----
+**Titulo**:Infligir Ferimentos Graves em Massa
 
 **Necromancia de Nível 7**
 

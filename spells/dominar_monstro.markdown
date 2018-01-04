@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dominar Monstro"
-date:   2016-11-16
-source: Manual Básico.219
-tags: [level9,  feiticeiro, mago, encantamento,  padrao, metros, criatura, semana, vontade, anula]
----
+**Titulo**:Dominar Monstro
 
 **Encantamento de Nível 9**
 

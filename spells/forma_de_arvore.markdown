@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Forma de Arvore"
-date:   2016-11-09
-source: Manual Básico.184
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, transmutacao, padrao, pessoal, voce, dia, nenhum]
----
+**Titulo**:Forma de Arvore
 
 **Transmutação de Nível 2**
 

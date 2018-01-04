@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio do Enfraquecimento"
-date:   2016-11-08
-source: Manual Básico.205
-tags: [level1, bardo, feiticeiro, mago, necromancia, padrao, metros, raio, minuto, nenhum]
----
+**Titulo**:Raio do Enfraquecimento
 
 **Necromancia de Nível 1**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Nevoa"
-date:   2016-11-09
-source: Manual Básico.197
-tags: [level2, bardo, feiticeiro, mago, ar, padrao, metros, cilindro, hora, nenhum]
----
+**Titulo**:Nevoa
 
 **Ar de Nível 2**
 

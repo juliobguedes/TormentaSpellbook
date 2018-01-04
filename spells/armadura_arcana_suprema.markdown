@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Armadura Arcana Suprema"
-date:   2016-11-17
-source: Manual do Arcano. 68
-tags: [level5, bardo, feiticeiro, mago, abjuracao, toque, criatura, hora, nenhum]
----
+**Titulo**:Armadura Arcana Suprema
 
 **Abjuração de nível 5**
 

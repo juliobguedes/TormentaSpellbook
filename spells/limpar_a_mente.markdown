@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Limpar a Mente"
-date:   2016-11-15
-source: Manual Básico.190
-tags: [level8, feiticeiro, mago, abjuracao, padrao, metros, criatura, dia, nenhum]
----
+**Titulo**:Limpar a Mente
 
 **Abjuração de Nível 8**
 

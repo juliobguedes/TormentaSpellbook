@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Chamas de Tauron"
-date:   2016-11-17
-source: Manual do Devoto. 84
-tags: [level4, bardo, feiticeiro, mago, fogo, completa, metros, cubo, minuto, nenhum]
----
+**Titulo**:Chamas de Tauron
 
 **Fogo de nível 4**
 

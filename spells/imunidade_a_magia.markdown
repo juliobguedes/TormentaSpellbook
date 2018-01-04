@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imunidade a Magia"
-date:   2016-11-11
-source: Manual Básico. 187
-tags: [level4, bardo, clerigo, abencoado, druida, ranger, paladino, abjuracao, padrao, toque, criatura, hora, nenhum]
----
+**Titulo**:Imunidade a Magia
 
 **Abjuração de Nível 4**
 

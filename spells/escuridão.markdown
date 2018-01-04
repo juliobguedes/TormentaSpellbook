@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Escuridão"
-date:   2016-11-09
-source: Manual Básico.181
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, escuridao, padrao, toque, objeto, hora, nenhum]
----
+**Titulo**:Escuridão
 
 **Escuridão de Nível 2**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Gêiser"
-date:   2016-11-17
-source: Manual do Devoto. 85
-tags: [level4, bardo, clerigo, abencoado, druida, paladino, ranger, agua, fogo, padrao, metros, outro, instantanea, reflexo, anula]
----
+**Titulo**:Gêiser
 
 **Água/Fogo de nível 4**
 

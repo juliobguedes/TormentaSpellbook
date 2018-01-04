@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sorte Súbita"
-date:   2016-11-10
-source: Mundo dos Deuses. 149
-tags: [level2, bardo, clerigo, abencoado, druida, paladino, ranger, mago, feiticeiro, caos, padrao, metros, criatura, instantanea, nenhum, componente]
----
+**Titulo**:Sorte Súbita
 
 **Caos de Nível 2**
 

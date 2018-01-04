@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vidência"
-date:   2016-11-11
-source: Manual Básico.218
-tags: [level4, level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, hora, outro, minuto, vontade, anula]
----
+**Titulo**:Vidência
 
 **Arcana 4/ Divina 5**
 

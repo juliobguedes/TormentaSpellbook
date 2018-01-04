@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Prisão"
-date:   2016-11-15
-source: Manual Básico.203
-tags: [level8, feiticeiro, mago, encantamento, minuto, metros, criatura, vontade, anula]
----
+**Titulo**:Prisão
 
 **Encantamento de Nível 8**
 

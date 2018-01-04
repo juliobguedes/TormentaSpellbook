@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invisibilidade"
-date:   2016-11-09
-source: Manual Básico.188
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, toque, pessoal, alvo, minuto, nenhum]
----
+**Titulo**:Invisibilidade
 
 **Ilusão de Nível 2**
 

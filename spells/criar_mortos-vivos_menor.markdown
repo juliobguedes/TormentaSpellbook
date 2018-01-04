@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Mortos-Vivos Menor"
-date:   2016-11-11
-source: Manual Básico. 174
-tags: [level3, level4, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, necromancia, padrao, toque, alvo, instantanea, nenhum, componente]
----
+**Titulo**:Criar Mortos-Vivos Menor
 
 **Arcana 4 / Divina 3**
 

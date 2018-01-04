@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Bom Fruto"
-date:   2016-11-08
-source: Manual Básico.166
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, transmutacao, padrao, toque, alvo, dia, nenhum]
----
+**Titulo**:Bom Fruto
 
 **Transmutação de Nível 1**
 

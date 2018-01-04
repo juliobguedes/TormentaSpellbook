@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Imbuir Cura Acelerada Maior"
-date:   2016-11-17
-source: Manual do Devoto. 85
-tags: [level5, bardo, clerigo, abencoado, druida, cura, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Imbuir Cura Acelerada Maior
 
 **Cura de nível 5**
 

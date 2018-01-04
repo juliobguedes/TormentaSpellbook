@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Expulsão"
-date:   2016-11-11
-source: Manual Básico. 183
-tags: [level4, level5, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, abjuracao, padrao, metros, criatura, espirito, instantanea, vontade, anula]
----
+**Titulo**:Expulsão
 
 **Arcana 5/ Divina 4**
 

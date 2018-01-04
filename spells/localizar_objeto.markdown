@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Localizar Objeto"
-date:   2016-11-09
-source: Manual Básico.191
-tags: [level2,level3, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, adivinhacao, padrao, metros, circulo, minuto, nenhum]
----
+**Titulo**:Localizar Objeto
 
 **Arcana 2/ Divina 3**
 

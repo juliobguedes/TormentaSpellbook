@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Armadura Arcana Maior"
-date:   2016-11-17
-source: Manual do Arcano. 68
-tags: [level3, bardo, feiticeiro, mago, abjuracao, padrao, toque, criatura, hora, nenhum]
----
+**Titulo**:Armadura Arcana Maior
 
 **Abjuração de nível 3**
 

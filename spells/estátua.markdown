@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Estátua"
-date:   2016-11-15
-source: Manual Básico.183
-tags: [level7, mago, feiticeiro, transmutacao, completa, toque, criatura, dia, nenhum]
----
+**Titulo**:Estátua
 
 **Transmutação de Nível 7**
 

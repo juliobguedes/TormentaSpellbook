@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Flor Perene"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, feiticeiro, mago, terra, padrao, metros, alvo, semana, fortitude, anula]
----
+**Titulo**:Flor Perene
 
 **Terra de Nível 0**
 

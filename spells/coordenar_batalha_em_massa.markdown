@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Coordenar Batalha em Massa"
-date:   2016-11-17
-source: Manual do Arcano. 71
-tags: [level7,  feiticeiro, mago, encantamento, padrao, metros, criatura, rodada, vontade, anula]
----
+**Titulo**:Coordenar Batalha em Massa
 
 **Encantamento de nível 7**
 

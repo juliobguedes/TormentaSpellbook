@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Flecha de Chamas"
-date:   2016-11-10
-source: Manual Básico.184
-tags: [level3, bardo, feiticeiro, mago, fogo, padrao, metros, alvo, hora, nenhum]
----
+**Titulo**:Flecha de Chamas
 
 **Fogo de Nível 3**
 

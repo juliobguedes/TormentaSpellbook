@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mãos Mágicas"
-date:   2016-11-07
-source: Manual Básico.192
-tags: [level0, bardo, feiticeiro, mago, transmutacao, padrao, metros, objeto, concentracao, nenhum]
----
+**Titulo**:Mãos Mágicas
 
 **Transmutação de Nível 0**
 

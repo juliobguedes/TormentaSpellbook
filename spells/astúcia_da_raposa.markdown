@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Astúcia da Raposa"
-date:   2016-11-09
-source: Manual Básico.164
-tags: [level2, bardo, feiticeiro, mago, transmutacao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Astúcia da Raposa
 
 **Transmutação de Nível 2**
 

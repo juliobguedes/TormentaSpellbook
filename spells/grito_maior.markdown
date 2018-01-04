@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Grito Maior"
-date:   2016-11-15
-source: Manual Básico.185
-tags: [level8, feiticeiro, mago, sonico, padrao, metros, cone, instantanea, fortitude, parcial]
----
+**Titulo**:Grito Maior
 
 **Sônico de Nível 8**
 

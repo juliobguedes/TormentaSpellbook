@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cajado em Cobra"
-date:   2016-11-10
-source: Manual Básico.167
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, metros, objeto, minuto, fortitude, anula, nenhum]
----
+**Titulo**:Cajado em Cobra
 
 **Transmutação de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Fumos Negros"
-date:   2016-11-17
-source: Manual do Arcano. 81
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, acido, mal, padrao, metros, cone, instantanea, fortitude, reflexos, parcial, dano]
----
+**Titulo**:Fumos Negros
 
 **Ácido/ Mal de nível 6**
 

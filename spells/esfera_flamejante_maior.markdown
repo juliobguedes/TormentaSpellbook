@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esfera Flamejante Maior"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level4, bardo, feiticeiro, mago, fogo, padrao, metros, esfera, minuto, reflexo, anula]
----
+**Titulo**:Esfera Flamejante Maior
 
 **Fogo de nível 4**
 

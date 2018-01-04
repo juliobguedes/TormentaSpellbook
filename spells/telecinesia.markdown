@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Telecinesia"
-date:   2016-11-08
-source: Manual Básico.214
-tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, concentracao, nenhum, vontade, anula]
----
+**Titulo**:Telecinesia
 
 **Transmutação de Nível 5**
 

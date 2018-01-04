@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Palavra Sagrada"
-date:   2016-11-15
-source: Manual Básico.200
-tags: [level7, clerigo, abencoado, druida, bem, sonico, padrao, metros, dispersao, vontade, anula]
----
+**Titulo**:Palavra Sagrada
 
 **Bem de Nível 7**
 

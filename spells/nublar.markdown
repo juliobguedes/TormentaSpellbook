@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Nublar"
-date:   2016-11-09
-source: Manual Básico.198
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Nublar
 
 **Ilusão de Nível 2**
 

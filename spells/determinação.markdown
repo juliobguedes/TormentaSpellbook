@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Determinação"
-date:   2016-11-17
-source: Manual do Arcano. 73
-tags: [level2, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Determinação
 
 **Encantamento de nível 2**
 

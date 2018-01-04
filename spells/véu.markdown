@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Véu"
-date:   2016-11-13
-source: Manual Básico.217
-tags: [level6, bardo, feiticeiro, mago, ilusao, padrao, metros, criatura, dia, nenhum, vontade, anula]
----
+**Titulo**:Véu
 
 **Ilusão de Nível 6**
 

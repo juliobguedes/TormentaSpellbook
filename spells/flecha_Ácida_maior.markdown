@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Flecha Ácida Maior"
-date:   2016-11-17
-source: Manual do Arcano. 78
-tags: [level5, bardo, feiticeiro, mago, acido, padrao, metros, objeto, rodadas, nenhum]
----
+**Titulo**:Flecha Ácida Maior
 
 **Ácido de nível 5**
 

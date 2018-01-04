@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pirotecnia"
-date:   2016-11-09
-source: Manual Básico.202
-tags: [level2, bardo, feiticeiro, mago, fogo, padrao, metros, objeto, rodadas, fortitude, vontade, anula]
----
+**Titulo**:Pirotecnia
 
 **Fogo de Nível 2**
 

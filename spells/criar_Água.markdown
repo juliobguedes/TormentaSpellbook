@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Água"
-date:   2016-11-08
-source: Manual Básico.173
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, agua, padrao, toque, objeto, instantanea, nenhum]
----
+**Titulo**:Criar Água
 
 **Água de Nível 1**
 

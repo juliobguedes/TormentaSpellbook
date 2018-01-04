@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Monstro IX"
-date:   2016-11-16
-source: Manual Básico.189
-tags: [level9, clerigo, abencoado, druida, feiticeiro, mago, invocacao,  completa, metros, outro, concentracao, rodada, minuto, nenhum]
----
+**Titulo**:Invocar Monstro IX
 
 **Invocação de Nível 9**
 

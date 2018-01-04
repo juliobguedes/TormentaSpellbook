@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Alimentos"
-date:   2016-11-10
-source: Manual Básico.173
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, agua, padrao, toque, outro, instantanea, nenhum]
----
+**Titulo**:Criar Alimentos
 
 **Água de Nível 3**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pedra Encantada"
-date:   2016-11-08
-source: Manual Básico.201
-tags: [level1, bardo, clerigo, abencoado, druida, ranger, paladino,  terra, padrao, toque, alvo, hora,  nenhum]
----
+**Titulo**:Pedra Encantada
 
 **Terra de Nível 1**
 

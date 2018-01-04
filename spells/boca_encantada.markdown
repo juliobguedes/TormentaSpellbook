@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Boca Encantada"
-date:   2016-11-09
-source: Manual Básico.166
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, metros, objeto, permanente, descarregada, nenhum]
----
+**Titulo**:Boca Encantada
 
 **Ilusão de Nível 2**
 

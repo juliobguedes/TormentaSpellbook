@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Banimento"
-date:   2016-11-15
-source: Manual Básico.165
-tags: [level6, level7, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, metros, espeirito, criatura, instantanea, vontade, anula]
----
+**Titulo**:Banimento
 
 **Arcana 7/ Divina 6**
 

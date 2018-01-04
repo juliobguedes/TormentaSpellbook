@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lâmina Afiada em Massa"
-date:   2016-11-10
-source: Manual do Arcano. 79
-tags: [level6, bardo, feiticeiro, mago, transmutacao, padrao, metros, criaturas, hora, nenhum]
----
+**Titulo**:Lâmina Afiada em Massa
 
 **Transmutação de Nível 6**
 

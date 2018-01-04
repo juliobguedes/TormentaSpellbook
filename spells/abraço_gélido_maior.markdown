@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Abraço Gélido Maior"
-date:   2016-11-17
-source: Manual do Arcano. 70
-tags: [level6, bardo, feiticeiro, mago, frio, padrao, pessoal, criatura, minuto, fortitude, parcial,dano]
----
+**Titulo**:Abraço Gélido Maior
 
 **Frio de nível 6**
 

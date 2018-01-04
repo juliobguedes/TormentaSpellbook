@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esculpir o Som"
-date:   2016-11-10
-source: Manual Básico.164
-tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, metros, alvo, objeto, hora, nenhum]
----
+**Titulo**:Esculpir o Som
 
 **Transmutação de Nível 3**
 

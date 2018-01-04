@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque da Múmia"
-date:   2016-11-17
-source: Manual do Arcano. 85
-tags: [level7,  feiticeiro, mago, necromancia, padrao, toque, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Toque da Múmia
 
 **Necromancia de nível 7**
 

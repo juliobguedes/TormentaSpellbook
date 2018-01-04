@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Apagar"
-date:    2016-11-08
-source: Manual Básico.163
-tags: [level1, bardo, feiticeiro, mago, transmutacao, padrao, metros, alvo, instantanea, nenhum]
----
+**Titulo**:Apagar
 
 **Transmutação de Nível 1**
 

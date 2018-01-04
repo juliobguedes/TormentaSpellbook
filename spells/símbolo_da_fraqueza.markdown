@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo da Fraqueza"
-date:   2016-11-15
-source: Manual Básico.212
-tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, necromancia, minuto, toque, permanente, descarregar, hora, fortitude, anula, componente]
----
+**Titulo**:Símbolo da Fraqueza
 
 **Necromancia de Nível 7**
 

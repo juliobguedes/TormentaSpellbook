@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Repelir Madeira"
-date:   2016-11-13
-source: Manual Básico.208
-tags: [level6, bardo, clerigo, abencoado, druida, abjuracao,  padrao, metros, linha, emanacao, minuto]
----
+**Titulo**:Repelir Madeira
 
 **Abjuração de Nível 6**
 

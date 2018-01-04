@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arca Secreta"
-date:   2016-11-08
-source: Manual Básico.163
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, invocacao, minutos, alvo, mes, nenhum]
----
+**Titulo**:Arca Secreta
 
 **Invocação de Nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vigor do Urso em Massa"
-date:   2016-11-13
-source: Manual Básico.218
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Vigor do Urso em Massa
 
 **Transmutação de Nível 6**
 

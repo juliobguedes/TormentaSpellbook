@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Convocar Tempestade de Relampagos"
-date:   2016-11-08
-source: Manual Básico.173
-tags: [level5, bardo, clerigo, abencoado, druida, eletricidade, completa, metros, outro, minuto, reflexo, metade]
----
+**Titulo**:Convocar Tempestade de Relampagos
 
 **Eletrecidade de Nível 5**
 

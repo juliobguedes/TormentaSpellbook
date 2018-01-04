@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Comandar"
-date:   2016-11-08
-source: Manual Básico.170
-tags: [level1, bardo, druida, clerigo, abencoado, ranger,paladino, encantamento, padrao, metros, alvo, rodada, vontade, anula]
----
+**Titulo**:Comandar
 
 **Encantamento de Nível 1**
 

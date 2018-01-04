@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Penitência"
-date:   2016-11-08
-source: Manual Básico.201
-tags: [level5, bardo, clerigo, abencoado, druida, abjuracao, dia, toque, criatura, nenhum, experiencia]
----
+**Titulo**:Penitência
 
 **Abjuração de Nível 5**
 

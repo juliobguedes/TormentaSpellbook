@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Resistência a Energia"
-date:   2016-11-09
-source: Manual Básico.219
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, abjuracao, padrao, toque, hora, nenhun]
----
+**Titulo**:Resistência a Energia
 
 **Abjuração de Nível 2**
 

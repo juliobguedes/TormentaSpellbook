@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Resistência"
-date:   2016-11-07
-source: Manual Básico.211
-tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, toque, alvo, minuto, nenhum]
----
+**Titulo**:Resistência
 
 **Abjuração de Nível 0**
 

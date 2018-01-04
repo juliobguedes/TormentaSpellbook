@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Magia Curinga VIII"
-date:   2016-11-17
-source: Manual do Devoto.88
-tags: [level8, clerigo, abencoado, druida,  wynna]
----
+**Titulo**:Magia Curinga VIII
 
 ** Descritor igual a magia imitada de nível 8 **
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Piscar"
-date:   2016-11-10
-source: Manual Básico.202
-tags: [level3, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, minuto]
----
+**Titulo**:Piscar
 
 **Transmutação de Nível 3**
 

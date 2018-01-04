@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lentidão"
-date:   2016-11-10
-source: Manual Básico.190
-tags: [level3, bardo, feiticeiro, mago, tempo, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Lentidão
 
 **Tempo de Nível 3**
 

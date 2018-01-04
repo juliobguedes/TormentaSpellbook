@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Esqueletos Arcanos Maior"
-date:   2016-11-17
-source: Manual do Devoto. 72
-tags: [level8, feiticeiro, mago, necromancia, hora, toque, alvo, instantanea, nenhum]
----
+**Titulo**:Criar Esqueletos Arcanos Maior
 
 **Necromancia de nível 8**
 

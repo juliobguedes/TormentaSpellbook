@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sementes Rubras"
-date:   2016-11-17
-source: Guia da Trilogia. 163
-tags: [level8, feiticeiro, mago, transmutacao, minuto, toque, quadrado, dia, descarregar, minuto, nenhum]
----
+**Titulo**:Sementes Rubras
 
 **Transmutacao de nível 8**
 

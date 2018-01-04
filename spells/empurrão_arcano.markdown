@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Empurrão Arcano"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level4, bardo, feiticeiro, mago, essencia, livre, metros, criatura, instantanea, reflexo, parcial]
----
+**Titulo**:Empurrão Arcano
 
 **Essência de nível 4**
 

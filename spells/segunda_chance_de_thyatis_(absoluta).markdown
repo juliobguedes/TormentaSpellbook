@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Segunda Chance de Thyatis (Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 95
-tags: [level9, clerigo, abencoado, druida, ordem, thyatis, livre, metros, criatura, instantanea, nenhum, absoluta]
----
+**Titulo**:Segunda Chance de Thyatis (Absoluta)
 
 **Ordem de Nível 9 (Absoluta)**
 

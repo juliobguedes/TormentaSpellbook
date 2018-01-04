@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Miragem Arcana"
-date:   2016-11-08
-source: Manual Básico.194
-tags: [level5, bardo,  feiticeiro, mago, ilusao, padrao, metros, outro, dia, vontade, anula]
----
+**Titulo**:Miragem Arcana
 
 **Ilusão de Nível 5**
 

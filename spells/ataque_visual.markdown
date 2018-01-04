@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ataque Visual"
-date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo, feiticeiro, mago, necromancia,  padrao, metros, criatura, rodada, fortitude, anula]
----
+**Titulo**:Ataque Visual
 
 **Necromancia de Nível 6**
 

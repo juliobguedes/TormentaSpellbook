@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo de Proteção Maior"
-date:   2016-11-13
-source: Manual Básico.212
-tags: [level6, bardo, clerigo, abencoado, druida, abjuracao, minuto, toque, objeto, permanente, descarregar, componente]
----
+**Titulo**:Símbolo de Proteção Maior
 
 **Abjuração de Nível 6**
 

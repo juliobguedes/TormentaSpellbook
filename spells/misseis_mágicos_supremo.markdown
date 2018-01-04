@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Misseis Mágicos Supremo"
-date:   2016-11-17
-source: Manual do Arcano. 81
-tags: [level5, bardo, feiticeiro, mago, essencia, padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Misseis Mágicos Supremo
 
 **Essência de nível 5**
 

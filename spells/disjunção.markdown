@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Disjunção"
-date:   2016-11-16
-source: Manual Básico.178
-tags: [level9, feiticeiro, mago, abjuracao,  padrao, metros, explosao, instantanea, vontade, anula, nenhum]
----
+**Titulo**:Disjunção
 
 **Abjuração de Nível 9**
 

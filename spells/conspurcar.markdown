@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Conspurcar"
-date:   2016-11-08
-source: Manual Básico.171
-tags: [level5, bardo, clerigo, abencoado, druida, mal, dia, toque, emanacao, permanente, componente]
----
+**Titulo**:Conspurcar
 
 **Mal de Nível 5**
 

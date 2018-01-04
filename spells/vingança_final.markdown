@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vingança Final"
-date:   2016-11-17
-source: Manual do Devoto. 86
-tags: [level9, feiticeiro, mago, essencia, padrao, pessoal, voce, permanente, descarregar, reflexo, parcial]
----
+**Titulo**:Vingança Final
 
 **Essência de nível 9**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Vidência Maior"
-date:   2016-11-15
-source: Manual Básico.218
-tags: [level7, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, outro, dia, nenhum]
----
+**Titulo**:Vidência Maior
 
 **Adivinhação de Nível 7**
 

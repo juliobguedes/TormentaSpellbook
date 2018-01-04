@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Olhos Observadores"
-date:   2016-11-08
-source: Manual Básico.198
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, adivinhacao, padrao, quilometro, outro, dia, nenhum]
----
+**Titulo**:Olhos Observadores
 
 **Adivinhação de Nível 5**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dados de Nimb"
-date:   2016-11-10
-source: Mundo dos Deuses. 148
-tags: [level2, bardo, mago, feiticeiro, clerigo, abencoado, druida, paladino, ranger, encantamento, caos, padrao, metros, criatura, rodada, vontade, anula]
----
+**Titulo**:Dados de Nimb
 
 **Encantamento/Caos de Nível 2**
 

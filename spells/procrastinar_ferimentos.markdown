@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Procrastinar Ferimentos"
-date:   2016-11-17
-source: Manual do Arcano. 82
-tags: [level4, bardo, feiticeiro, mago, tempo, padrao, pessoal, voce, outro, rodadas, fortitude, metade]
----
+**Titulo**:Procrastinar Ferimentos
 
 **Tempo de nível 4**
 

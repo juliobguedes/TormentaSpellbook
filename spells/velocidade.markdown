@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Velocidade"
-date:   2016-11-10
-source: Manual Básico.217
-tags: [level3, bardo, feiticeiro, mago, tempo, padrao, metros, alvo, minuto, nenhum]
----
+**Titulo**:Velocidade
 
 **Tempo de Nível 3**
 

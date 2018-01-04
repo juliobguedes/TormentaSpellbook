@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Simbolo de Sangue"
-date:   2016-11-17
-source: Manual do Arcano. 84
-tags: [level4, bardo, clerigo, abencoado, druida,feiticeiro, mago, necromancia, minutos, toque, outro, permanente, descarregar, fortitude, parcial, componente]
----
+**Titulo**:Simbolo de Sangue
 
 **Necromancia de nível 4**
 

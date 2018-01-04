@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Alarme Maior"
-date:   2016-11-17
-source: Manual do Arcano. 67
-tags: [level4, bardo, feiticeiro, mago, abjuracao, minuto, metros, emanacao, dia]
----
+**Titulo**:Alarme Maior
 
 **Abjuração de nível 4**
 

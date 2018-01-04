@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio de Frio"
-date:   2016-11-07
-source: Manual Básico.206
-tags: [level0, bardo, feiticeiro, mago, frio, padrao, metros, raio, instantanea, reflexos, dano]
----
+**Titulo**:Raio de Frio
 
 **Frio de Nível 0**
 

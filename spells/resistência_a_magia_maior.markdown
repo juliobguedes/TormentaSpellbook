@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Resistência a Magia Maior"
-date:   2016-11-15
-source: Manual Básico.208
-tags: [level8, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Resistência a Magia Maior
 
 **Abjuraçã de Nível 8**
 

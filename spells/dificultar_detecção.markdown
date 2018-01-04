@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dificultar Detecção"
-date:   2016-11-10
-source: Manual Básico.178
-tags: [level3, bardo, feiticeiro, mago, abjuracao, padrao, toque, alvo, objeto, dia, vontade, anula]
----
+**Titulo**:Dificultar Detecção
 
 **Abjuração de Nível 3**
 

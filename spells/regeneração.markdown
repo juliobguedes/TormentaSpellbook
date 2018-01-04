@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Regeneração"
-date:   2016-11-15
-source: Manual Básico.207
-tags: [level7, clerigo, abencoado, druida, cura, padrao, toque, criatura, instantanea, nenhum]
----
+**Titulo**:Regeneração
 
 **Cura de Nível 7**
 

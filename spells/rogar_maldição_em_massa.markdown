@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Rogar Maldição em Massa"
-date:   2016-11-17
-source: Manual do Devoto. 89
-tags: [level6, level7, clerigo, abencoado, druida, feiticeiro, mago, necromancia, padrao, toque, criatura, permanente, vontade, anula]
----
+**Titulo**:Rogar Maldição em Massa
 
 **Arcana 7/Divina 6**
 

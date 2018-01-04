@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Espírito Animal IV"
-date:   2016-11-17
-source: Manual do Devoto.85
-tags: [level7, clerigo, abencoado, druida, padrao, metros, outro, instantanea, nenhum, dano]
----
+**Titulo**:Espírito Animal IV
 
 **Tempo de Execução**: Ação Padrão
 

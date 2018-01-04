@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Círculo de Teletransporte"
-date:   2016-11-16
-source: Manual Básico.169
-tags: [level9, feiticeiro, mago, invocacao,  minuto, toque, circulo, hora, nenhum, componente]
----
+**Titulo**:Círculo de Teletransporte
 
 **Invocação de Nível 9**
 

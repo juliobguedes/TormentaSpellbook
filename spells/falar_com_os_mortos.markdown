@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Falar com os Mortos"
-date:   2016-11-10
-source: Manual Básico.183
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, transmutacao, padrao, toque, minuto, nenhum]
----
+**Titulo**:Falar com os Mortos
 
 **Transmutação de Nível 3**
 

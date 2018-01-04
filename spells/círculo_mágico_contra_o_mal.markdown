@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Círculo Mágico contra o Mal"
-date:   2016-11-10
-source: Manual Básico.169
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, feiticeiro, mago, abjuracao, padrao, toque, emanacao, minuto, semana, vontade, anula, componente]
----
+**Titulo**:Círculo Mágico contra o Mal
 
 **Abjuração de Nível 3**
 

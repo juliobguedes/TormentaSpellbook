@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Transmutar Metais"
-date:   2016-11-17
-source: Manual do Arcano. 85
-tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, toque, objeto, permanente, nenhum, componente, experiencia]
----
+**Titulo**:Transmutar Metais
 
 **Transmutação de nível 5**
 

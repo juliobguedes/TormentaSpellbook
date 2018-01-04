@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Megalon"
-date:   2016-11-17
-source: Mundo de Arton - Panteão. 69
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, transmutacao, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Megalon
 
 **Transmutação de nível 6**
 

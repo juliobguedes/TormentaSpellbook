@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Romper Morto-Vivo"
-date:   2016-11-07
-source: Manual Básico.210
-tags: [level0, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, metros, raio, minuto, nenhum]
----
+**Titulo**:Romper Morto-Vivo
 
 **Abjuração de Nível 0**
 

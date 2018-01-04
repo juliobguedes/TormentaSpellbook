@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esfera de Invisibilidade"
-date:   2016-11-10
-source: Manual Básico.182
-tags: [level3, bardo, feiticeiro, mago, ilusao, padrao, pessoal, esfera, minuto, nenhum]
----
+**Titulo**:Esfera de Invisibilidade
 
 **Ilusão de Nível 3**
 

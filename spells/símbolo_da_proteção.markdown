@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Símbolo da Proteção"
-date:   2016-11-10
-source: Manual Básico.212
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, abjuracao, minutos, toque, objeto, permanente, descarregar]
----
+**Titulo**:Símbolo da Proteção
 
 **Abjuração de Nível 3**
 

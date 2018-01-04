@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Pasmar"
-date:   2016-11-07
-source: Manual Básico.200
-tags: [level0, bardo, feiticeiro, mago, encantamento,  padrao, metros, alvo, rodada, anula, vontade]
----
+**Titulo**:Pasmar
 
 **Encantamento de Nível 0**
 

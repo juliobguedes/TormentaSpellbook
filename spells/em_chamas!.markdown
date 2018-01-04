@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Em Chamas!"
-date:   2016-11-17
-source: Manual do Arcano. 75
-tags: [level2, bardo, feiticeiro, mago, fogo, movimento, pessoal, voce, rodadas, nenhum]
----
+**Titulo**:Em Chamas!
 
 **Fogo de nível 2**
 

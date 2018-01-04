@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Terreno Ilusório"
-date:   2016-11-11
-source: Manual Básico.215
-tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, metros, outro, dia, vontade, anula]
----
+**Titulo**:Terreno Ilusório
 
 **Ilusão de Nível 4**
 

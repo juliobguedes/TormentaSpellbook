@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Coordenar a Batalha"
-date:   2016-11-17
-source: Manual do Arcano. 71
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, metros, criatura, rodada, vontade, anula]
----
+**Titulo**:Coordenar a Batalha
 
 **Encantamento de nível 3**
 

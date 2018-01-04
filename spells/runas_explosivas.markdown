@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Runas Explosivas"
-date:   2016-11-10
-source: Manual Básico.210
-tags: [level3, bardo, feiticeiro, mago, abjuracao, padrao, toque, objeto, permanente, descarregar, nenhum, reflexos, metade, dano]
----
+**Titulo**:Runas Explosivas
 
 **Transmutação de Nível 3**
 

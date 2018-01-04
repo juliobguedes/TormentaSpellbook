@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Padrão Hipnótico"
-date:   2016-11-09
-source: Manual Básico.199
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, metros, dispersao, concentracao, rodada, minuto, vontade, anula]
----
+**Titulo**:Padrão Hipnótico
 
 **Ilusão de Nível 2**
 

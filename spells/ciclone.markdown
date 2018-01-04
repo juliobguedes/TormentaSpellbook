@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ciclone"
-date:   2016-11-15
-source: Manual Básico.169
-tags: [level8, clerigo, abencoado, druida, ar, padrao, metros, outro, minuto, reflexo, anula]
----
+**Titulo**:Ciclone
 
 **Divina de Nível 8**
 

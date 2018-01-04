@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Assassino Fantasmagórico"
-date:   2016-11-11
-source: Manual Básico. 164
-tags: [level4, bardo, feiticeiro, mago, ilusao, medo, padrao, metros, criatura, instantanea, vontade, fortitude, anula, parcial]
----
+**Titulo**:Assassino Fantasmagórico
 
 **Ilusão/Medo de Nível 4**
 

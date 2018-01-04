@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Recipiente Arcano"
-date:   2016-11-08
-source: Manual Básico.206
-tags: [level5, bardo, feiticeiro, mago, necromancia, padrao, metros, objeto, dia, vontade, anula]
----
+**Titulo**:Recipiente Arcano
 
 **Necromancia de Nível 5**
 

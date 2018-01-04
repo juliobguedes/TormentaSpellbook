@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Desespero"
-date:   2016-11-08
-source: Manual Básico.175
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, medo, padrao, metros, alvo, minuto, vontade, anula]
----
+**Titulo**:Desespero
 
 **Medo de Nível 1**
 

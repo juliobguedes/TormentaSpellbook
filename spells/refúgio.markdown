@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Refúgio"
-date:   2016-11-16
-source: Manual Básico.207
-tags: [level7, level9, clerigo, abencoado, druida, feiticeiro, mago, invocacao,  padrao, toque, objeto, permanente, componente]
----
+**Titulo**:Refúgio
 
 **Arcana 9/ Divina 7**
 

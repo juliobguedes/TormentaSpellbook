@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Milagre"
-date:   2016-11-16
-source: Manual Básico.194
-tags: [level9, clerigo, abencoado, druida,  padrao, nenhum, componente, experiencia]
----
+**Titulo**:Milagre
 
 **Divina de Nível 9**
 

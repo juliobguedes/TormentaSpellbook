@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Implosão de Energia"
-date:   2016-11-17
-source: Manual do Arcano. 77
-tags: [level3, bardo, clerigo, abencoado, druida, feiticeiro, mago, padrao, pessoal, explosao, instantanea, reflexo, vontade, parcial]
----
+**Titulo**:Implosão de Energia
 
 **Sônico de nível 3**
 

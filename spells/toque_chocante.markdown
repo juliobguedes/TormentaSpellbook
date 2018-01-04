@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque Chocante"
-date:   2016-11-08
-source: Manual Básico.216
-tags: [level1, bardo, feiticeiro, mago, eletricidade, padrao, toque, alvo, instantanea, dano, nenhum]
----
+**Titulo**:Toque Chocante
 
 **Eletricidade de Nível 1**
 

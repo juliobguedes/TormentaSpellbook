@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Arma Elemental em Massa"
-date:   2016-11-17
-source: Manual do Arcano. 68
-tags: [level5, bardo, feiticeiro, mago, eletricidade, fogo, frio, padrao, metros, objeto, minuto, nenhum]
----
+**Titulo**:Arma Elemental em Massa
 
 **Fogo/Eletricidade/Frio de nível 5**
 

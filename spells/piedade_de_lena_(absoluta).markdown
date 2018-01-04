@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Piedade de Lena (Absoluta)"
-date:   2016-11-17
-source: Manual do Devoto. 92
-tags: [level9, clerigo, abencoado, druida, cura, lena, livre, quilometro, circulo, mes, vontade, absoluta]
----
+**Titulo**:Piedade de Lena (Absoluta)
 
 **Cura de Nível 9 (Absoluta)**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Passos Longos"
-date:   2016-11-08
-source: Manual Básico.200
-tags: [level1, bardo, clerigo, abencoado, druida,  ranger,paladino, transmutacao, padrao, pessoal, voce, hora]
----
+**Titulo**:Passos Longos
 
 **Transmutação de Nível 1**
 

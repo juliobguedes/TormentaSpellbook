@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Envenenamento em Massa"
-date:   2016-11-17
-source: Manual do Devoto. 85
-tags: [level6, bardo, clerigo, abencoado, druida, necromancia, padrao, toque, criatura, instantanea, fortitude, anula]
----
+**Titulo**:Envenenamento em Massa
 
 **Necromancia de nível 6**
 

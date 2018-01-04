@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lendas e Histórias"
-date:   2016-11-13
-source: Manual Básico.190
-tags: [level6, bardo, feiticeiro, mago, adivinhacao, ilimitado, objeto, criatura, instantanea, nenhum]
----
+**Titulo**:Lendas e Histórias
 
 **Adivinhação de Nível 6**
 

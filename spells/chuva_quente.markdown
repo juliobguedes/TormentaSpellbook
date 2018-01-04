@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Chuva Quente"
-date:   2016-11-08
-source: Manual Básico.169
-tags: [level1, bardo, feiticeiro, mago, agua, padrao, metros, outro, concentracao, minuto, nenhum]
----
+**Titulo**:Chuva Quente
 
 **Água de Nível 1**
 

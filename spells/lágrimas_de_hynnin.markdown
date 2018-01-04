@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lágrimas de Hynnin"
-date:   2016-11-10
-source: Manual Básico.164
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, abjuracao, minuto, metros, cubo, dia, vontade, anula]
----
+**Titulo**:Lágrimas de Hynnin
 
 **Abjuração de Nível 3**
 

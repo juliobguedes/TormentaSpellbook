@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lingua Louca"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level2, bardo, feiticeiro, mago, ilusao, padrao, metros, criatura, hora, nenhum]
----
+**Titulo**:Lingua Louca
 
 **Ilusão de nível 2**
 

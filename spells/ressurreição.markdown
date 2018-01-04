@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ressurreição"
-date:   2016-11-15
-source: Manual Básico.209
-tags: [level7, clerigo, abencoado, druida, cura, minutos, toque, criatura, instantanea, nenhum, componente]
----
+**Titulo**:Ressurreição
 
 **Cura de Nível 7**
 

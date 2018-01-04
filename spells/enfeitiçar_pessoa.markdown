@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Enfeitiçar Pessoa"
-date:   2016-11-08
-source: Manual Básico.180
-tags: [level1, bardo, mago, feiticeiro, encantamento, padrao, metros, alvo, hora, vontade, anula]
----
+**Titulo**:Enfeitiçar Pessoa
 
 **Encantamento de Nível 1**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invisibilidade Maior"
-date:   2016-11-11
-source: Manual Básico. 188
-tags: [level4, bardo, feiticeiro, mago, ilusao, padrao, toque, criatura, minuto, nenhum]
----
+**Titulo**:Invisibilidade Maior
 
 **Ilusão de Nível 4**
 

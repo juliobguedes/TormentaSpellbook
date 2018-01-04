@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Repulsão"
-date:   2016-11-15
-source: Manual Básico.208
-tags: [level6, level7, clerigo, abencoado, druida, feiticeiro, mago, abjuracao, padrao, metros, emanacao, minuto, vontade, anula]
----
+**Titulo**:Repulsão
 
 **Arcana 6/ Divina 7**
 

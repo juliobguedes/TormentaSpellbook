@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Sombras"
-date:   2016-11-16
-source: Manual Básico.213
-tags: [level9, feiticeiro, mago, ilusao,  padrao, vontade, parcial]
----
+**Titulo**:Sombras
 
 **Ilusão de Nível 9**
 

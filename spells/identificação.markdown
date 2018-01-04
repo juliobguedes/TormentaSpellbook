@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Identificação"
-date:   2016-11-08
-source: Manual Básico.186
-tags: [level1, bardo, feiticeiro, mago, adivinhacao, hora, toque, objeto, instantanea, nenhum]
----
+**Titulo**:Identificação
 
 **Adivinhação de Nível 1**
 

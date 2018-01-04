@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Rosa Rubra"
-date:   2016-11-10
-source: Manual do Devoto.89
-tags: [level5, bardo, clerigo, abencoado, druida, necromancia, invocacao, padrao, metros, instantanea, nenhum, dano]
----
+**Titulo**:Rosa Rubra
 
 **Necromancia/Invocação de Nível 5**
 

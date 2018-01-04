@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mundo dos Sonhos"
-date:   2016-11-13
-source: Manual Básico.219
-tags: [level6, bardo,  feiticeiro, mago, ilusao,  minuto, metros, criatura, concentracao, hora, vontade, anula]
----
+**Titulo**:Mundo dos Sonhos
 
 **Ilusão de Nível 6**
 

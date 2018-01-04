@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Criar Chama"
-date:   2016-11-08
-source: Manual Básico.173
-tags: [level1, bardo, clerigo, abencoado, druida, ranger,paladino, fogo, padrao, pessoal, voce, minuto]
----
+**Titulo**:Criar Chama
 
 **Fogo de Nível 1**
 

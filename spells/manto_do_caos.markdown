@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Manto do Caos"
-date:   2016-11-15
-source: Manual Básico.161
-tags: [level8, clerigo, abencoado, druida, caos, padrao, metros, criatura, minuto]
----
+**Titulo**:Manto do Caos
 
 **Caos de Nível 8**
 

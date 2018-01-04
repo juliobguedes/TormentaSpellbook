@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cura Completa"
-date:   2016-11-13
-source: Manual Básico.174
-tags: [level6, bardo, clerigo, abencoado, druida, cura,  padrao, toque, criatura, nenhum]
----
+**Titulo**:Cura Completa
 
 **Cura de Nível 6**
 

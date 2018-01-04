@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Porta Dimensional Menor"
-date:   2016-11-17
-source: Manual do Arcano. 83
-tags: [level3, bardo, feiticeiro, mago, invocacao, movimento, metros, voce, instantanea, nenhum]
----
+**Titulo**:Porta Dimensional Menor
 
 **Invocação de nível 3**
 

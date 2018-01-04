@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Lâmina Invisível"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level4, bardo, feiticeiro, mago, ar, padrao, metros, outro, minuto, nenhum, dano]
----
+**Titulo**:Lâmina Invisível
 
 **Ar de nível 4**
 

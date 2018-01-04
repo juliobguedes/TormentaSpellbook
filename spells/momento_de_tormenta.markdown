@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Momento de Tormenta"
-date:   2016-11-11
-source: Manual Básico. 195
-tags: [level4, bardo, feiticeiro, mago, transmutacao, completa, metros, concentracao, minuto, componente, dano, fortitude, reflexo, metade, anula]
----
+**Titulo**:Momento de Tormenta
 
 **Transmutação de Nível 4**
 

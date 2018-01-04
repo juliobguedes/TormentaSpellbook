@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Confundir Detecção"
-date:   2016-11-09
-source: Manual Básico.171
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, ilusao, padrao, metros, alvo, objeto, dia, vontade, anula]
----
+**Titulo**:Confundir Detecção
 
 **Ilusão de Nível 2**
 

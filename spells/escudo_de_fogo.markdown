@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Escudo de Fogo"
-date:   2016-11-11
-source: Manual Básico.181
-tags: [level4, bardo, feiticeiro, mago, fogo, padrao, pessoal, voce, minuto, dano]
----
+**Titulo**:Escudo de Fogo
 
 **Fogo de Nível 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Palavra de Poder: Matar"
-date:   2016-11-16
-source: Manual Básico.199
-tags: [level9,  feiticeiro, mago, encantamento,  padrao, metros, criatura, instantanea, nenhum]
----
+**Titulo**:Palavra de Poder: Matar
 
 **Encantamento de Nível 9**
 

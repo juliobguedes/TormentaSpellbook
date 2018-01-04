@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Estrepes Mágicos"
-date:   2016-11-17
-source: Manual do Arcano. 80
-tags: [level1, bardo, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
----
+**Titulo**:Estrepes Mágicos
 
 **Essência de nível 1**
 

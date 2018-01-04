@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Alarme"
-date:   2016-11-08
-source: Manual Básico.160
-tags: [level1, bardo, feiticeiro, mago, abjuracao, padrao, metros, emanacao, dia, nenhum]
----
+**Titulo**:Alarme
 
 **Abjuração de Nível 1**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Dissipar Magia Maior"
-date:   2016-11-13
-source: Manual Básico.178
-tags: [level6, bardo, clerigo, abencoado, druida, feiticeiro, mago, abjuracao,  padrao, metros, criatura, objeto, explosao, nenhum]
----
+**Titulo**:Dissipar Magia Maior
 
 **Abjuração de Nível 6**
 

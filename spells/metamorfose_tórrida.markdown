@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Metamorfose Tórrida"
-date:   2016-11-08
-source: Manual Básico.194
-tags: [level5, bardo, feiticeiro, mago, transmutacao, padrao, metros, criatura, permanente, fortitude, vontade, parcial, anula]
----
+**Titulo**:Metamorfose Tórrida
 
 **Transmutação de Nível 5**
 

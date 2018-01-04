@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Estase Temporal"
-date:   2016-11-15
-source: Manual Básico.183
-tags: [level8, feiticeiro, mago, tempo, padrao, toque, criatura, permanente, fortitude, anula]
----
+**Titulo**:Estase Temporal
 
 **Tempo de Nível 8**
 

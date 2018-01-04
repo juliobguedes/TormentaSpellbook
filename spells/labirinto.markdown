@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Labirinto"
-date:   2016-11-15
-source: Manual Básico.189
-tags: [level8, feiticeiro, mago, invocacao, padrao, metros, criatura, minuto, nenhum]
----
+**Titulo**:Labirinto
 
 **Transmutação de Nível 9**
 

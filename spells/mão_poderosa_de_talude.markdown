@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Mão Poderosa de Talude"
-date:   2016-11-15
-source: Manual Básico.192
-tags: [level7, feiticeiro, mago, essencia, padrao, metros, outro, minuto, nenhum]
----
+**Titulo**:Mão Poderosa de Talude
 
 **Essência de Nível 7**
 

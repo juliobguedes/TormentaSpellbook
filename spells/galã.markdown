@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Galã"
-date:   2016-11-07
-source: Manual Básico.78
-tags: [level2, bardo, feiticeiro, mago, encantamento, ilusao, padrao, pessoal, voce, minutos, nenhum, componente]
----
+**Titulo**:Galã
 
 **Encantamento/Ilusão de Nível 2**
 

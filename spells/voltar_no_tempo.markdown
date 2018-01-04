@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Voltar no Tempo"
-date:   2016-11-17
-source: Manual do Arcano. 77
-tags: [level3, bardo, feiticeiro, mago, tempo, padrao, pessoal, voce, instantanea, nenhum, experiencia]
----
+**Titulo**:Voltar no Tempo
 
 **Tempo de nível 3**
 

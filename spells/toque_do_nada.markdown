@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Toque do Nada"
-date:   2016-11-17
-source: Manual do Arcano. 85
-tags: [level3, bardo, feiticeiro, mago, encantamento, padrao, toque, criatura, minuto, vontade, anula]
----
+**Titulo**:Toque do Nada
 
 **Encantamento de nível 3**
 

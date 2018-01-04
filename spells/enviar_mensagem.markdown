@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Enviar Mensagem"
-date:   2016-11-11
-source: Manual Básico.181
-tags: [level4, level5, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, encantamento, minutos, ilimitado, criatura, rodada, nenhum]
----
+**Titulo**:Enviar Mensagem
 
 **Arcana 5/ Divina 4**
 

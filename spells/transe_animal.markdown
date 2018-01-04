@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Transe Animal"
-date:   2016-11-09
-source: Manual Básico.216
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, encantamento, padrao, metros, objeto, concentracao, nenhum]
----
+**Titulo**:Transe Animal
 
 **Encantamento de Nível 2**
 

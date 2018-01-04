@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Estase"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level7,  feiticeiro, mago, tempo, minuto, toque, criatura, voce, permanente, vontade, anula]
----
+**Titulo**:Estase
 
 **Tempo de nível 7**
 

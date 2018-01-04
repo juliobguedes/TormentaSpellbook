@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Raio de sol"
-date:   2016-11-15
-source: Manual Básico.206
-tags: [level7, clerigo, abencoado, druida, luz, padrao, metros, linha, minuto, raio, reflexo, parcial]
----
+**Titulo**:Raio de sol
 
 **Luz de Nível 7**
 

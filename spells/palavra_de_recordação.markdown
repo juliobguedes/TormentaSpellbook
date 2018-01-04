@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Palavra de Recordação"
-date:   2016-11-13
-source: Manual Básico.200
-tags: [level6, bardo, clerigo, abencoado, druida, invocacao,  padrao, toque, voce, criatura, instantanea, nenhum]
----
+**Titulo**:Palavra de Recordação
 
 **Invocação de Nível 6**
 

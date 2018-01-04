@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Cubo de Energia"
-date:   2016-11-15
-source: Manual Básico.174
-tags: [level7, feiticeiro, mago, essencia, padrao, metros, cubo, dia, nenhum]
----
+**Titulo**:Cubo de Energia
 
 **Essência de Nível 7**
 

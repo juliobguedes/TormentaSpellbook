@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Profanar"
-date:   2016-11-09
-source: Manual Básico.204
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, mal, completa, metros, emanacao, dia, nenhum]
----
+**Titulo**:Profanar
 
 **Mal de Nível 2**
 

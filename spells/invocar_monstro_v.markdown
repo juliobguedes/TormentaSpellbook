@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Invocar Monstro V"
-date:   2016-11-08
-source: Manual Básico.189
-tags: [level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, invocacao, completa, metros, outro, concentracao, rodada, minuto, nenhum]
----
+**Titulo**:Invocar Monstro V
 
 **Invocação de Nível 5**
 

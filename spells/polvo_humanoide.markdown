@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Polvo Humanoide"
-date:   2016-11-17
-source: Manual do Arcano. 82
-tags: [level4, bardo, feiticeiro, mago, transmutacao, padrao, pessoal, voce, outro, minuto, nenhum]
----
+**Titulo**:Polvo Humanoide
 
 **Transmutação de nível 4**
 

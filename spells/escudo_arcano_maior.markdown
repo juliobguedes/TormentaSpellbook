@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Escudo Arcano Maior"
-date:   2016-11-17
-source: Manual do Arcano. 76
-tags: [level3, bardo, feiticeiro, mago, abjuracao, padrao, toque, voce, minuto]
----
+**Titulo**:Escudo Arcano Maior
 
 **Abjuração de nível 3**
 

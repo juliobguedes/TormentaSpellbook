@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Espírito Animal V"
-date:   2016-11-17
-source: Manual do Devoto.85
-tags: [level7, clerigo, abencoado, druida, padrao, metros, outro, instantanea, nenhum, dano]
----
+**Titulo**:Espírito Animal V
 
 **Tempo de Execução**: Ação Padrão
 

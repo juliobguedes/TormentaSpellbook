@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Purificar o Ar"
-date:   2016-11-10
-source: Mundo dos Deuses. 149
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, cura, padrao, toque, criatura, instantanea]
----
+**Titulo**:Purificar o Ar
 
 **Cura de Nível 2**
 

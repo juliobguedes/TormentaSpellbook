@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Ataque Certeiro Maior"
-date:   2016-11-17
-source: Manual do Arcano. 69
-tags: [level3, bardo, feiticeiro, mago, adivinhacao, padrao, pessoal, voce]
----
+**Titulo**:Ataque Certeiro Maior
 
 **Adivinhação de nível 4**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Onda da Fadiga"
-date:   2016-11-08
-source: Manual Básico.198
-tags: [level5, bardo,  feiticeiro, mago, necromancia, padrao, metros, cone, instantanea, nenhum]
----
+**Titulo**:Onda da Fadiga
 
 **Necromancia de Nível 5**
 

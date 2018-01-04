@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Gagueira de Reviollius"
-date:   2016-11-08
-source: Manual Básico.185
-tags: [level1, bardo, feiticeiro, mago, encantamento, padrao, metros, alvo, minuto, fortitude, anula]
----
+**Titulo**:Gagueira de Reviollius
 
 **Encatamento de Nível 1**
 

@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Purgar Invisibilidade"
-date:   2016-11-10
-source: Manual Básico.205
-tags: [level3, bardo, clerigo, abencoado, druida, paladino, ranger, transmutacao, padrao, pessoal, voce, minutos]
----
+**Titulo**:Purgar Invisibilidade
 
 **Transmutação de Nível 3**
 

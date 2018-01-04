@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Muralha de Fogo"
-date:   2016-11-11
-source: Manual Básico.196
-tags: [level4, level5, bardo, clerigo, abencoado, druida, feiticeiro, mago, fogo, padrao, metros, outro, concentracao, minuto, hora, dano, reflexo, anula]
----
+**Titulo**:Muralha de Fogo
 
 **Arcana 4/ Divina 5**
 

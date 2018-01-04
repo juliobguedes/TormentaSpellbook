@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Esplendor da Águia"
-date:   2016-11-09
-source: Manual Básico.182
-tags: [level2, bardo, clerigo, abencoado, druida, ranger, paladino, feiticeiro, mago, transmutacao, padrao, toque, alvo, nenhum]
----
+**Titulo**:Esplendor da Águia
 
 **Transmutação de Nível 2**
 
