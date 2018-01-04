@@ -1,0 +1,74 @@
+@font-face {
+    font-family: MedievalSharp;
+    src: url('../fonts/MedievalSharp.ttf')
+}
+
+body {
+    font-family: MedievalSharp;
+}
+
+.jumbotron.menu {
+    width: 400px;
+
+    margin-left: 90px;
+    padding: 15px;
+    border-radius: 5px;
+
+    float: left;
+}
+
+.navbar {
+    height: 50px;
+}
+
+.title.one {
+    margin-left: 60px;
+    color: red;
+}
+
+.title {
+    margin-top: 7px;
+    float: left;
+    color: white;
+    margin-left: 18px;
+    font-size: 25px;
+}
+
+.campo {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    margin-right: 5px;
+}
+
+.spell {
+    font-size: 20px;
+}
+
+.footer {
+    background:linear-gradient(0deg,#57b2f362,rgba(255, 255, 255, 0.022));
+    height: 20px;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    color: black;
+}
+
+.hiplink {
+    border:none;
+    outline:none;
+    text-decoration:none;
+    color: inherit;
+}
+
+.footerfont {
+    font-size: 15px !important;
+    margin-right: 90px;
+}
+
+.footertext {
+    float: right;
+    margin-right: 25px;
+}

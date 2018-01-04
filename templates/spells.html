@@ -1,0 +1,169 @@
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="jumbotron menu">
+            
+            <h4>Todas as Magias</h4>
+            
+            <!-- Campo de Busca: nome da magia -->
+            <div class="campo">
+                <div class="cell">Busca por nome:</div>
+                <input type="text" class="form-control cell" ng-model="spellName.name" placeholder="Nome da magia"/>
+            </div>
+            <!-- Campo de Busca: Arcana/Divina -->
+            <div class="campo">
+                <div class="cell">Procedência</div>
+                <select class="cell form-control" ng-options="proc for proc in spellC.procedence" ng-model="selected.procedence">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Niveis -->
+            <div class="campo">
+                <div class="cell">Nível</div>
+                <select class="cell form-control" ng-options="lvl for lvl in spellC.levels" ng-model="selected.level">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Descritor -->
+            <div class="campo">
+                <div class="cell">Descritor</div>
+                <select class="cell form-control" ng-options="desc for desc in spellC.description | orderBy:'desc'" ng-model="selected.description">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Tempo de Execução -->
+            <div class="campo">
+                <div class="cell">Tempo de Execução</div>
+                <select class="cell form-control" ng-options="time for time in spellC.executionTime" ng-model="selected.executionTime">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Alcance -->
+            <div class="campo">
+                <div class="cell">Alcance</div>
+                <select class="cell form-control" ng-options="range for range in spellC.range" ng-model="selected.range">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Efeito -->
+            <div class="campo">
+                <div class="cell">Efeito</div>
+                <select class="cell form-control" ng-options="effect for effect in spellC.effect" ng-model="selected.effect">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Duração -->
+            <div class="campo">
+                <div class="cell">Duração</div>
+                <select class="cell form-control" ng-options="duration for duration in spellC.duration" ng-model="selected.duration">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Teste de Resistência -->
+            <div class="campo">
+                <div class="cell">Teste de Resistência</div>
+                <select class="cell form-control" ng-options="resTest for resTest in spellC.resistanceTest" ng-model="selected.resTest">
+                    <option value="">Todas</option>
+                </select>
+                <select class="cell form-control TR2" ng-options="resType for resType in spellC.resistanceType" ng-model="selected.resType">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Deuses -->
+            <div class="campo">
+                <div class="cell">Deus</div>
+                <select class="cell form-control" ng-options="god for god in spellC.gods" ng-model="selected.god">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <!-- Campo de Busca: Classes -->
+            <div class="campo">
+                <div class="cell">Classe</div>
+                <select class="cell form-control" ng-options="class for class in spellC.classes" ng-model="selected.class">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+    
+            <!--Campo de Busca: Livro -->
+            <div class="campo">
+                <div class="cell">Livro</div>
+                <select class="cell form-control" ng-options="book for book in spellC.books" ng-model="selected.book">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <div>
+                <button class="btn btn-primary btn-block" ng-click="cleanFields()">Limpar Campos</button>
+            </div>
+                            
+        </div>
+    
+        <div class="col-md-4 spellsField">
+            
+            <!-- Magias de nível 0 -->
+            <p><a href="" ng-click="showHide('0')" class="spell">Nível 0</a></p>
+            <div ng-if="showZero" ng-repeat="spell in levelZero | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+            <!-- Magias de nível 1 -->
+            <p><a href="" ng-click="showHide('1')" class="spell">Nível 1</a></p>
+            <div ng-if="showOne"ng-repeat="spell in levelOne | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+                
+            <!-- Magias de nível 2 -->
+            <p><a href="" ng-click="showHide('2')" class="spell">Nível 2</a></p>
+            <div ng-if="showTwo"ng-repeat="spell in levelTwo | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+                
+            <!-- Magias de nível 3 -->
+            <p><a href="" ng-click="showHide('3')" class="spell">Nível 3</a></p>
+            <div ng-if="showThree"ng-repeat="spell in levelThree | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+            <!-- Magias de nível 4 -->
+            <p><a href="" ng-click="showHide('4')" class="spell">Nível 4</a></p>
+            <div ng-if="showFour" ng-repeat="spell in levelFour | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+                
+            <!-- Magias de nível 5 -->
+            <p><a href="" ng-click="showHide('5')" class="spell">Nível 5</a></p>
+            <div ng-if="showFive" ng-repeat="spell in levelFive | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+                
+            <!-- Magias de nível 6 -->
+            <p><a href="" ng-click="showHide('6')" class="spell">Nível 6</a></p>
+            <div ng-if="showSix" ng-repeat="spell in levelSix | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+    
+            <!-- Magias de nível 7 -->
+            <p><a href="" ng-click="showHide('7')" class="spell">Nível 7</a></p>
+            <div ng-if="showSeven" ng-repeat="spell in levelSeven | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+                
+            <!-- Magias de nível 8 -->
+            <p><a href="" ng-click="showHide('8')" class="spell">Nível 8</a></p>
+            <div ng-if="showEight" ng-repeat="spell in levelEight | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+                
+            <!-- Magias de nível 9 -->
+            <p><a href="" ng-click="showHide('9')" class="spell">Nível 9</a></p>
+            <div ng-if="showNine" ng-repeat="spell in levelNine | orderBy:'name'">
+                <a href="" ng-click="change(spell)"><p>{{spell.name}}</p></a>
+            </div>
+    
+        </div>
+    </div>
+    
+</div>
