@@ -1,7 +1,5 @@
 app.filter("multipleFilter", function() {
     return function(spells, selected) {
-        console.log(spells);
-        console.log(selected);
         return spells.filter(multipleFilter(selected));
     }
 })

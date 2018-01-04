@@ -10,13 +10,14 @@ app.config(function($urlRouterProvider, $stateProvider) {
         url: "/feats",
         templateUrl: 'templates/feats.html',
         controller:'featsCtrl'
-    }).state("oneSpellCtrl", {
-        url: "/spell",
+    }).state("oneSpell", {
+        url: "/spell/:url",
         templateUrl:'templates/oneSpell.html',
         controller:'oneSpellCtrl',
         resolve: {
             url: function($stateParams) {
-                return $stateParams;
+                console.log($stateParams);
+                return $stateParams.url ;
             }
         }
     });

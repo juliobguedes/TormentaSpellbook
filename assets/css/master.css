@@ -72,3 +72,7 @@ body {
     float: right;
     margin-right: 25px;
 }
+
+.center {
+    text-align: center;
+}

@@ -1,4 +1,4 @@
-app.controller("spellsCtrl", function(Tormenta, $scope, $filter) {
+app.controller("spellsCtrl", function(Tormenta, $scope, $filter, $state) {
 
     $scope.separatePerLevel = (data) => {
         $scope.zero = data.filter(levelFilter("0"));
@@ -27,7 +27,7 @@ app.controller("spellsCtrl", function(Tormenta, $scope, $filter) {
     }
     
     loadSpells($scope, Tormenta);
-    
+
     showAll($scope);
     $scope.showHide = function(field) {
         if (field == 0) {
@@ -70,6 +70,11 @@ app.controller("spellsCtrl", function(Tormenta, $scope, $filter) {
         "Oceano", "Ragnar", "Sszzas", "Tanna-Toh", "Tauron", "Tenebra", "Thyatis", "Valkária", "Wynna"], 
         "classes": ["Abençoado", "Bardo", "Clérigo", "Druida", "Feiticeiro", "Mago", "Paladino", "Ranger"]
     };
+
+    $scope.change = (spell) => {
+        console.log(spell);
+        $state.go("oneSpell", {"name":spell.name, "url":spell.url});
+    }
 
 })
 
