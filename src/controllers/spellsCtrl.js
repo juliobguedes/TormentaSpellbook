@@ -1,4 +1,17 @@
-app.controller("spellsCtrl", function(Tormenta, $scope, $filter, $state) {
+app.controller("spellsCtrl", function(Tormenta, $scope, $state) {
+
+    $scope.initiate = () => {
+        $scope.zero = [];
+        $scope.one = [];
+        $scope.two = [];
+        $scope.three = [];
+        $scope.four = [];
+        $scope.five = [];
+        $scope.six = [];
+        $scope.seven = [];
+        $scope.eight = [];
+        $scope.nine = [];        
+    }
 
     $scope.separatePerLevel = (data) => {
         $scope.zero = data.filter(levelFilter("0"));
@@ -12,23 +25,8 @@ app.controller("spellsCtrl", function(Tormenta, $scope, $filter, $state) {
         $scope.eight = data.filter(levelFilter("8"));
         $scope.nine = data.filter(levelFilter("9"));
     }
-
-    $scope.displaySpells = () => {
-        $scope.levelZero = $filter('multipleFilter')($scope.zero, $scope.selected)
-        $scope.levelOne = $filter('multipleFilter')($scope.one, $scope.selected)
-        $scope.levelTwo = $filter('multipleFilter')($scope.two, $scope.selected)
-        $scope.levelThree = $filter('multipleFilter')($scope.three, $scope.selected)
-        $scope.levelFour = $filter('multipleFilter')($scope.four, $scope.selected)
-        $scope.levelFive = $filter('multipleFilter')($scope.five, $scope.selected)
-        $scope.levelSix = $filter('multipleFilter')($scope.six, $scope.selected)
-        $scope.levelSeven = $filter('multipleFilter')($scope.seven, $scope.selected)
-        $scope.levelEight = $filter('multipleFilter')($scope.eight, $scope.selected)
-        $scope.levelNine = $filter('multipleFilter')($scope.nine, $scope.selected)
-    }
     
     loadSpells($scope, Tormenta);
-
-    showAll($scope);
     $scope.showHide = function(field) {
         if (field == 0) {
             $scope.showZero = !$scope.showZero;
@@ -93,17 +91,19 @@ function showAll($scope) {
 
 function levelFilter(level) {
     return function(spell) {
+        if (spell.level == undefined) {
+            console.log(spell);
+        }
         return spell.level.indexOf("level" + level) > -1;
     }
 }
 
 function loadSpells($scope, Tormenta) {
+    $scope.initiate();
     Tormenta.getSpells()
         .then(res => {
             $scope.separatePerLevel(res.data.data);
-            $scope.displaySpells();
-        }).catch(error => {
-            console.log(error);
+            showAll($scope);
         })
 
 }
