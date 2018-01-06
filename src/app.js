@@ -16,7 +16,6 @@ app.config(function($urlRouterProvider, $stateProvider) {
         controller:'oneSpellCtrl',
         resolve: {
             url: function($stateParams) {
-                console.log($stateParams);
                 return $stateParams.url ;
             }
         }

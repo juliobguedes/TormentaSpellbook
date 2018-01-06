@@ -1,14 +1,15 @@
 app.filter("filterName", function() {
-    function myFilter(array, name) {
+    return function myFilter(array, name) {
         return array.filter(filterByName(name));
     }
-    myFilter.$stateful = true;
-    return myFilter;
-
 })
 
 function filterByName(name) {
     return function(object) {
-        return object.name.indexOf(name) > -1;
+        if (name) {
+            let nameS = object.name.toLowerCase();
+            return nameS.indexOf(name) > -1;
+        }
+        return true;
     }
 }

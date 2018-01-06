@@ -66,11 +66,11 @@ app.controller("spellsCtrl", function(Tormenta, $scope, $state) {
         "ingredients": ["componente material", "experiência"],
         "gods": ["Allihanna", "Azgher", "Hynnin", "Kallyandranoch", "Keenn", "Khalmyr", "Lena", "Lin-Wu", "Marah", "Megalokk", "Nimb",
         "Oceano", "Ragnar", "Sszzas", "Tanna-Toh", "Tauron", "Tenebra", "Thyatis", "Valkária", "Wynna"], 
-        "classes": ["Abençoado", "Bardo", "Clérigo", "Druida", "Feiticeiro", "Mago", "Paladino", "Ranger"]
+        "classes": ["Abençoado", "Bardo", "Clérigo", "Druida", "Feiticeiro", "Mago", "Paladino", "Ranger"],
+        "sources": ["Manual Básico", "Manual do Devoto", "Manual do Arcano", "Mundo dos Deuses", "Expedição à Aliança Negra", "Mundo de Arton - Panteão", "Guia da Trilogia"]
     };
 
     $scope.change = (spell) => {
-        console.log(spell);
         $state.go("oneSpell", {"name":spell.name, "url":spell.url});
     }
 
@@ -91,9 +91,6 @@ function showAll($scope) {
 
 function levelFilter(level) {
     return function(spell) {
-        if (spell.level == undefined) {
-            console.log(spell);
-        }
         return spell.level.indexOf("level" + level) > -1;
     }
 }
