@@ -1,0 +1,32 @@
+<html ng-app="TormentaApp">
+<head>
+    <title>Grimório TRPG</title>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="node_modules/@uirouter/angularjs/release/angular-ui-router.min.js"></script>
+    <script src="node_modules/angular-ui-router.statehelper/statehelper.min.js"></script>
+    <script src="node_modules/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="node_modules/showdown/dist/showdown.min.js"></script>
+    <script src="node_modules/ng-showdown/dist/ng-showdown.min.js"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+
+    <script src="src/app.js"></script>
+    <script src="src/filters/multipleFilter.js"></script>
+    <script src="src/filters/filterName.js"></script>
+    <script src="src/filters/procedenceFilter.js"></script>
+    <script src="src/services/tormenta.js"></script>
+    <script src="src/controllers/spellsCtrl.js"></script>
+    <script src="src/controllers/oneSpellCtrl.js"></script>
+    <script src="src/controllers/featsCtrl.js"></script>
+    <link rel="stylesheet" href="assets/css/master.css">
+
+
+</head>
+<body>
+    <div ng-include="'templates/header.html'"></div>
+    <ui-view></ui-view>
+    <div ng-include="'templates/footer.html'"></div>
+</body>
+</html>
