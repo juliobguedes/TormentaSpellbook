@@ -21,14 +21,14 @@ The spells markdown files are in the [spells/](https://github.com/juliobguedes/T
 Finishing another page implementation, with Tormenta's characters possible feats.
 
 + Done:
- + Manual Básico
- + Guia da Trilogia
- + Manual do Combate
- + Manual do Arcano
+  + Manual Básico
+  + Guia da Trilogia
+  + Manual do Combate
+  + Manual do Arcano
 + Currently Doing:
- + Manual das Raças
+  + Manual das Raças
 + To Do:
- + Manual do Devoto
- + Manual do Malandro
- + Mundo de Arton
- + Mundo dos Deuses
+  + Manual do Devoto
+  + Manual do Malandro
+  + Mundo de Arton
+  + Mundo dos Deuses
