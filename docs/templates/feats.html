@@ -1,0 +1,142 @@
+<div>
+
+    <div class="row">
+
+        <div class="jumbotron menu">
+
+            <h4 class="center">Todos os talentos</h4>
+
+            <div class="campo">
+                <div class="cell">Busca por nome: </div>
+                <input type="text" ng-model="featName" class="form-control cell" placeholder="Nome do Talento" />
+            </div>
+
+            <div class="campo">
+                <div class="cell">Força Mínima: </div>
+                <input type="number" ng-model="selected.minFor" class="form-control" placeholder="Força"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Destreza Mínima: </div>
+                <input type="number" ng-model="selected.minDes" class="form-control" placeholder="Destreza"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Constituição Mínima: </div>
+                <input type="number" ng-model="selected.minCon" class="form-control" placeholder="Constituição"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Inteligência Mínima: </div>
+                <input type="number" ng-model="selected.minInt" class="form-control" placeholder="Inteligência"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Sabedora Mínima: </div>
+                <input type="number" ng-model="selected.minSab" class="form-control" placeholder="Sabedoria"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Carisma Mínima: </div>
+                <input type="number" ng-model="selected.minCar" class="form-control" placeholder="Carisma"/>
+            </div>
+
+
+            <div class="campo">
+                <div class="cell"> BBA Mínimo: </div>
+                <input type="number" ng-model="selected.minBBA" class="form-control" placeholder="Bônus Base de Ataque"/>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Nível Mínimo: </div>
+                <input type="number" ng-model="selected.minNiv" class="form-control" placeholder="Nível"/>
+            </div>
+
+
+            <div class="campo">
+                <div class="cell">Deuses: </div>
+                <select class="form-control cell" ng-options="god for god in featC.gods" ng-model="selected.god">
+                    <option value="">Selecione um Deus</option>
+                </select>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Tendência (Bom-Mal): </div>
+                <select class="form-control cell" ng-options="e1 for e1 in featC.eixoBM" ng-model="selected.eixoBM">
+                    <option value="">Selecione uma Tendência</option>
+                </select>
+            </div>
+
+            <div class="campo">
+                <div class="cell">Tendência (Leal-Caótico): </div>
+                <select class="form-control cell" ng-options="e2 for e2 in featC.eixoLC" ng-model="selected.eixoLC">
+                    <option value="">Selecione uma Tendência</option>
+                </select>
+            </div>
+            
+            <div class="campo">
+                <div class="cell">Livro: </div>
+                <select class="form-control cell" ng-options="book for book in featC.books" ng-model="selected.book">
+                    <option value="">Selecione um Livro</option>
+                </select>
+            </div>
+            
+        </div>
+
+        <div class="spellsField">
+
+            <!-- Talentos de Combate -->
+            <p><a href="" ng-click="showHide('combate')" class="spell">Talentos de Combate</a></p>
+            <div ng-if="showCombate" ng-repeat="feat in combate | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos de Perícia -->
+            <p><a href="" ng-click="showHide('pericia')" class="spell">Talentos de Perícia</a></p>
+            <div ng-if="showPericia" ng-repeat="feat in pericia | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos de Magia -->
+            <p><a href="" ng-click="showHide('magia')" class="spell">Talentos de Magia</a></p>
+            <div ng-if="showMagia" ng-repeat="feat in magia | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos de Combate -->
+            <p><a href="" ng-click="showHide('destino')" class="spell">Talentos de Destino</a></p>
+            <div ng-if="showDestino" ng-repeat="feat in destino | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos de Combate -->
+            <p><a href="" ng-click="showHide('tormenta')" class="spell">Talentos de Tormenta</a></p>
+            <div ng-if="showTormenta" ng-repeat="feat in tormenta | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos de Combate -->
+            <p><a href="" ng-click="showHide('poderconcedido')" class="spell">Poderes Concedidos</a></p>
+            <div ng-if="showPoderConcedido" ng-repeat="feat in poderesConcedidos | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos Regionais -->
+            <p><a href="" ng-click="showHide('regionais')" class="spell">Talentos Regionais</a></p>
+            <div ng-if="showRegionais" ng-repeat="feat in regional | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+            <!-- Talentos Raciais -->
+            <p><a href="" ng-click="showHide('raciais')" class="spell">Talentos Raciais</a></p>
+            <div ng-if="showRaciais" ng-repeat="feat in racial | orderBy:'nome'">
+                <a href="" ng-click="change(feat)"><p>{{feat.nome}}</p></a>
+            </div>
+
+        </div>
+
+    </div>
+    
+    
+
+</div>

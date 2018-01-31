@@ -1,0 +1,17 @@
+{
+"nome":"Música dos Deuses",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":25,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Música_dos_Deuses.json", 
+"livro":"Guia da Trilogia"
+}

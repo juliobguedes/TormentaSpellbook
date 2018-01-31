@@ -1,0 +1,17 @@
+{
+"nome":"Meditação Autoafirmativa",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":17,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Meditação_Autoafirmativa.json", 
+"livro":"Guia da Trilogia"
+}

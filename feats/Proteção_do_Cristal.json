@@ -1,0 +1,17 @@
+{
+"nome":"Proteção do Cristal",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Deus Cristal de Urielka"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Proteção_do_Cristal.json", 
+"livro":"Guia da Trilogia"
+}

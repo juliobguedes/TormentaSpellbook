@@ -1,0 +1,17 @@
+{
+"nome":"Domínio da Morte",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Ragnar", "Sszzaas", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Morte.json", 
+"livro":"Manual Básico"
+}

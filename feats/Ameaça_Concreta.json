@@ -1,0 +1,17 @@
+{
+"nome":"Ameaça Concreta",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Ameaça_Concreta.json", 
+"livro":"Manual do Arcano"
+}

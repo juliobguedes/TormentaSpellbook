@@ -1,0 +1,17 @@
+{
+"nome":"Tiro Especial",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Tiro_Especial.json", 
+"livro":"Manual de Combate"
+}

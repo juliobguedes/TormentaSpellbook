@@ -1,0 +1,17 @@
+{
+"nome":"Sopro do Dragão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":10,
+"deuses":["Kallyadranoch"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Sopro_do_Dragão.json", 
+"livro":"Guia da Trilogia"
+}

@@ -1,0 +1,17 @@
+{
+"nome":"Tiro Preciso Aprimorado",
+"forMin":-1,
+"desMin":19,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":11,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Tiro_Preciso_Aprimorado.json", 
+"livro":"Manual Básico"
+}

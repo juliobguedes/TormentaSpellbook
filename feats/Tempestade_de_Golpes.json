@@ -1,0 +1,17 @@
+{
+"nome":"Tempestade de Golpes",
+"forMin":-1,
+"desMin":25,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Tempestade_de_Golpes.json", 
+"livro":"Guia da Trilogia"
+}

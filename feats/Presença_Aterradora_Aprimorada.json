@@ -1,0 +1,17 @@
+{
+"nome":"Presença Aterradora Aprimorada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":15,
+"bbaMin":-1,
+"nivMin":10,
+"deuses":["Kallyadranoch", "Megalokk", "Ragnar", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Presença_Aterradora_Aprimorada.json", 
+"livro":"Guia da Trilogia"
+}

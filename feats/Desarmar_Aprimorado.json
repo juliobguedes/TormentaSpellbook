@@ -1,0 +1,17 @@
+{
+"nome":"Desarmar Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Desarmar_Aprimorado.json", 
+"livro":"Manual Básico"
+}

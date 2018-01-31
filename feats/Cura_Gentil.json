@@ -1,0 +1,17 @@
+{
+"nome":"Cura Gentil",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Lena", "Marah"],
+"eixoBM:":["Bondoso"],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Cura_Gentil.json", 
+"livro":"Guia da Trilogia"
+}

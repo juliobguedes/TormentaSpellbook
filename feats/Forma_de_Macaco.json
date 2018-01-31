@@ -1,0 +1,17 @@
+{
+"nome":"Forma de Macaco",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Hyninn"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Forma_de_Macaco.json", 
+"livro":"Guia da Trilogia"
+}

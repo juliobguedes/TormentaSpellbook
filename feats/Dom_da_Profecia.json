@@ -1,0 +1,17 @@
+{
+"nome":"Dom da Profecia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna", "Thyatis"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Dom_da_Profecia.json", 
+"livro":"Guia da Trilogia"
+}

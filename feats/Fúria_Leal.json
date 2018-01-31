@@ -1,0 +1,17 @@
+{
+"nome":"Fúria Leal",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":["Leal"],
+"tipo":"Regional",
+"url":"feats/Fúria_Leal.json", 
+"livro":"Guia da Trilogia"
+}

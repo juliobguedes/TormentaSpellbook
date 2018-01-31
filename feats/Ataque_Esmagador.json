@@ -1,0 +1,17 @@
+{
+"nome":"Ataque Esmagador",
+"forMin":21,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Ataque_Esmagador.json", 
+"livro":"Guia da Trilogia"
+}

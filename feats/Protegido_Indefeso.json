@@ -1,0 +1,17 @@
+{
+"nome":"Protegido Indefeso",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Gl\xc3\xb3rienn"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Protegido_Indefeso.json", 
+"livro":"Guia da Trilogia"
+}

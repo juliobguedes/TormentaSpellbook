@@ -1,0 +1,17 @@
+{
+"nome":"Dupla Inteligência",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":15,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Dupla_Inteligência.json", 
+"livro":"Manual das Raças"
+}

@@ -1,0 +1,17 @@
+{
+"nome":"Velocidade do Vento",
+"forMin":-1,
+"desMin":25,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Velocidade_do_Vento.json", 
+"livro":"Guia da Trilogia"
+}

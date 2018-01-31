@@ -1,0 +1,17 @@
+{
+"nome":"Domínio do Fogo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Azgher","Tauron","Thyatis","Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_do_Fogo.json", 
+"livro":"Manual Básico"
+}

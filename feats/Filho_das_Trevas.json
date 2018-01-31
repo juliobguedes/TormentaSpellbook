@@ -1,0 +1,17 @@
+{
+"nome":"Filho das Trevas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":["Maligno"],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Filho_das_Trevas.json", 
+"livro":"Manual das Raças"
+}

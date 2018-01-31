@@ -1,0 +1,17 @@
+{
+"nome":"Corrida Épica",
+"forMin":-1,
+"desMin":21,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Corrida_Épica.json", 
+"livro":"Guia da Trilogia"
+}

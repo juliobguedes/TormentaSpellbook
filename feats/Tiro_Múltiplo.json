@@ -1,0 +1,17 @@
+{
+"nome":"Tiro Múltiplo",
+"forMin":-1,
+"desMin":17,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Tiro_Múltiplo.json", 
+"livro":"Manual Básico"
+}

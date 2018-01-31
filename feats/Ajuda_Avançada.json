@@ -1,0 +1,17 @@
+{
+"nome":"Ajuda Avançada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":2,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Ajuda_Avançada.json", 
+"livro":"Manual das Raças"
+}

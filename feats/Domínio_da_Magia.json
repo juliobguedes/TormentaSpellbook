@@ -1,0 +1,17 @@
+{
+"nome":"Domínio da Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Kallyadranoch", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Magia.json", 
+"livro":"Manual Básico"
+}

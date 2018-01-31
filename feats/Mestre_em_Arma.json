@@ -1,0 +1,17 @@
+{
+"nome":"Mestre em Arma",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":16,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Mestre_em_Arma.json", 
+"livro":"Manual Básico"
+}

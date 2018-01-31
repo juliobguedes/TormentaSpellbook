@@ -1,0 +1,17 @@
+{
+"nome":"Ataque em Movimento",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Ataque_em_Movimento.json", 
+"livro":"Manual Básico"
+}

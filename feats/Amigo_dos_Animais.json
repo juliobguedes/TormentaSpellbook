@@ -1,0 +1,17 @@
+{
+"nome":"Amigo dos Animais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Amigo_dos_Animais.json", 
+"livro":"Guia da Trilogia"
+}
