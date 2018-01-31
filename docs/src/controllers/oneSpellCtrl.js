@@ -1,5 +1,5 @@
 app.controller("oneSpellCtrl", function($scope, url, $showdown, $http) {
-    let newUrl = "https://raw.githubusercontent.com/juliobguedes/spells.md/master" + url;
+    let newUrl = "https://raw.githubusercontent.com/juliobguedes/spells.md/master/" + url;
     $http.get(newUrl)
         .then(res => {
             $scope.spell = $showdown.makeHtml(res.data);
