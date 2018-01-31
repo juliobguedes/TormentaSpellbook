@@ -20,6 +20,6 @@ for file in allFiles:
 bigJson = bigJson[:-2]
 bigJson += "]}"
 
-save = open("big.json", 'w')
+save = open("feats.json", 'w')
 save.write(bigJson)
 save.close()

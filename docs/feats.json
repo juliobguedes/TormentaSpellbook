@@ -13,7 +13,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Desviar_Objetos.json", 
+"url":"feats/Desviar_Objetos.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Combate Montado",
@@ -29,7 +29,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Combate_Montado.json", 
+"url":"feats/Combate_Montado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Expert em Cajado",
@@ -45,7 +45,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Expert_em_Cajado.json", 
+"url":"feats/Expert_em_Cajado.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Domínio do Caos",
@@ -61,7 +61,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Caos.json", 
+"url":"feats/Domínio_do_Caos.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -78,7 +78,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Mago_de_Batalha.json", 
+"url":"feats/Mago_de_Batalha.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Trespassar",
@@ -94,7 +94,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Trespassar.json", 
+"url":"feats/Trespassar.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Vitalidade",
@@ -110,7 +110,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Vitalidade.json", 
+"url":"feats/Vitalidade.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro Rápido",
@@ -126,7 +126,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Rápido.json", 
+"url":"feats/Tiro_Rápido.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Poder Oculto Aprimorado",
@@ -142,7 +142,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Poder_Oculto_Aprimorado.json", 
+"url":"feats/Poder_Oculto_Aprimorado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Domínio da Força",
@@ -158,7 +158,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Força.json", 
+"url":"feats/Domínio_da_Força.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -175,7 +175,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Fúria_Guerreira.json", 
+"url":"feats/Fúria_Guerreira.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Esculpir Magia",
@@ -191,7 +191,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Esculpir_Magia.json", 
+"url":"feats/Esculpir_Magia.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Familiar Elemental",
@@ -207,7 +207,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Familiar_Elemental.json", 
+"url":"feats/Familiar_Elemental.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Dupla Prontidão",
@@ -223,7 +223,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Dupla_Prontidão.json", 
+"url":"feats/Dupla_Prontidão.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Especialização em Toque",
@@ -239,7 +239,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Toque.json", 
+"url":"feats/Especialização_em_Toque.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Corredor Veloz",
@@ -255,7 +255,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Corredor_Veloz.json", 
+"url":"feats/Corredor_Veloz.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Magia Explosiva",
@@ -271,7 +271,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Explosiva.json", 
+"url":"feats/Magia_Explosiva.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Expert em Varinha",
@@ -287,7 +287,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Expert_em_Varinha.json", 
+"url":"feats/Expert_em_Varinha.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Foco em Escudo",
@@ -303,7 +303,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Escudo.json", 
+"url":"feats/Foco_em_Escudo.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Acuidade com Arma",
@@ -319,7 +319,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Acuidade_com_Arma.json", 
+"url":"feats/Acuidade_com_Arma.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Velocidade do Vento",
@@ -335,7 +335,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Velocidade_do_Vento.json", 
+"url":"feats/Velocidade_do_Vento.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Aumentar Magia",
@@ -351,7 +351,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Aumentar_Magia.json", 
+"url":"feats/Aumentar_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Investida Implacável",
@@ -367,7 +367,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Investida_Implacável.json", 
+"url":"feats/Investida_Implacável.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Usar Armaduras Leves",
@@ -383,7 +383,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Armaduras_Leves.json", 
+"url":"feats/Usar_Armaduras_Leves.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mago Pobretão",
@@ -399,7 +399,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Mago_Pobretão.json", 
+"url":"feats/Mago_Pobretão.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Domínio do Bem",
@@ -415,7 +415,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Bem.json", 
+"url":"feats/Domínio_do_Bem.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -432,7 +432,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Foco_em_Pólvora.json", 
+"url":"feats/Foco_em_Pólvora.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Ataque Chi Aprimorado",
@@ -448,7 +448,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Chi_Aprimorado.json", 
+"url":"feats/Ataque_Chi_Aprimorado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Parede de Escudos",
@@ -464,7 +464,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Parede_de_Escudos.json", 
+"url":"feats/Parede_de_Escudos.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Magia Silenciosa",
@@ -480,7 +480,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Silenciosa.json", 
+"url":"feats/Magia_Silenciosa.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Iniciativa Aprimorada",
@@ -496,7 +496,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Iniciativa_Aprimorada.json", 
+"url":"feats/Iniciativa_Aprimorada.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Lutar às Cegas",
@@ -512,7 +512,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Lutar_às_Cegas.json", 
+"url":"feats/Lutar_às_Cegas.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Expulsão Aprimorada",
@@ -528,7 +528,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Expulsão_Aprimorada.json", 
+"url":"feats/Expulsão_Aprimorada.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Foco em Magia",
@@ -544,7 +544,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Foco_em_Magia.json", 
+"url":"feats/Foco_em_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Discurso Conciliador",
@@ -560,7 +560,7 @@
 "eixoBM:":["Bondoso"],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Discurso_Conciliador.json", 
+"url":"feats/Discurso_Conciliador.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Especialização em Arma Épica",
@@ -576,7 +576,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Arma_Épica.json", 
+"url":"feats/Especialização_em_Arma_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Duelista Arcano",
@@ -592,7 +592,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Duelista_Arcano.json", 
+"url":"feats/Duelista_Arcano.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Domínio da Tormenta",
@@ -608,7 +608,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Tormenta.json", 
+"url":"feats/Domínio_da_Tormenta.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Postura de Árvore",
@@ -624,7 +624,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Postura_de_Árvore.json", 
+"url":"feats/Postura_de_Árvore.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Manha da Cidade",
@@ -640,7 +640,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Manha_da_Cidade.json", 
+"url":"feats/Manha_da_Cidade.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Domínio da Destruição",
@@ -656,7 +656,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Destruição.json", 
+"url":"feats/Domínio_da_Destruição.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -673,7 +673,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Dupla_Inteligência.json", 
+"url":"feats/Dupla_Inteligência.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Diligente",
@@ -689,7 +689,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Diligente.json", 
+"url":"feats/Diligente.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Poder Oculto",
@@ -705,7 +705,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Poder_Oculto.json", 
+"url":"feats/Poder_Oculto.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Até Acertar",
@@ -721,7 +721,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Até_Acertar.json", 
+"url":"feats/Até_Acertar.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Olhos Especiais",
@@ -737,7 +737,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Regional",
-"url":"feats/Olhos_Especiais.json", 
+"url":"feats/Olhos_Especiais.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Adaptabilidade",
@@ -753,7 +753,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Adaptabilidade.json", 
+"url":"feats/Adaptabilidade.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Magia Natural",
@@ -769,7 +769,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Natural.json", 
+"url":"feats/Magia_Natural.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Presença Aterradora Aprimorada",
@@ -785,7 +785,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Presença_Aterradora_Aprimorada.json", 
+"url":"feats/Presença_Aterradora_Aprimorada.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Paciente",
@@ -801,7 +801,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Regional",
-"url":"feats/Paciente.json", 
+"url":"feats/Paciente.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Amigo Imaginário",
@@ -817,7 +817,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Amigo_Imaginário.json", 
+"url":"feats/Amigo_Imaginário.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Amor ao Machado",
@@ -833,7 +833,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Amor_ao_Machado.json", 
+"url":"feats/Amor_ao_Machado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Mestre em Arma",
@@ -849,7 +849,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Mestre_em_Arma.json", 
+"url":"feats/Mestre_em_Arma.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Encanto das Fadas",
@@ -865,7 +865,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Encanto_das_Fadas.json", 
+"url":"feats/Encanto_das_Fadas.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Usar Armaduras Médias",
@@ -881,7 +881,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Armaduras_Médias.json", 
+"url":"feats/Usar_Armaduras_Médias.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Desarmar Aprimorado",
@@ -897,7 +897,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Desarmar_Aprimorado.json", 
+"url":"feats/Desarmar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Sentido Sísmico",
@@ -913,7 +913,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Sentido_Sísmico.json", 
+"url":"feats/Sentido_Sísmico.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Assustar Aprimorado",
@@ -929,7 +929,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Assustar_Aprimorado.json", 
+"url":"feats/Assustar_Aprimorado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Garras de Fera",
@@ -945,7 +945,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Garras_de_Fera.json", 
+"url":"feats/Garras_de_Fera.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Equilíbrio Aprimorado",
@@ -961,7 +961,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Equilíbrio_Aprimorado.json", 
+"url":"feats/Equilíbrio_Aprimorado.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Ataque Sagaz",
@@ -977,7 +977,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Sagaz.json", 
+"url":"feats/Ataque_Sagaz.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Talento Ladino",
@@ -993,7 +993,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Talento_Ladino.json", 
+"url":"feats/Talento_Ladino.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Mestre Elemental",
@@ -1009,7 +1009,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Mestre_Elemental.json", 
+"url":"feats/Mestre_Elemental.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Surto Heroico",
@@ -1025,7 +1025,7 @@
 "eixoBM:":["Bondoso"],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Surto_Heroico.json", 
+"url":"feats/Surto_Heroico.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -1042,7 +1042,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Escudo_Fraterno.json", 
+"url":"feats/Escudo_Fraterno.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Arma Amada",
@@ -1058,7 +1058,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Arma_Amada.json", 
+"url":"feats/Arma_Amada.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Sorrateiro",
@@ -1074,7 +1074,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Sorrateiro.json", 
+"url":"feats/Sorrateiro.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro em Movimento",
@@ -1090,7 +1090,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_em_Movimento.json", 
+"url":"feats/Tiro_em_Movimento.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mente Caótica",
@@ -1106,7 +1106,7 @@
 "eixoBM:":[],
 "eixoLC:":["Caótico"],
 "tipo":"Tormenta",
-"url":"feats/Mente_Caótica.json", 
+"url":"feats/Mente_Caótica.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -1123,7 +1123,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Golpe_com_Duas_Mãos.json", 
+"url":"feats/Golpe_com_Duas_Mãos.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Aparar",
@@ -1139,7 +1139,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Aparar.json", 
+"url":"feats/Aparar.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Multimagia",
@@ -1155,7 +1155,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Multimagia.json", 
+"url":"feats/Multimagia.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Corrida Épica",
@@ -1171,7 +1171,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Corrida_Épica.json", 
+"url":"feats/Corrida_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Nascido no Convés",
@@ -1187,7 +1187,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Nascido_no_Convés.json", 
+"url":"feats/Nascido_no_Convés.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Magia Piedosa",
@@ -1203,7 +1203,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Piedosa.json", 
+"url":"feats/Magia_Piedosa.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Alma de Pedra",
@@ -1219,7 +1219,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Alma_de_Pedra.json", 
+"url":"feats/Alma_de_Pedra.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Ataque Piedoso",
@@ -1235,7 +1235,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Ataque_Piedoso.json", 
+"url":"feats/Ataque_Piedoso.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Corpo Maciço",
@@ -1251,7 +1251,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Corpo_Maciço.json", 
+"url":"feats/Corpo_Maciço.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Poder Mágico Épico",
@@ -1267,7 +1267,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Poder_Mágico_Épico.json", 
+"url":"feats/Poder_Mágico_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Conforto do Aço",
@@ -1283,7 +1283,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Conforto_do_Aço.json", 
+"url":"feats/Conforto_do_Aço.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Especialização em Combate",
@@ -1299,7 +1299,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Combate.json", 
+"url":"feats/Especialização_em_Combate.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Metamagia Aprimorada",
@@ -1315,7 +1315,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Metamagia_Aprimorada.json", 
+"url":"feats/Metamagia_Aprimorada.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Magia Acelerada Automática",
@@ -1331,7 +1331,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Acelerada_Automática.json", 
+"url":"feats/Magia_Acelerada_Automática.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Golpista",
@@ -1347,7 +1347,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Golpista.json", 
+"url":"feats/Golpista.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Animal Encurralado",
@@ -1363,7 +1363,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Animal_Encurralado.json", 
+"url":"feats/Animal_Encurralado.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Domínio da Água",
@@ -1379,7 +1379,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Água.json", 
+"url":"feats/Domínio_da_Água.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -1396,7 +1396,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Moldar_Alma.json", 
+"url":"feats/Moldar_Alma.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Amigo dos Animais",
@@ -1412,7 +1412,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Amigo_dos_Animais.json", 
+"url":"feats/Amigo_dos_Animais.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Atleta Lendário",
@@ -1428,7 +1428,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Atleta_Lendário.json", 
+"url":"feats/Atleta_Lendário.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Sangue de Ferro",
@@ -1444,7 +1444,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Sangue_de_Ferro.json", 
+"url":"feats/Sangue_de_Ferro.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Destruidor de Inimigos",
@@ -1460,7 +1460,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Destruidor_de_Inimigos.json", 
+"url":"feats/Destruidor_de_Inimigos.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Panache",
@@ -1476,7 +1476,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Panache.json", 
+"url":"feats/Panache.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Chumbo Grosso",
@@ -1492,7 +1492,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Chumbo_Grosso.json", 
+"url":"feats/Chumbo_Grosso.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Maximizar Cura",
@@ -1508,7 +1508,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Maximizar_Cura.json", 
+"url":"feats/Maximizar_Cura.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Pacto com a Serpente",
@@ -1524,7 +1524,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Pacto_com_a_Serpente.json", 
+"url":"feats/Pacto_com_a_Serpente.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Escalada Veloz",
@@ -1540,7 +1540,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Escalada_Veloz.json", 
+"url":"feats/Escalada_Veloz.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Duro de Matar",
@@ -1555,7 +1555,7 @@
 "eixoBM":[], 
 "eixoLC":[],
 "tipo":"Combate",
-"url":"feats/Duro_de_Matar.json", 
+"url":"feats/Duro_de_Matar.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -1572,7 +1572,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Grandão.json", 
+"url":"feats/Grandão.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Teoria da Conspiração",
@@ -1588,7 +1588,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Teoria_da_Conspiração.json", 
+"url":"feats/Teoria_da_Conspiração.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Reflexos Épicos",
@@ -1604,7 +1604,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Reflexos_Épicos.json", 
+"url":"feats/Reflexos_Épicos.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Tiro Preciso Aprimorado",
@@ -1620,7 +1620,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Preciso_Aprimorado.json", 
+"url":"feats/Tiro_Preciso_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Presença Aterradora",
@@ -1636,7 +1636,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Presença_Aterradora.json", 
+"url":"feats/Presença_Aterradora.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Potencializar Invocação",
@@ -1652,7 +1652,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Potencializar_Invocação.json", 
+"url":"feats/Potencializar_Invocação.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Ao Sabor do Destino",
@@ -1668,7 +1668,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Ao_Sabor_do_Destino.json", 
+"url":"feats/Ao_Sabor_do_Destino.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Brecha na Guarda",
@@ -1684,7 +1684,7 @@
 "eixoBM:":[],
 "eixoLC:":["Caótico", "Neutro"],
 "tipo":"Combate",
-"url":"feats/Brecha_na_Guarda.json", 
+"url":"feats/Brecha_na_Guarda.markdown", 
 "livro":"Manual de Combate"
 }
 , {
@@ -1701,7 +1701,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Braços_Desiguais.json", 
+"url":"feats/Braços_Desiguais.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Elevar Magia",
@@ -1717,7 +1717,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Elevar_Magia.json", 
+"url":"feats/Elevar_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Inspiração Duradoura",
@@ -1733,7 +1733,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Inspiração_Duradoura.json", 
+"url":"feats/Inspiração_Duradoura.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Dupla Conjuração",
@@ -1749,7 +1749,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Dupla_Conjuração.json", 
+"url":"feats/Dupla_Conjuração.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Domínio da Ordem",
@@ -1765,7 +1765,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Ordem.json", 
+"url":"feats/Domínio_da_Ordem.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Imobilização",
@@ -1781,7 +1781,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Imobilização.json", 
+"url":"feats/Imobilização.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Fúria Destroçadora",
@@ -1797,7 +1797,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Fúria_Destroçadora.json", 
+"url":"feats/Fúria_Destroçadora.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Especialização em Raio",
@@ -1813,7 +1813,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Raio.json", 
+"url":"feats/Especialização_em_Raio.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Magia Oculta",
@@ -1829,7 +1829,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Magia_Oculta.json", 
+"url":"feats/Magia_Oculta.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ajuda Avançada",
@@ -1845,10 +1845,41 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Ajuda_Avançada.json", 
+"url":"feats/Ajuda_Avançada.markdown", 
 "livro":"Manual das Raças"
+}, {"data":[
+{
+"nome":"Desviar Objetos",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
 }, {
-"nome":"Ataques Múltiplos",
+"nome":"Combate Montado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Expert em Cajado",
 "forMin":-1,
 "desMin":-1,
 "conMin":-1,
@@ -1860,9 +1891,871 @@
 "deuses":[],
 "eixoBM:":[],
 "eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Ataques_Múltiplos.json", 
-"livro":"Manual das Raças"
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio do Caos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Hyninn", "Nimb"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Mago de Batalha",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":4,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Trespassar",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Vitalidade",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Tiro Rápido",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Força",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Keenn","Tauron"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Esculpir Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Especialização em Toque",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Magia Explosiva",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Expert em Varinha",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Foco em Escudo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Acuidade com Arma",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Aumentar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Investida Implacável",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Usar Armaduras Leves",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Mago Pobretão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio do Bem",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna","Azgher","Khalmyr","Lena","Marah","Valkaria"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Parede de Escudos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Magia Silenciosa",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Iniciativa Aprimorada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Lutar às Cegas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Expulsão Aprimorada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Foco em Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Duelista Arcano",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio da Destruição",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Kallyadranoch","Keenn", "Megalokk", "Ragnar"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Diligente",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Até Acertar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Adaptabilidade",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Magia Natural",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Amigo Imaginário",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Mestre em Arma",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":16,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Usar Armaduras Médias",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Desarmar Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Sentido Sísmico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque Sagaz",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Mestre Elemental",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Surto Heroico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":["Bondoso"],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Escudo Fraterno",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Sorrateiro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Tiro em Movimento",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Mente Caótica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":["Caótico"],
+"tipo":"Tormenta",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Golpe com Duas Mãos",
+"forMin":15,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Aparar",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Magia Piedosa",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Especialização em Combate",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Animal Encurralado",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Domínio da Água",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Oceano","Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Panache",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Duro de Matar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Tiro Preciso Aprimorado",
+"forMin":-1,
+"desMin":19,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":11,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Potencializar Invocação",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Ao Sabor do Destino",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":5,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Brecha na Guarda",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":["Caótico", "Neutro"],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}
+, {
+"nome":"Elevar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Ordem",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Khalmyr", "Lin-Wu", "Tanna-Toh", "Tauron"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}, {
+"nome":"Imobilização",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Especialização em Raio",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual do Arcano"
 }, {
 "nome":"Saque Rápido",
 "forMin":-1,
@@ -1877,7 +2770,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Saque_Rápido.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio da Enganação",
@@ -1893,7 +2785,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Enganação.json", 
 "livro":"Manual Básico"
 }
 , {
@@ -1910,24 +2801,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Desarmado_Aprimorado.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Cauda Manipuladora",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Cauda_Manipuladora.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Tiro Longo",
 "forMin":-1,
@@ -1942,24 +2816,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Longo.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Golpe Virtuoso",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":25,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":["Leal"],
-"tipo":"Combate",
-"url":"feats/Golpe_Virtuoso.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Treinado em Escola",
 "forMin":-1,
@@ -1974,24 +2831,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Treinado_em_Escola.json", 
 "livro":"Manual de Combate"
-}, {
-"nome":"Ginga das Ondas",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Perícia",
-"url":"feats/Ginga_das_Ondas.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Expulsar/Fascinar Mortos-Vivos",
 "forMin":-1,
@@ -2006,7 +2846,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Expulsar-Fascinar_Mortos-Vivos.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro Preciso",
@@ -2022,40 +2861,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Preciso.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Proteção do Cristal",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Deus Cristal de Urielka"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Proteção_do_Cristal.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Olhos do Destino",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Regional",
-"url":"feats/Olhos_do_Destino.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Usar Venenos",
 "forMin":-1,
@@ -2070,24 +2876,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Venenos.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Asas Abissais",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Asas_Abissais.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Rigidez Raivosa",
 "forMin":-1,
@@ -2102,7 +2891,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Rigidez_Raivosa.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Granadeiro",
@@ -2118,7 +2906,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Granadeiro.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Usar Armas Marciais",
@@ -2134,40 +2921,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Armas_Marciais.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Guardei para Você",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Mauziell"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Guardei_para_Você.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Comandar Aprimorado",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Comandar_Aprimorado.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Ágil",
 "forMin":-1,
@@ -2182,7 +2936,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Ágil.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Conhecimento de Golpes",
@@ -2198,72 +2951,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Conhecimento_de_Golpes.json", 
 "livro":"Manual de Combate"
-}, {
-"nome":"Ginete Lendário",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Perícia",
-"url":"feats/Ginete_Lendário.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Olhos do Vigia",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Betsumial"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Olhos_do_Vigia.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Esquiva Épica",
-"forMin":-1,
-"desMin":25,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Esquiva_Épica.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Anular Indivíduo",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Tormenta",
-"url":"feats/Anular_Indivíduo.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Tese Arcana de Graduação",
 "forMin":-1,
@@ -2278,24 +2966,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Tese_Arcana_de_Graduação.json", 
 "livro":"Manual do Arcano"
-}, {
-"nome":"Faro para Magia",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Faro_para_Magia.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Morte Vinda do Céu",
 "forMin":-1,
@@ -2310,7 +2981,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Morte_Vinda_do_Céu.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Especialização em Arma Aprimorada",
@@ -2326,7 +2996,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Arma_Aprimorada.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mente Yudeniana",
@@ -2342,24 +3011,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Mente_Yudeniana.json", 
 "livro":"Manual do Arcano"
-}, {
-"nome":"Conhecimento Mágico Amplo",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Conhecimento_Mágico_Amplo.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Persuasivo",
 "forMin":-1,
@@ -2374,24 +3026,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Persuasivo.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Magia sem Gestos Automática",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Magia",
-"url":"feats/Magia_sem_Gestos_Automática.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Treino em Perícia",
 "forMin":-1,
@@ -2406,7 +3041,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Treino_em_Perícia.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Terreno Familiar",
@@ -2422,24 +3056,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Terreno_Familiar.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Companheiro Dracônico",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":4,
-"deuses":["Kallyadranoch", "Megalokk", "Wynna"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Companheiro_Dracônico.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Estocada Cruel Maior",
 "forMin":-1,
@@ -2454,7 +3071,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Estocada_Cruel_Maior.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Afinidade com Animais",
@@ -2470,7 +3086,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Afinidade_com_Animais.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Conhecimento de Posturas",
@@ -2486,7 +3101,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Conhecimento_de_Posturas.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Entrada Triunfal",
@@ -2502,24 +3116,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Entrada_Triunfal.json", 
 "livro":"Manual de Combate"
-}, {
-"nome":"Servos do Dragão",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":15,
-"bbaMin":-1,
-"nivMin":4,
-"deuses":["Kallyadranoch"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Servos_do_Dragão.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Impacto Estonteante Maior",
 "forMin":-1,
@@ -2534,7 +3131,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Impacto_Estonteante_Maior.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Agarrar Aprimorado",
@@ -2550,7 +3146,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Agarrar_Aprimorado.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Criar Obra-Prima",
@@ -2566,40 +3161,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Criar_Obra-Prima.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Devoção Simulada",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":13,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Devoção_Simulada.json", 
-"livro":"Manual das Raças"
-}, {
-"nome":"Paranoia Saudável",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Paranoia_Saudável.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Escudo Destemido",
 "forMin":-1,
@@ -2614,7 +3176,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Escudo_Destemido.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Bote da Víbora",
@@ -2630,7 +3191,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Bote_da_Víbora.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Toque Longíquo",
@@ -2646,7 +3206,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Toque_Longíquo.json", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Ataque Giratório",
@@ -2662,24 +3221,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Giratório.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Música dos Deuses",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":25,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Música_dos_Deuses.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Visão Ampla",
 "forMin":-1,
@@ -2694,7 +3236,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Visão_Ampla.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Perito em Arma",
@@ -2710,7 +3251,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Perito_em_Arma.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Olhos nas Costas",
@@ -2726,7 +3266,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Olhos_nas_Costas.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Fraudulento",
@@ -2742,56 +3281,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Fraudulento.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Técnica Heroica",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Técnica_Heroica.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Voz de Allihanna",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Allihanna"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Voz_de_Allihanna.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Arcano Completo",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Arcano_Completo.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Potencializar Magia",
 "forMin":-1,
@@ -2806,40 +3296,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Potencializar_Magia.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Toque da Ruína",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Keenn", "Nimb", "Ragnar", "Sszzaas", "Tenebra"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Toque_da_Ruína.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Extrativismo",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Extrativismo.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Corpo Aberrante",
 "forMin":-1,
@@ -2854,7 +3311,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Corpo_Aberrante.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Insulto Sagaz",
@@ -2870,40 +3326,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Insulto_Sagaz.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Chuva de Golpes",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Chuva_de_Golpes.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Mágica do Dragão",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Kallyadranoch", "Wynna"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Mágica_do_Dragão.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Bloqueio Ambidestro",
 "forMin":-1,
@@ -2918,24 +3341,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Bloqueio_Ambidestro.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Armamento de Allihanna",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Armamento_de_Allihanna.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Domínio dos Animais",
 "forMin":-1,
@@ -2950,7 +3356,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_dos_Animais.json", 
 "livro":"Manual Básico"
 }
 , {
@@ -2967,24 +3372,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Arma.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Cura Gentil",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":13,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Lena", "Marah"],
-"eixoBM:":["Bondoso"],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Cura_Gentil.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque com Escudo",
 "forMin":-1,
@@ -2999,24 +3387,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ataque_com_Escudo.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Autocamuflagem",
-"forMin":-1,
-"desMin":21,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Autocamuflagem.json", 
-"livro":"Guia da Trilogia"
+"livro":"Manual de Combate"
 }, {
 "nome":"Estender Magia",
 "forMin":-1,
@@ -3031,7 +3402,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Estender_Magia.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio do Sol",
@@ -3047,7 +3417,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Sol.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio da Viagem",
@@ -3063,7 +3432,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Viagem.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Contramágica Aprimorada",
@@ -3079,7 +3447,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Contramágica_Aprimorada.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Apanhar Objetos",
@@ -3095,40 +3462,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Apanhar_Objetos.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Força da Amizade",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Artaphan"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Força_da_Amizade.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Arma Secundária Grande",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Arma_Secundária_Grande.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Poder Mágico",
 "forMin":-1,
@@ -3143,72 +3477,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Poder_Mágico.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Forma Selvagem Ínfima",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Forma_Selvagem_Ínfima.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Cauda Hipnótica",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Cauda_Hipnótica.json", 
-"livro":"Manual das Raças"
-}, {
-"nome":"Escamas do Dragão",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Allihanna", "Kallyadranoch", "Megalokk"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Escamas_do_Dragão.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Domínio da Loucura",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Aharadak", "Nimb"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Loucura.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Carapaça",
 "forMin":-1,
@@ -3223,7 +3492,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Carapaça.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Sucesso Atrai Sucesso",
@@ -3239,7 +3507,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Sucesso_Atrai_Sucesso.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Reflexos Rápidos",
@@ -3255,7 +3522,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Reflexos_Rápidos.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Combater Com Duas Armas Aprimorado",
@@ -3271,24 +3537,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Combater_Com_Duas_Armas_Aprimorado.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Reputação Lendária",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Perícia",
-"url":"feats/Reputação_Lendária.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Domínio das Plantas",
 "forMin":-1,
@@ -3303,24 +3552,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_das_Plantas.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Asas Celestiais",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Asas_Celestiais.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Domínio da Magia",
 "forMin":-1,
@@ -3335,7 +3567,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Magia.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Magia Duradoura",
@@ -3351,7 +3582,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Duradoura.json", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Atraente",
@@ -3367,7 +3597,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Atraente.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Na Mosca",
@@ -3383,24 +3612,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Na_Mosca.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Dupla Tendência",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Dupla_Tendência.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Foco em Perícia",
 "forMin":-1,
@@ -3415,104 +3627,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Foco_em_Perícia.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Desejo Avançado",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":14,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Desejo_Avançado.json", 
-"livro":"Manual das Raças"
-}, {
-"nome":"Dom da Ressurreição",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Thyatis"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Dom_da_Ressurreição.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Crítico Esmagador",
-"forMin":23,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Crítico_Esmagador.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Inspirar Excelência",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Inspirar_Excelência.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Magia Silenciosa Automática",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Magia",
-"url":"feats/Magia_Silenciosa_Automática.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Duas Cabeças",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Duas_Cabeças.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Impostor",
 "forMin":-1,
@@ -3527,7 +3642,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Impostor.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Rastrear",
@@ -3543,7 +3657,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Rastrear.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Devoto",
@@ -3559,7 +3672,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Devoto.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mãos Rápidas",
@@ -3575,7 +3687,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Mãos_Rápidas.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Empurrar Aprimorado",
@@ -3591,7 +3702,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Empurrar_Aprimorado.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Anatomia Insana",
@@ -3603,12 +3713,11 @@
 "carMin":-1,
 "bbaMin":-1,
 "nivMin":-1,
-"deuses":["Nimb"],
+"deuses":[],
 "eixoBM:":[],
 "eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Anatomia_Insana.json", 
-"livro":"Guia da Trilogia"
+"tipo":"Tormenta",
+"livro":"Manual Básico"
 }, {
 "nome":"Dominar Magia",
 "forMin":-1,
@@ -3623,40 +3732,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Dominar_Magia.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Ataque Sagrado",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Ataque_Sagrado.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Força da Fé",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":3,
-"nivMin":-1,
-"deuses":["Keenn", "Kallyadranoch", "Megalokk", "Ragnar", "Tauron"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Força_da_Fé.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Foco em Arma",
 "forMin":-1,
@@ -3671,7 +3747,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Arma.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio do Conhecimento",
@@ -3687,7 +3762,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Conhecimento.json", 
 "livro":"Manual Básico"
 }
 , {
@@ -3704,7 +3778,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Personalizar_Magia.json", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Visco Rubro",
@@ -3720,40 +3793,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Visco_Rubro.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Meditação Autoafirmativa",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":13,
-"carMin":17,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Meditação_Autoafirmativa.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Tempestade de Golpes",
-"forMin":-1,
-"desMin":25,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Combate",
-"url":"feats/Tempestade_de_Golpes.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Domínio da Terra",
 "forMin":-1,
@@ -3768,7 +3808,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Terra.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Acrobacia Audaz",
@@ -3784,40 +3823,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Acrobacia_Audaz.json", 
 "livro":"Manual Básico"
-}, {
-"nome":"Dom da Imortalidade",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":["Thyatis"],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Poderes Concedidos",
-"url":"feats/Dom_da_Imortalidade.json", 
-"livro":"Guia da Trilogia"
-}, {
-"nome":"Vontade Épica",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":21,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Destino",
-"url":"feats/Vontade_Épica.json", 
-"livro":"Guia da Trilogia"
 }, {
 "nome":"Artista",
 "forMin":-1,
@@ -3832,7 +3838,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Artista.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Rapidez de Recarga",
@@ -3848,7 +3853,6 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Rapidez_de_Recarga.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Ameaça Concreta",
@@ -3864,40 +3868,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ameaça_Concreta.json", 
 "livro":"Manual do Arcano"
-}, {
-"nome":"Camuflagem",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Camuflagem.json", 
-"livro":"Manual das Raças"
-}, {
-"nome":"Companheiro Aprimorado",
-"forMin":-1,
-"desMin":-1,
-"conMin":-1,
-"intMin":-1,
-"sabMin":-1,
-"carMin":-1,
-"bbaMin":-1,
-"nivMin":-1,
-"deuses":[],
-"eixoBM:":[],
-"eixoLC:":[],
-"tipo":"Racial",
-"url":"feats/Companheiro_Aprimorado.json", 
-"livro":"Manual das Raças"
 }, {
 "nome":"Gritos de Poder",
 "forMin":-1,
@@ -3912,7 +3883,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Gritos_de_Poder.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Investida Ricochete",
@@ -3928,7 +3898,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Investida_Ricochete.json", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Atlético",
@@ -3944,7 +3913,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Atlético.json", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio do Fogo",
@@ -3960,7 +3928,3760 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Fogo.json", 
+"livro":"Manual Básico"
+}
+, {
+"nome":"Ataque Duplo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Erosão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Usar Escudo de Corpo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Derrubar Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Expert em Cetro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio da Guerra",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Keenn", "Khalmyr", "Lin-Wu", "Ragnar", "Tauron", "Valkaria"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}, {
+"nome":"Estocada Cruel",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Linguista",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Proteção",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Khalmyr", "Lena", "Lin-Wu", "Marah", "Tanna-Toh", "Tauron", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}, {
+"nome":"Magias em Combate",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Trespassar Aprimorado",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Impacto Estonteante",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Ataque Preciso",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":11,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Usar Armaduras Pesadas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Resistência a Energia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"livro":"Manual Básico"
+}, {
+"nome":"Usar Armas Simples",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Sorte",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Hyninn", "Marah", "Nimb", "Wynna", "Valkaria"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}, {
+"nome":"Escudo Veloz",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Estudos Diletantes",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Senso da Natureza",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque Poderoso",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Combater Com Duas Armas Maior",
+"forMin":-1,
+"desMin":19,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":11,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Item de Poder Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Retroceder Nunca, Render-se Jamais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Ataque com Escudo Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Conjurador Sortudo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Expert em Orbe",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio do Ar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Oceano", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Conhecimento Mágico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Falange",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Golpe Especial",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Alcance Supremo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Tiro Especial",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Magia Sem Gestos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Foco em Arma Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":8,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Fúria Estendida",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual de Combate"
+}, {
+"nome":"Investigador",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Vontade de Ferro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Estudioso Arcano",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":11,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Tiro Múltiplo",
+"forMin":-1,
+"desMin":17,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Aparência Inofensiva",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Tolerância",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Combater com Duas Armas",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Exterminador de Monstros",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":8,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Mira Mortal",
+"forMin":-1,
+"desMin":17,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":11,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Especialização em Armadura",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":8,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Torcida",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Familiar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Separar Aprimorado",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Tese Arcana de Grão-Mestre",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":12,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Atropelar Aprimorado",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Comandar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Substituição Elemental",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Casca Grossa",
+"forMin":-1,
+"desMin":-1,
+"conMin":13,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Foco em Raio",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Truque do Desarme",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Basta!",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":10,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Visão no Escuro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"livro":"Manual Básico"
+}, {
+"nome":"Tese Arcana de Mestre",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":8,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Mira Apurada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Liderança",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":6,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Fortitude Maior",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Escudo Inteligente",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Mágico de Palco",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Autossuficiente",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Maximizar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Pisotear",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Investida Montada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque em Movimento",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Acelerar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Cura",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna", "Lena", "Marah", "Thyatis"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}
+, {
+"nome":"Poder Embutido",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Recursos Recicláveis",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Prontidão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Tiro Montado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Corrida",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Esquiva",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Mente Sobre o Corpo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Usar Escudos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Foco em Magia Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Dedos Ágeis",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Foco em Armadura",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Ajuda dos Ancestrais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"livro":"Manual Básico"
+}, {
+"nome":"Aptidão Mágica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Alquimista Avarento",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Acerto Crítico Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":8,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Alquimista Prodígio",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Foco em Toque",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Usar Arma Exótica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Reflexos de Combate",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Ampliar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque Atordoante",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Empunhadura Poderosa",
+"forMin":17,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Magia Corrosiva",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Domínio da Morte",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Ragnar", "Sszzaas", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"livro":"Manual Básico"
+}, {
+"nome":"Negociador",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Mobilidade Perfeita",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Fintar Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Duro de Ferir",
+"forMin":-1,
+"desMin":-1,
+"conMin":13,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Acrobático",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"livro":"Manual Básico"
+}, {
+"nome":"Membros Estendidos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"livro":"Manual Básico"
+}, {
+"nome":"Flerte Estratégico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque Poderoso Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Tiro Certeiro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Magia Eletrizante",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Escudo Heroico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"livro":"Manual de Combate"
+}, {
+"nome":"Magia Congelante",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"livro":"Manual do Arcano"
+}, {
+"nome":"Mobilidade",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio do Mal",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Keenn", "Megalokk", "Ragnar", "Sszzaas", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/big.markdown", 
+"livro":"Manual Básico"
+}]}, {
+"nome":"Ataques Múltiplos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Ataques_Múltiplos.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Saque Rápido",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Saque_Rápido.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Enganação",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Hyninn","Sszzaas"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Enganação.markdown", 
+"livro":"Manual Básico"
+}
+, {
+"nome":"Ataque Desarmado Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Ataque_Desarmado_Aprimorado.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Cauda Manipuladora",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Cauda_Manipuladora.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Tiro Longo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Tiro_Longo.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Golpe Virtuoso",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":25,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":["Leal"],
+"tipo":"Combate",
+"url":"feats/Golpe_Virtuoso.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Treinado em Escola",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Treinado_em_Escola.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Ginga das Ondas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Ginga_das_Ondas.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Expulsar/Fascinar Mortos-Vivos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Expulsar-Fascinar_Mortos-Vivos.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Tiro Preciso",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Tiro_Preciso.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Proteção do Cristal",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Deus Cristal de Urielka"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Proteção_do_Cristal.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Olhos do Destino",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Regional",
+"url":"feats/Olhos_do_Destino.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Usar Venenos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Usar_Venenos.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Asas Abissais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Asas_Abissais.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Rigidez Raivosa",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Rigidez_Raivosa.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Granadeiro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Granadeiro.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Usar Armas Marciais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Usar_Armas_Marciais.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Guardei para Você",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Mauziell"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Guardei_para_Você.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Comandar Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Comandar_Aprimorado.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Ágil",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Ágil.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Conhecimento de Golpes",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Conhecimento_de_Golpes.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Ginete Lendário",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Ginete_Lendário.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Olhos do Vigia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Betsumial"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Olhos_do_Vigia.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Esquiva Épica",
+"forMin":-1,
+"desMin":25,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Esquiva_Épica.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Anular Indivíduo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"url":"feats/Anular_Indivíduo.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Tese Arcana de Graduação",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Tese_Arcana_de_Graduação.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Faro para Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Faro_para_Magia.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Morte Vinda do Céu",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Morte_Vinda_do_Céu.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Especialização em Arma Aprimorada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":12,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Especialização_em_Arma_Aprimorada.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Mente Yudeniana",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Mente_Yudeniana.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Conhecimento Mágico Amplo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Conhecimento_Mágico_Amplo.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Persuasivo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Persuasivo.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Magia sem Gestos Automática",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Magia_sem_Gestos_Automática.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Treino em Perícia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Treino_em_Perícia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Terreno Familiar",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Terreno_Familiar.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Companheiro Dracônico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":4,
+"deuses":["Kallyadranoch", "Megalokk", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Companheiro_Dracônico.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Estocada Cruel Maior",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Estocada_Cruel_Maior.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Afinidade com Animais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Afinidade_com_Animais.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Conhecimento de Posturas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Conhecimento_de_Posturas.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Entrada Triunfal",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Entrada_Triunfal.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Servos do Dragão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":15,
+"bbaMin":-1,
+"nivMin":4,
+"deuses":["Kallyadranoch"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Servos_do_Dragão.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Impacto Estonteante Maior",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Impacto_Estonteante_Maior.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Agarrar Aprimorado",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Agarrar_Aprimorado.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Criar Obra-Prima",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Criar_Obra-Prima.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Devoção Simulada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Devoção_Simulada.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Paranoia Saudável",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Paranoia_Saudável.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Escudo Destemido",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Escudo_Destemido.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Bote da Víbora",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Bote_da_Víbora.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Toque Longíquo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Toque_Longíquo.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Ataque Giratório",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":4,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Ataque_Giratório.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Música dos Deuses",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":25,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Música_dos_Deuses.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Visão Ampla",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"url":"feats/Visão_Ampla.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Perito em Arma",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":13,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Perito_em_Arma.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Olhos nas Costas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Olhos_nas_Costas.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Fraudulento",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Fraudulento.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Técnica Heroica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Técnica_Heroica.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Voz de Allihanna",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Voz_de_Allihanna.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Arcano Completo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Arcano_Completo.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Potencializar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Potencializar_Magia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Toque da Ruína",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Keenn", "Nimb", "Ragnar", "Sszzaas", "Tenebra"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Toque_da_Ruína.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Extrativismo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Extrativismo.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Corpo Aberrante",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"url":"feats/Corpo_Aberrante.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Insulto Sagaz",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Insulto_Sagaz.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Chuva de Golpes",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Chuva_de_Golpes.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Mágica do Dragão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Kallyadranoch", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Mágica_do_Dragão.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Bloqueio Ambidestro",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Bloqueio_Ambidestro.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Armamento de Allihanna",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Armamento_de_Allihanna.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Domínio dos Animais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna", "Megalokk", "Oceano"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_dos_Animais.markdown", 
+"livro":"Manual Básico"
+}
+, {
+"nome":"Especialização em Arma",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":4,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Especialização_em_Arma.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Cura Gentil",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Lena", "Marah"],
+"eixoBM:":["Bondoso"],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Cura_Gentil.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Ataque com Escudo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Ataque_com_Escudo.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Autocamuflagem",
+"forMin":-1,
+"desMin":21,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Autocamuflagem.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Estender Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Estender_Magia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio do Sol",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Azgher", "Lin-Wu"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_do_Sol.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio da Viagem",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Azgher", "Tanna-Toh", "Thyatis", "Valkaria"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Viagem.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Contramágica Aprimorada",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Contramágica_Aprimorada.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Apanhar Objetos",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Apanhar_Objetos.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Força da Amizade",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Artaphan"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Força_da_Amizade.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Arma Secundária Grande",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Arma_Secundária_Grande.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Poder Mágico",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Poder_Mágico.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Forma Selvagem Ínfima",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Forma_Selvagem_Ínfima.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Cauda Hipnótica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Cauda_Hipnótica.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Escamas do Dragão",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna", "Kallyadranoch", "Megalokk"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Escamas_do_Dragão.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Domínio da Loucura",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Aharadak", "Nimb"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Loucura.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Carapaça",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"url":"feats/Carapaça.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Sucesso Atrai Sucesso",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Sucesso_Atrai_Sucesso.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Reflexos Rápidos",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Reflexos_Rápidos.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Combater Com Duas Armas Aprimorado",
+"forMin":-1,
+"desMin":17,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":6,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Combater_Com_Duas_Armas_Aprimorado.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Reputação Lendária",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Reputação_Lendária.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Domínio das Plantas",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Allihanna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_das_Plantas.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Asas Celestiais",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Asas_Celestiais.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Domínio da Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Kallyadranoch", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Magia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Magia Duradoura",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Magia_Duradoura.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Atraente",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Atraente.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Na Mosca",
+"forMin":-1,
+"desMin":13,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Na_Mosca.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Dupla Tendência",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Dupla_Tendência.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Foco em Perícia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Foco_em_Perícia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Desejo Avançado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":14,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Desejo_Avançado.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Dom da Ressurreição",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Thyatis"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Dom_da_Ressurreição.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Crítico Esmagador",
+"forMin":23,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Crítico_Esmagador.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Inspirar Excelência",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Inspirar_Excelência.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Magia Silenciosa Automática",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Magia_Silenciosa_Automática.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Duas Cabeças",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Duas_Cabeças.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Impostor",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Impostor.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Rastrear",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Rastrear.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Devoto",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":11,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Devoto.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Mãos Rápidas",
+"forMin":-1,
+"desMin":15,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Mãos_Rápidas.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Empurrar Aprimorado",
+"forMin":13,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Empurrar_Aprimorado.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Anatomia Insana",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Nimb"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Anatomia_Insana.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Dominar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Dominar_Magia.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Ataque Sagrado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Ataque_Sagrado.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Força da Fé",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":3,
+"nivMin":-1,
+"deuses":["Keenn", "Kallyadranoch", "Megalokk", "Ragnar", "Tauron"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Força_da_Fé.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Foco em Arma",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Foco_em_Arma.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio do Conhecimento",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Kallyadranoch","Sszzaas","Tanna-Toh","Thyatis"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_do_Conhecimento.markdown", 
+"livro":"Manual Básico"
+}
+, {
+"nome":"Personalizar Magia",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Magia",
+"url":"feats/Personalizar_Magia.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Visco Rubro",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Tormenta",
+"url":"feats/Visco_Rubro.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Meditação Autoafirmativa",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":13,
+"carMin":17,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Meditação_Autoafirmativa.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Tempestade de Golpes",
+"forMin":-1,
+"desMin":25,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Tempestade_de_Golpes.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Domínio da Terra",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Khalmyr", "Tenebra", "Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_da_Terra.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Acrobacia Audaz",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Acrobacia_Audaz.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Dom da Imortalidade",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Thyatis"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Dom_da_Imortalidade.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Vontade Épica",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":21,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Vontade_Épica.markdown", 
+"livro":"Guia da Trilogia"
+}, {
+"nome":"Artista",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Artista.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Rapidez de Recarga",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"eixoBM":[], 
+"eixoLC":[], 
+"deuses":[],
+"tipo":"Combate",
+"url":"feats/Rapidez_de_Recarga.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Ameaça Concreta",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":13,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Ameaça_Concreta.markdown", 
+"livro":"Manual do Arcano"
+}, {
+"nome":"Camuflagem",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Camuflagem.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Companheiro Aprimorado",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Racial",
+"url":"feats/Companheiro_Aprimorado.markdown", 
+"livro":"Manual das Raças"
+}, {
+"nome":"Gritos de Poder",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Destino",
+"url":"feats/Gritos_de_Poder.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Investida Ricochete",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Combate",
+"url":"feats/Investida_Ricochete.markdown", 
+"livro":"Manual de Combate"
+}, {
+"nome":"Atlético",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":[],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Perícia",
+"url":"feats/Atlético.markdown", 
+"livro":"Manual Básico"
+}, {
+"nome":"Domínio do Fogo",
+"forMin":-1,
+"desMin":-1,
+"conMin":-1,
+"intMin":-1,
+"sabMin":-1,
+"carMin":-1,
+"bbaMin":-1,
+"nivMin":-1,
+"deuses":["Azgher","Tauron","Thyatis","Wynna"],
+"eixoBM:":[],
+"eixoLC:":[],
+"tipo":"Poderes Concedidos",
+"url":"feats/Domínio_do_Fogo.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -3977,7 +7698,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Desviar_Objetos_Épico.json", 
+"url":"feats/Desviar_Objetos_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque Duplo",
@@ -3993,7 +7714,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Duplo.json", 
+"url":"feats/Ataque_Duplo.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Intensificar Magia",
@@ -4009,7 +7730,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Intensificar_Magia.json", 
+"url":"feats/Intensificar_Magia.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Fuga",
@@ -4025,7 +7746,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Fuga.json", 
+"url":"feats/Fuga.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Inspiração Épica",
@@ -4041,7 +7762,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Inspiração_Épica.json", 
+"url":"feats/Inspiração_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Erosão",
@@ -4057,7 +7778,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Erosão.json", 
+"url":"feats/Erosão.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Usar Escudo de Corpo",
@@ -4073,7 +7794,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Usar_Escudo_de_Corpo.json", 
+"url":"feats/Usar_Escudo_de_Corpo.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Asas de Aço",
@@ -4089,7 +7810,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Asas_de_Aço.json", 
+"url":"feats/Asas_de_Aço.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Derrubar Aprimorado",
@@ -4105,7 +7826,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Derrubar_Aprimorado.json", 
+"url":"feats/Derrubar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Expert em Cetro",
@@ -4121,7 +7842,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Expert_em_Cetro.json", 
+"url":"feats/Expert_em_Cetro.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Constrição Atroz",
@@ -4137,7 +7858,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Constrição_Atroz.json", 
+"url":"feats/Constrição_Atroz.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Domínio da Guerra",
@@ -4153,7 +7874,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Guerra.json", 
+"url":"feats/Domínio_da_Guerra.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Estocada Cruel",
@@ -4169,7 +7890,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Estocada_Cruel.json", 
+"url":"feats/Estocada_Cruel.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Viajante Incansável",
@@ -4185,7 +7906,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Viajante_Incansável.json", 
+"url":"feats/Viajante_Incansável.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Linguista",
@@ -4201,7 +7922,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Linguista.json", 
+"url":"feats/Linguista.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio da Proteção",
@@ -4217,7 +7938,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Proteção.json", 
+"url":"feats/Domínio_da_Proteção.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Magias em Combate",
@@ -4233,7 +7954,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magias_em_Combate.json", 
+"url":"feats/Magias_em_Combate.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Santo da Arma",
@@ -4249,7 +7970,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Santo_da_Arma.json", 
+"url":"feats/Santo_da_Arma.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Trespassar Aprimorado",
@@ -4265,7 +7986,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Trespassar_Aprimorado.json", 
+"url":"feats/Trespassar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Amo",
@@ -4281,7 +8002,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Amo.json", 
+"url":"feats/Amo.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Forma de Macaco",
@@ -4297,7 +8018,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Forma_de_Macaco.json", 
+"url":"feats/Forma_de_Macaco.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Familiar das Trevas",
@@ -4313,7 +8034,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Familiar_das_Trevas.json", 
+"url":"feats/Familiar_das_Trevas.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Impacto Estonteante",
@@ -4329,7 +8050,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Impacto_Estonteante.json", 
+"url":"feats/Impacto_Estonteante.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Ataque Preciso",
@@ -4345,7 +8066,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Preciso.json", 
+"url":"feats/Ataque_Preciso.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Usar Armaduras Pesadas",
@@ -4361,7 +8082,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Armaduras_Pesadas.json", 
+"url":"feats/Usar_Armaduras_Pesadas.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Foco em Arma Épico",
@@ -4377,7 +8098,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Arma_Épico.json", 
+"url":"feats/Foco_em_Arma_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Resistência a Energia",
@@ -4393,7 +8114,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Resistência_a_Energia.json", 
+"url":"feats/Resistência_a_Energia.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -4410,7 +8131,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Armas_Simples.json", 
+"url":"feats/Usar_Armas_Simples.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Fúria Caótica",
@@ -4426,7 +8147,7 @@
 "eixoBM:":[],
 "eixoLC:":["Caótico"],
 "tipo":"Combate",
-"url":"feats/Fúria_Caótica.json", 
+"url":"feats/Fúria_Caótica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Domínio da Sorte",
@@ -4442,7 +8163,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Sorte.json", 
+"url":"feats/Domínio_da_Sorte.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Escudo Veloz",
@@ -4458,7 +8179,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Escudo_Veloz.json", 
+"url":"feats/Escudo_Veloz.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Estudos Diletantes",
@@ -4474,7 +8195,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Estudos_Diletantes.json", 
+"url":"feats/Estudos_Diletantes.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Senso da Natureza",
@@ -4490,7 +8211,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Senso_da_Natureza.json", 
+"url":"feats/Senso_da_Natureza.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Fisgar",
@@ -4506,7 +8227,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Fisgar.json", 
+"url":"feats/Fisgar.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque Poderoso",
@@ -4522,7 +8243,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Poderoso.json", 
+"url":"feats/Ataque_Poderoso.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Faro Discriminatório",
@@ -4538,7 +8259,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Faro_Discriminatório.json", 
+"url":"feats/Faro_Discriminatório.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Faz-Tudo",
@@ -4554,7 +8275,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Faz-Tudo.json", 
+"url":"feats/Faz-Tudo.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Arma Natural Aprimorada",
@@ -4570,7 +8291,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Arma_Natural_Aprimorada.json", 
+"url":"feats/Arma_Natural_Aprimorada.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Combater Com Duas Armas Maior",
@@ -4586,7 +8307,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Combater_Com_Duas_Armas_Maior.json", 
+"url":"feats/Combater_Com_Duas_Armas_Maior.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Item de Poder Aprimorado",
@@ -4602,7 +8323,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Item_de_Poder_Aprimorado.json", 
+"url":"feats/Item_de_Poder_Aprimorado.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Retroceder Nunca, Render-se Jamais",
@@ -4618,7 +8339,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Retroceder_Nunca,_Render-se_Jamais.json", 
+"url":"feats/Retroceder_Nunca,_Render-se_Jamais.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Golpe Vorpal",
@@ -4634,7 +8355,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Golpe_Vorpal.json", 
+"url":"feats/Golpe_Vorpal.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque com Escudo Aprimorado",
@@ -4650,7 +8371,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_com_Escudo_Aprimorado.json", 
+"url":"feats/Ataque_com_Escudo_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Dupla Destreza",
@@ -4666,7 +8387,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Dupla_Destreza.json", 
+"url":"feats/Dupla_Destreza.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Conjurador Sortudo",
@@ -4682,7 +8403,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Conjurador_Sortudo.json", 
+"url":"feats/Conjurador_Sortudo.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Alma do Dragão",
@@ -4698,7 +8419,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Alma_do_Dragão.json", 
+"url":"feats/Alma_do_Dragão.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Expert em Orbe",
@@ -4714,7 +8435,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Expert_em_Orbe.json", 
+"url":"feats/Expert_em_Orbe.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Domínio do Ar",
@@ -4730,7 +8451,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Ar.json", 
+"url":"feats/Domínio_do_Ar.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -4747,7 +8468,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Golpe_Estilhaçador.json", 
+"url":"feats/Golpe_Estilhaçador.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Destruir o Mal Adicional",
@@ -4763,7 +8484,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Destruir_o_Mal_Adicional.json", 
+"url":"feats/Destruir_o_Mal_Adicional.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Conhecimento Mágico",
@@ -4779,7 +8500,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Conhecimento_Mágico.json", 
+"url":"feats/Conhecimento_Mágico.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Especialização em Arma Racial",
@@ -4795,7 +8516,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Especialização_em_Arma_Racial.json", 
+"url":"feats/Especialização_em_Arma_Racial.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Falange",
@@ -4811,7 +8532,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Falange.json", 
+"url":"feats/Falange.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Golpe Especial",
@@ -4827,7 +8548,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Golpe_Especial.json", 
+"url":"feats/Golpe_Especial.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Vitalidade Épica",
@@ -4843,7 +8564,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Vitalidade_Épica.json", 
+"url":"feats/Vitalidade_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Alcance Supremo",
@@ -4859,7 +8580,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Alcance_Supremo.json", 
+"url":"feats/Alcance_Supremo.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Tiro Especial",
@@ -4875,7 +8596,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Especial.json", 
+"url":"feats/Tiro_Especial.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Magia Sem Gestos",
@@ -4891,7 +8612,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Sem_Gestos.json", 
+"url":"feats/Magia_Sem_Gestos.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Foco em Arma Aprimorado",
@@ -4907,7 +8628,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Arma_Aprimorado.json", 
+"url":"feats/Foco_em_Arma_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Fúria Estendida",
@@ -4923,7 +8644,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Fúria_Estendida.json", 
+"url":"feats/Fúria_Estendida.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Investigador",
@@ -4939,7 +8660,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Investigador.json", 
+"url":"feats/Investigador.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro Distante",
@@ -4955,7 +8676,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Distante.json", 
+"url":"feats/Tiro_Distante.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Forma Selvagem Colossal",
@@ -4971,7 +8692,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Forma_Selvagem_Colossal.json", 
+"url":"feats/Forma_Selvagem_Colossal.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Vontade de Ferro",
@@ -4987,7 +8708,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Vontade_de_Ferro.json", 
+"url":"feats/Vontade_de_Ferro.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Estudioso Arcano",
@@ -5003,7 +8724,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Estudioso_Arcano.json", 
+"url":"feats/Estudioso_Arcano.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro Múltiplo",
@@ -5019,7 +8740,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Múltiplo.json", 
+"url":"feats/Tiro_Múltiplo.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Sete Escorpiões",
@@ -5035,7 +8756,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Sete_Escorpiões.json", 
+"url":"feats/Sete_Escorpiões.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Aparência Inofensiva",
@@ -5051,7 +8772,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Aparência_Inofensiva.json", 
+"url":"feats/Aparência_Inofensiva.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tolerância",
@@ -5067,7 +8788,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Tolerância.json", 
+"url":"feats/Tolerância.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Comandante Lendário",
@@ -5083,7 +8804,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Comandante_Lendário.json", 
+"url":"feats/Comandante_Lendário.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Combater com Duas Armas",
@@ -5099,7 +8820,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Combater_com_Duas_Armas.json", 
+"url":"feats/Combater_com_Duas_Armas.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Ego",
@@ -5115,7 +8836,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Ego.json", 
+"url":"feats/Ego.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Faro para Medo",
@@ -5131,7 +8852,7 @@
 "eixoBM:":["Maligno"],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Faro_para_Medo.json", 
+"url":"feats/Faro_para_Medo.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Exterminador de Monstros",
@@ -5147,7 +8868,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Exterminador_de_Monstros.json", 
+"url":"feats/Exterminador_de_Monstros.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Ajuda Extrema",
@@ -5163,7 +8884,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Ajuda_Extrema.json", 
+"url":"feats/Ajuda_Extrema.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Mira Mortal",
@@ -5179,7 +8900,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Mira_Mortal.json", 
+"url":"feats/Mira_Mortal.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Olhos Aguçados",
@@ -5195,7 +8916,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Regional",
-"url":"feats/Olhos_Aguçados.json", 
+"url":"feats/Olhos_Aguçados.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Especialização em Armadura",
@@ -5211,7 +8932,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Especialização_em_Armadura.json", 
+"url":"feats/Especialização_em_Armadura.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Torcida",
@@ -5227,7 +8948,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Torcida.json", 
+"url":"feats/Torcida.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Familiar",
@@ -5243,7 +8964,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Familiar.json", 
+"url":"feats/Familiar.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Separar Aprimorado",
@@ -5259,7 +8980,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Separar_Aprimorado.json", 
+"url":"feats/Separar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Dom Sobre-Humano",
@@ -5275,7 +8996,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Dom_Sobre-Humano.json", 
+"url":"feats/Dom_Sobre-Humano.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Tese Arcana de Grão-Mestre",
@@ -5291,7 +9012,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Tese_Arcana_de_Grão-Mestre.json", 
+"url":"feats/Tese_Arcana_de_Grão-Mestre.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Atropelar Aprimorado",
@@ -5307,7 +9028,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Atropelar_Aprimorado.json", 
+"url":"feats/Atropelar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Comandar",
@@ -5323,7 +9044,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Comandar.json", 
+"url":"feats/Comandar.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Substituição Elemental",
@@ -5339,7 +9060,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Substituição_Elemental.json", 
+"url":"feats/Substituição_Elemental.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Transmissão da Loucura",
@@ -5355,7 +9076,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Transmissão_da_Loucura.json", 
+"url":"feats/Transmissão_da_Loucura.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Casca Grossa",
@@ -5371,7 +9092,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Casca_Grossa.json", 
+"url":"feats/Casca_Grossa.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Foco em Raio",
@@ -5387,7 +9108,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Raio.json", 
+"url":"feats/Foco_em_Raio.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Bravura Épica",
@@ -5403,7 +9124,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Bravura_Épica.json", 
+"url":"feats/Bravura_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Familiar da Luz",
@@ -5419,7 +9140,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Familiar_da_Luz.json", 
+"url":"feats/Familiar_da_Luz.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Truque do Desarme",
@@ -5435,7 +9156,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Truque_do_Desarme.json", 
+"url":"feats/Truque_do_Desarme.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Basta!",
@@ -5451,7 +9172,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Basta!.json", 
+"url":"feats/Basta!.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Visão no Escuro",
@@ -5467,7 +9188,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Visão_no_Escuro.json", 
+"url":"feats/Visão_no_Escuro.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tese Arcana de Mestre",
@@ -5483,7 +9204,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Tese_Arcana_de_Mestre.json", 
+"url":"feats/Tese_Arcana_de_Mestre.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Mira Apurada",
@@ -5499,7 +9220,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Mira_Apurada.json", 
+"url":"feats/Mira_Apurada.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Liderança",
@@ -5515,7 +9236,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Liderança.json", 
+"url":"feats/Liderança.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Crítico Devastador",
@@ -5531,7 +9252,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Crítico_Devastador.json", 
+"url":"feats/Crítico_Devastador.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Protegido Indefeso",
@@ -5547,7 +9268,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Protegido_Indefeso.json", 
+"url":"feats/Protegido_Indefeso.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Coragem Total",
@@ -5563,7 +9284,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Coragem_Total.json", 
+"url":"feats/Coragem_Total.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Desejo Aprimorado",
@@ -5579,7 +9300,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Desejo_Aprimorado.json", 
+"url":"feats/Desejo_Aprimorado.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Fortitude Maior",
@@ -5595,7 +9316,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Fortitude_Maior.json", 
+"url":"feats/Fortitude_Maior.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Escudo Inteligente",
@@ -5611,7 +9332,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Escudo_Inteligente.json", 
+"url":"feats/Escudo_Inteligente.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Entre as Pernas",
@@ -5627,7 +9348,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Entre_as_Pernas.json", 
+"url":"feats/Entre_as_Pernas.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Filho da Luz",
@@ -5643,7 +9364,7 @@
 "eixoBM:":["Bondoso"],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Filho_da_Luz.json", 
+"url":"feats/Filho_da_Luz.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Mágico de Palco",
@@ -5659,7 +9380,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Mágico_de_Palco.json", 
+"url":"feats/Mágico_de_Palco.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Autossuficiente",
@@ -5675,7 +9396,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Autossuficiente.json", 
+"url":"feats/Autossuficiente.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Espadachim Divino",
@@ -5691,7 +9412,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Espadachim_Divino.json", 
+"url":"feats/Espadachim_Divino.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Maximizar Magia",
@@ -5707,7 +9428,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Maximizar_Magia.json", 
+"url":"feats/Maximizar_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Lutador Lendário",
@@ -5723,7 +9444,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Lutador_Lendário.json", 
+"url":"feats/Lutador_Lendário.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Assustar",
@@ -5739,7 +9460,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Assustar.json", 
+"url":"feats/Assustar.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Pisotear",
@@ -5755,7 +9476,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Pisotear.json", 
+"url":"feats/Pisotear.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Investida Montada",
@@ -5771,7 +9492,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Investida_Montada.json", 
+"url":"feats/Investida_Montada.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Forma Selvagem Adicional",
@@ -5787,7 +9508,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Forma_Selvagem_Adicional.json", 
+"url":"feats/Forma_Selvagem_Adicional.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Foco em Perícia Épico",
@@ -5803,7 +9524,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Foco_em_Perícia_Épico.json", 
+"url":"feats/Foco_em_Perícia_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ajuda Aprimorada",
@@ -5819,7 +9540,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Ajuda_Aprimorada.json", 
+"url":"feats/Ajuda_Aprimorada.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Rastreador Lendário",
@@ -5835,7 +9556,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Rastreador_Lendário.json", 
+"url":"feats/Rastreador_Lendário.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque em Movimento",
@@ -5851,7 +9572,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_em_Movimento.json", 
+"url":"feats/Ataque_em_Movimento.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Acelerar Magia",
@@ -5867,7 +9588,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Acelerar_Magia.json", 
+"url":"feats/Acelerar_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio da Cura",
@@ -5883,7 +9604,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Cura.json", 
+"url":"feats/Domínio_da_Cura.markdown", 
 "livro":"Manual Básico"
 }
 , {
@@ -5900,7 +9621,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Regional",
-"url":"feats/Prosperidade.json", 
+"url":"feats/Prosperidade.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Anatomia Insana Total",
@@ -5916,7 +9637,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Anatomia_Insana_Total.json", 
+"url":"feats/Anatomia_Insana_Total.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Poder Embutido",
@@ -5932,7 +9653,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Poder_Embutido.json", 
+"url":"feats/Poder_Embutido.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Inspiração",
@@ -5948,7 +9669,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Inspiração.json", 
+"url":"feats/Inspiração.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Pele Blindada",
@@ -5964,7 +9685,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Pele_Blindada.json", 
+"url":"feats/Pele_Blindada.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Asas do Dragão",
@@ -5980,7 +9701,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Asas_do_Dragão.json", 
+"url":"feats/Asas_do_Dragão.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ginete Altivo",
@@ -5996,7 +9717,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Ginete_Altivo.json", 
+"url":"feats/Ginete_Altivo.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Recursos Recicláveis",
@@ -6012,7 +9733,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Recursos_Recicláveis.json", 
+"url":"feats/Recursos_Recicláveis.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Foco em Magia Épico",
@@ -6028,7 +9749,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Foco_em_Magia_Épico.json", 
+"url":"feats/Foco_em_Magia_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Foco em Habilidade",
@@ -6044,7 +9765,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Foco_em_Habilidade.json", 
+"url":"feats/Foco_em_Habilidade.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Prontidão",
@@ -6060,7 +9781,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Prontidão.json", 
+"url":"feats/Prontidão.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Tiro Montado",
@@ -6076,7 +9797,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Montado.json", 
+"url":"feats/Tiro_Montado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Corrida",
@@ -6092,7 +9813,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Corrida.json", 
+"url":"feats/Corrida.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Esquiva",
@@ -6108,7 +9829,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Esquiva.json", 
+"url":"feats/Esquiva.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mente Sobre o Corpo",
@@ -6124,7 +9845,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Mente_Sobre_o_Corpo.json", 
+"url":"feats/Mente_Sobre_o_Corpo.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Braquiação",
@@ -6140,7 +9861,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Braquiação.json", 
+"url":"feats/Braquiação.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Usar Escudos",
@@ -6156,7 +9877,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Escudos.json", 
+"url":"feats/Usar_Escudos.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Conjurar Arma",
@@ -6172,7 +9893,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Conjurar_Arma.json", 
+"url":"feats/Conjurar_Arma.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Fortitude Épica",
@@ -6188,7 +9909,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Fortitude_Épica.json", 
+"url":"feats/Fortitude_Épica.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Foco em Magia Aprimorado",
@@ -6204,7 +9925,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Foco_em_Magia_Aprimorado.json", 
+"url":"feats/Foco_em_Magia_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Chuva de Lâminas",
@@ -6220,7 +9941,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Chuva_de_Lâminas.json", 
+"url":"feats/Chuva_de_Lâminas.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Dedos Ágeis",
@@ -6236,7 +9957,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Dedos_Ágeis.json", 
+"url":"feats/Dedos_Ágeis.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Foco em Armadura",
@@ -6252,7 +9973,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Armadura.json", 
+"url":"feats/Foco_em_Armadura.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio do Terror",
@@ -6268,7 +9989,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Terror.json", 
+"url":"feats/Domínio_do_Terror.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ajuda dos Ancestrais",
@@ -6284,7 +10005,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Ajuda_dos_Ancestrais.json", 
+"url":"feats/Ajuda_dos_Ancestrais.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Impor Pureza",
@@ -6300,7 +10021,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Impor_Pureza.json", 
+"url":"feats/Impor_Pureza.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Fúria Leal",
@@ -6316,7 +10037,7 @@
 "eixoBM:":[],
 "eixoLC:":["Leal"],
 "tipo":"Regional",
-"url":"feats/Fúria_Leal.json", 
+"url":"feats/Fúria_Leal.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Aptidão Mágica",
@@ -6332,7 +10053,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Aptidão_Mágica.json", 
+"url":"feats/Aptidão_Mágica.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Companheiro Vegetal",
@@ -6348,7 +10069,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Companheiro_Vegetal.json", 
+"url":"feats/Companheiro_Vegetal.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Imolação",
@@ -6364,7 +10085,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Imolação.json", 
+"url":"feats/Imolação.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque Esmagador",
@@ -6380,7 +10101,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Esmagador.json", 
+"url":"feats/Ataque_Esmagador.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Dom da Profecia",
@@ -6396,7 +10117,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Dom_da_Profecia.json", 
+"url":"feats/Dom_da_Profecia.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Alma Livre",
@@ -6412,7 +10133,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Alma_Livre.json", 
+"url":"feats/Alma_Livre.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Alquimista Avarento",
@@ -6428,7 +10149,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Alquimista_Avarento.json", 
+"url":"feats/Alquimista_Avarento.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Acerto Crítico Aprimorado",
@@ -6444,7 +10165,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Acerto_Crítico_Aprimorado.json", 
+"url":"feats/Acerto_Crítico_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Alquimista Prodígio",
@@ -6460,7 +10181,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Alquimista_Prodígio.json", 
+"url":"feats/Alquimista_Prodígio.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Garras do Dragão",
@@ -6476,7 +10197,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Garras_do_Dragão.json", 
+"url":"feats/Garras_do_Dragão.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Foco em Toque",
@@ -6492,7 +10213,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Foco_em_Toque.json", 
+"url":"feats/Foco_em_Toque.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Filho das Trevas",
@@ -6508,7 +10229,7 @@
 "eixoBM:":["Maligno"],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Filho_das_Trevas.json", 
+"url":"feats/Filho_das_Trevas.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Potencializar Cura",
@@ -6524,7 +10245,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Potencializar_Cura.json", 
+"url":"feats/Potencializar_Cura.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Imunidade Contra Veneno",
@@ -6540,7 +10261,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Imunidade_Contra_Veneno.json", 
+"url":"feats/Imunidade_Contra_Veneno.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Desejo Extremo",
@@ -6556,7 +10277,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Desejo_Extremo.json", 
+"url":"feats/Desejo_Extremo.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Usar Arma Exótica",
@@ -6572,7 +10293,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Usar_Arma_Exótica.json", 
+"url":"feats/Usar_Arma_Exótica.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Reflexos de Combate",
@@ -6588,7 +10309,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Reflexos_de_Combate.json", 
+"url":"feats/Reflexos_de_Combate.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Incitar Fúria",
@@ -6604,7 +10325,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Incitar_Fúria.json", 
+"url":"feats/Incitar_Fúria.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ampliar Magia",
@@ -6620,7 +10341,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Ampliar_Magia.json", 
+"url":"feats/Ampliar_Magia.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Ataque Atordoante",
@@ -6636,7 +10357,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Atordoante.json", 
+"url":"feats/Ataque_Atordoante.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Empunhadura Poderosa",
@@ -6652,7 +10373,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Empunhadura_Poderosa.json", 
+"url":"feats/Empunhadura_Poderosa.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Artista das Armas",
@@ -6668,7 +10389,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Artista_das_Armas.json", 
+"url":"feats/Artista_das_Armas.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Magia Corrosiva",
@@ -6684,7 +10405,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Corrosiva.json", 
+"url":"feats/Magia_Corrosiva.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Domínio da Morte",
@@ -6700,7 +10421,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_da_Morte.json", 
+"url":"feats/Domínio_da_Morte.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Flecha Sublime",
@@ -6716,7 +10437,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Flecha_Sublime.json", 
+"url":"feats/Flecha_Sublime.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Negociador",
@@ -6732,7 +10453,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Negociador.json", 
+"url":"feats/Negociador.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Mobilidade Perfeita",
@@ -6748,7 +10469,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Mobilidade_Perfeita.json", 
+"url":"feats/Mobilidade_Perfeita.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Item Mágico Adicional",
@@ -6764,7 +10485,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Destino",
-"url":"feats/Item_Mágico_Adicional.json", 
+"url":"feats/Item_Mágico_Adicional.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Destruir o Mal Épico",
@@ -6780,7 +10501,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Destruir_o_Mal_Épico.json", 
+"url":"feats/Destruir_o_Mal_Épico.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Fintar Aprimorado",
@@ -6796,7 +10517,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Fintar_Aprimorado.json", 
+"url":"feats/Fintar_Aprimorado.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Sopro do Dragão",
@@ -6812,7 +10533,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Sopro_do_Dragão.json", 
+"url":"feats/Sopro_do_Dragão.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Cura sem Restrição",
@@ -6828,7 +10549,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Cura_sem_Restrição.json", 
+"url":"feats/Cura_sem_Restrição.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Duro de Ferir",
@@ -6844,7 +10565,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Duro_de_Ferir.json", 
+"url":"feats/Duro_de_Ferir.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Memória Racial",
@@ -6860,7 +10581,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Memória_Racial.json", 
+"url":"feats/Memória_Racial.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Tiro Múltiplo Aprimorado",
@@ -6876,7 +10597,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Múltiplo_Aprimorado.json", 
+"url":"feats/Tiro_Múltiplo_Aprimorado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Acrobático",
@@ -6892,7 +10613,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Perícia",
-"url":"feats/Acrobático.json", 
+"url":"feats/Acrobático.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Disfarce Ilusório",
@@ -6908,7 +10629,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Disfarce_Ilusório.json", 
+"url":"feats/Disfarce_Ilusório.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Membros Estendidos",
@@ -6924,7 +10645,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Tormenta",
-"url":"feats/Membros_Estendidos.json", 
+"url":"feats/Membros_Estendidos.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Flerte Estratégico",
@@ -6940,7 +10661,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Flerte_Estratégico.json", 
+"url":"feats/Flerte_Estratégico.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Ataque Poderoso Aprimorado",
@@ -6956,7 +10677,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Poderoso_Aprimorado.json", 
+"url":"feats/Ataque_Poderoso_Aprimorado.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Ventriloquismo",
@@ -6972,7 +10693,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Ventriloquismo.json", 
+"url":"feats/Ventriloquismo.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Faro Aprimorado",
@@ -6988,7 +10709,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Faro_Aprimorado.json", 
+"url":"feats/Faro_Aprimorado.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Tiro Certeiro",
@@ -7004,7 +10725,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Tiro_Certeiro.json", 
+"url":"feats/Tiro_Certeiro.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Magia Eletrizante",
@@ -7020,7 +10741,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Eletrizante.json", 
+"url":"feats/Magia_Eletrizante.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Escudo Heroico",
@@ -7036,7 +10757,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Escudo_Heroico.json", 
+"url":"feats/Escudo_Heroico.markdown", 
 "livro":"Manual de Combate"
 }, {
 "nome":"Enfeitiçar Trolls",
@@ -7052,7 +10773,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Enfeitiçar_Trolls.json", 
+"url":"feats/Enfeitiçar_Trolls.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Mestre de Cerimônia",
@@ -7068,7 +10789,7 @@
 "eixoBM:":["Maligno"],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Mestre_de_Cerimônia.json", 
+"url":"feats/Mestre_de_Cerimônia.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Cauda Ágil",
@@ -7084,7 +10805,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Racial",
-"url":"feats/Cauda_Ágil.json", 
+"url":"feats/Cauda_Ágil.markdown", 
 "livro":"Manual das Raças"
 }, {
 "nome":"Magia Congelante",
@@ -7100,7 +10821,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Magia",
-"url":"feats/Magia_Congelante.json", 
+"url":"feats/Magia_Congelante.markdown", 
 "livro":"Manual do Arcano"
 }, {
 "nome":"Arma Sagrada",
@@ -7116,7 +10837,7 @@
 "eixoBM:":["Bondoso"],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Arma_Sagrada.json", 
+"url":"feats/Arma_Sagrada.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Ataque Giratório Aprimorado",
@@ -7132,7 +10853,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Ataque_Giratório_Aprimorado.json", 
+"url":"feats/Ataque_Giratório_Aprimorado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Mobilidade",
@@ -7148,7 +10869,7 @@
 "eixoLC":[], 
 "deuses":[],
 "tipo":"Combate",
-"url":"feats/Mobilidade.json", 
+"url":"feats/Mobilidade.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Domínio do Mal",
@@ -7164,7 +10885,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Domínio_do_Mal.json", 
+"url":"feats/Domínio_do_Mal.markdown", 
 "livro":"Manual Básico"
 }, {
 "nome":"Golpe Afiado",
@@ -7180,7 +10901,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Golpe_Afiado.json", 
+"url":"feats/Golpe_Afiado.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Recarga Instantânea",
@@ -7196,7 +10917,7 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Combate",
-"url":"feats/Recarga_Instantânea.json", 
+"url":"feats/Recarga_Instantânea.markdown", 
 "livro":"Guia da Trilogia"
 }, {
 "nome":"Dom da Fênix",
@@ -7212,6 +10933,6 @@
 "eixoBM:":[],
 "eixoLC:":[],
 "tipo":"Poderes Concedidos",
-"url":"feats/Dom_da_Fênix.json", 
+"url":"feats/Dom_da_Fênix.markdown", 
 "livro":"Guia da Trilogia"
 }]}

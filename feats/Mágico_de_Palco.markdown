@@ -1,0 +1,7 @@
+**Titulo**:Mágico de Palco
+
+**Talento de Magia**
+
+**Manual do Arcano**
+
+ Você usa a sua magia para divertir e impressionar. Pré-requisito: capacidade de lançar magias arcanas. Benefício: sempre que lançar uma magia arcana você pode escolher diminuir seu dano, alcance ou duração em um ou mais passos. No caso de dano, cada "passo" equivale a um dado. No caso de alcance cada passo diminui o alcance pela metade, até o mínimo de 1,5m. No caso de duração, cada passo diminui a duração de 1 dia ou mais para 1 hora, então para 1 minuto, então para 1 rodada (mínimo). Sacrificando esses parâmetros, você cria efeitos mais vistosos e espetaculares. Cada passo diminuido desta forma concede um bônus de +1 em seu próximo teste de perícia baseada em carisma com qualquer um que tenha visto você lançar a magia. Por exemplo, você lança bola de fogo com dano de 2d6(-4d6) e alcance de 15m (metade do normal). Na rodada seguinte, faz um teste de intimidação contra aqueles que viram sua bola de fogo modificada e recebe um bônus de +5 (+4 pelo dano diminuido, +1 pelo alcance diminuido). Obviamente, parâmetros que já estejam no limite mínimo ou que não se apliquem (no caso de magias que não causem dano, tenham alcance pessoal ou duração de 1 rodada ou menos) não podem ser diminuídos ainda mais
