@@ -51,25 +51,6 @@ def make_json(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixo
 			 }
 	return texto
 
-	# texto = "{\n"
-	# texto += '"nome":"' + str(nome) + '",\n'
-	# texto += '"forMin":' + evaluate(mfor) + ',\n'
-	# texto += '"desMin":' + evaluate(mdes) + ',\n'
-	# texto += '"conMin":' + evaluate(mcon) + ',\n'
-	# texto += '"intMin":' + evaluate(mint) + ',\n'
-	# texto += '"sabMin":' + evaluate(msab) + ',\n'
-	# texto += '"carMin":' + evaluate(mcar) + ',\n'
-	# texto += '"bbaMin":' + evaluate(mbba) + ',\n'
-	# texto += '"nivMin":' + evaluate(mniv) + ',\n'
-	# texto += '"deuses":' + correct(deuses) + ',\n'
-	# texto += '"eixoBM:":' + correct(eixoBM) + ',\n'
-	# texto += '"eixoLC:":' + correct(eixoLC) + ',\n'
-	# texto += '"url":"' + normaliza(nome) + '.json", \n'
-	# texto += '"tipo":"' + tipo + '",\n'
-	# texto += '"livro":"' + livro + '"\n'
-	# texto += '}'
-	# return texto
-
 def markdown(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixoBM, eixoLC, tipo, livro, descr):
 	texto = "**Titulo**:" + nome + "\n\n"
 	texto += "**Talento de " + tipo + "**" + "\n\n"
@@ -90,12 +71,9 @@ def generateJSON(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, e
 	createDirectory(dirName)
 	newNome = normaliza(nome)
 	fileName = dirName + newNome + ".json"
-	# saveFile = open(path+newNome+".json", 'w')
 	jsonData = make_json(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixoBM, eixoLC, tipo, livro)
 	with open(fileName, "w") as fp:
 		json.dump(jsonData, fp)
-	# saveFile.write(texto)
-	# saveFile.close()
 	
 def createDirectory(dirName):
 	if not os.path.exists(dirName):
@@ -103,7 +81,6 @@ def createDirectory(dirName):
 
 def generate(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixoBM, eixoLC, tipo, livro, descr):
 	generateJSON(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixoBM, eixoLC, tipo, livro)
-	# generateMD(nome, mfor, mdes, mcon, mint, msab, mcar, mbba, mniv, deuses, eixoBM, eixoLC, tipo, livro, descr)
 
 livro = raw_input("Qual o livro usado como fonte? ")
 while True:
@@ -133,7 +110,6 @@ while True:
 			descr += " " + entrada
 		
 		generate(nome, min_for, min_des, min_con, min_int, min_sab, min_car, bba_min, niv_min, deuses, eixoBM, eixoLC, tipo_talento, livro, descr)
-		break
 
 	cont = raw_input("Deseja continuar adicionando talentos do livro %s? s/n" % livro)
 	if (cont == "n"):
